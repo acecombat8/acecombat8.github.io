@@ -1,0 +1,264 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Ace Combat 8 Wiki: Missions, Best Planes & MRP Guide",
+  "description": "Ace Combat 8: Wings of Theve guide with mission walkthroughs, S Rank tips, best planes, MRP farming, and a campaign mission hub.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Independent fan guide",
+    "heading": "Ace Combat 8 Wiki & Guide",
+    "lead": "ACE COMBAT 8: WINGS OF THEVE is available on PlayStation 5, Xbox Series X|S and PC via Steam. Find focused mission walkthroughs, plan an aircraft purchase and build more consistent replays.",
+    "supportingText": "Choose the guide for the problem in front of you: ship identification, fleet defense, an S Rank attempt or a better MRP farming loop.",
+    "primaryLink": {
+      "slug": "missions",
+      "label": "Start with Mission List"
+    },
+    "secondaryLink": {
+      "label": "Official game site",
+      "url": "https://www.bandainamcoent.com/games/ace-combat-8"
+    },
+    "quickLinks": [
+      {
+        "slug": "mission-28-s-rank",
+        "label": "Mission 28 S Rank"
+      },
+      {
+        "slug": "best-planes",
+        "label": "Best Planes"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "facts",
+      "heading": "Ace Combat 8: Quick Game Facts",
+      "paragraphs": [
+        "This independent guide covers Wings of Theve, the flight-shooting game from Bandai Namco Aces. Use the facts below to confirm that you are reading about the right title and platform. For edition availability, downloads and publisher announcements, follow the official game site rather than treating a fan walkthrough as a storefront.",
+        "The site focuses on practical campaign decisions: understanding the objective, choosing useful equipment and making the next attempt more reliable. Online progression is a separate consideration. If the purchase you want is in ACE COMBAT ONLINE, check that mode\u2019s requirements before building a campaign farming plan."
+      ],
+      "table": {
+        "caption": "Official game information",
+        "columns": [
+          "Field",
+          "Details"
+        ],
+        "rows": [
+          [
+            "Full title",
+            "ACE COMBAT 8: WINGS OF THEVE"
+          ],
+          [
+            "Release",
+            "October 2, 2026"
+          ],
+          [
+            "Deluxe early access",
+            "September 29, 2026"
+          ],
+          [
+            "Platforms",
+            "PlayStation 5; Xbox Series X|S; PC (Steam)"
+          ],
+          [
+            "Developer",
+            "Bandai Namco Aces Inc."
+          ],
+          [
+            "Co-developer",
+            "Bandai Namco Studios Inc."
+          ],
+          [
+            "Genre",
+            "Flight shooting"
+          ],
+          [
+            "Modes",
+            "Story campaign and multiplayer"
+          ]
+        ]
+      },
+      "externalLinks": [
+        {
+          "label": "Official game information",
+          "url": "https://www.bandainamcoent.com/games/ace-combat-8"
+        },
+        {
+          "label": "Developer product listing",
+          "url": "https://www.bandainamcostudios.com/en/products/ace-combat-8-wings-of-theve.html"
+        }
+      ]
+    },
+    {
+      "id": "walkthroughs",
+      "heading": "Ace Combat 8 Mission Walkthroughs",
+      "paragraphs": [
+        "Choose a walkthrough by the actual mission number on your selection screen. Each guide addresses a different type of obstacle and starts with a short route you can use immediately. Read the phase breakdown when the quick answer is not enough, then use the troubleshooting section to decide what to change on the next attempt.",
+        "A walkthrough is most useful when it explains the decision behind an attack. Knowing why a target matters helps you recover if your position differs from another player\u2019s run. Keep the active objective visible, read new orders and use a guide as a route through the problem rather than a reason to ignore what the game is currently asking."
+      ],
+      "subsections": [
+        {
+          "heading": "Mission 16: recognize the target",
+          "paragraphs": [
+            "Use the Singer guide when the shipping search is the obstacle. It explains the visual check for hostile container ships and the switch to the UAV threat. Separate recognition from firing so an uncertain target does not become an expensive mistake."
+          ]
+        },
+        {
+          "heading": "Mission 26: keep the right priority",
+          "paragraphs": [
+            "Use the Crossing Fleets guide to plan the opening battle and prepare for the later objective transition. A useful attack must support the present mission goal, especially when fleet safety competes with an easy score opportunity."
+          ]
+        },
+        {
+          "heading": "Mission 28: make the replay repeatable",
+          "paragraphs": [
+            "Use the S Rank guide to organize bomber interception, rearming and the final aerial engagement. A stable route gives you something meaningful to improve after a completed result, instead of changing the entire setup after every attempt."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "mission-16",
+          "label": "Mission 16 Walkthrough"
+        },
+        {
+          "slug": "mission-26",
+          "label": "Mission 26 Walkthrough"
+        },
+        {
+          "slug": "mission-28-s-rank",
+          "label": "Mission 28 S Rank"
+        },
+        {
+          "slug": "missions",
+          "label": "Mission Directory"
+        }
+      ]
+    },
+    {
+      "id": "aircraft",
+      "heading": "Aircraft & Loadout Planning",
+      "paragraphs": [
+        "Choose your aircraft around the next job. A fighter, attacker or multirole classification is a useful starting point, but inspect the actual weapons your aircraft supports. A familiar plane with an appropriate loadout can be more useful than a new purchase that leaves an important phase uncovered. Check any selection restriction displayed by the mission before you spend.",
+        "For an early budget, start with owned equipment and identify the smallest change that solves a repeated problem. For a longer-term goal, trace the full Aircraft Tree route and add the prices of unowned required nodes. Keep optional branches separate. That makes the real gap visible and helps you avoid farming for the final aircraft price while overlooking the purchases needed to reach it.",
+        "The Best Planes guide compares aircraft by role rather than promising a universal tier winner. Use its shortlist to frame a test: select one familiar mission, keep the difficulty steady and compare the complete operation with each setup. An upgrade earns its place when it makes a real task more reliable."
+      ],
+      "links": [
+        {
+          "slug": "best-planes",
+          "label": "Compare Best Planes and Loadouts",
+          "description": "Role-based choices, owned alternatives and purchase planning."
+        }
+      ]
+    },
+    {
+      "id": "earning",
+      "heading": "How to Earn MRP Efficiently",
+      "paragraphs": [
+        "Start with a destination purchase, then choose a replay you can finish consistently. Record the campaign currency actually earned and time the full repeat loop, including selection, loading, results and failures. Divide the total banked MRP by the total minutes. This method lets a modest but reliable route compete fairly with a longer mission that advertises a large payout.",
+        "Do not confuse currency with the score needed for an objective or the grade awarded after a sortie. Each number has a different use. A good farming log includes the route, difficulty, equipment, elapsed time and earned currency. Compare several attempts before calling one route better, then repeat the comparison after a meaningful loadout change.",
+        "Grinding should serve a decision. Once the intended purchase is affordable, return to the campaign or the replay goal that motivated it. Buying broadly across unrelated branches can turn an otherwise useful farm into a cycle of never reaching the aircraft you wanted."
+      ],
+      "links": [
+        {
+          "slug": "mrp-farming",
+          "label": "Build an MRP Farming Loop",
+          "description": "Compare complete-run efficiency and plan a destination budget."
+        }
+      ]
+    },
+    {
+      "id": "ranks",
+      "heading": "S Rank, Replays & Mission Planning",
+      "paragraphs": [
+        "Treat a first clear and a rank attempt as different stages of learning. First understand what the mission protects, what completes it and when the objective changes. Then improve the parts of that route that lose time or leave threats unresolved. A finished run gives you a debrief to study; repeated restarts can leave you without that comparison.",
+        "Keep a brief record of the displayed score, time and grade. Name one change for the next attempt and preserve the rest of the setup. If the new result improves consistently, keep the change. If it does not, return to the previous setup and test a different explanation. This makes replay practice purposeful without inventing a rank formula.",
+        "For Mission 28, that process means looking separately at base defense, ammunition management and the final encounter. For other sorties, the decisive issue may be recognizing a target or responding to a protection warning. Match the replay goal to the actual source of difficulty."
+      ],
+      "links": [
+        {
+          "slug": "mission-28-s-rank",
+          "label": "Plan a Mission 28 S Rank Attempt"
+        }
+      ]
+    },
+    {
+      "id": "new-pilot",
+      "heading": "New Pilot Guide",
+      "paragraphs": [
+        "Before your first difficult sortie, make sure you understand the controls shown in the game for target selection, acceleration, braking, weapon switching and defensive countermeasures. Practice changing targets without losing track of the objective. The best control setup is one you can use deliberately while reading the radar, not one you selected only because a more experienced player prefers it.",
+        "During combat, give every attack an exit. If a close pass leaves you unable to turn safely or respond to a warning, widen the approach. Launch from a usable angle, verify what the attack accomplished and move on with a purpose. A missed missile is a reason to improve the next firing opportunity, not necessarily to empty the remaining inventory.",
+        "When an attempt fails, identify the category of failure. Wrong target selection needs a better decision; lost allies need faster objective response; an uncovered target type needs another loadout; collisions or missed passes need better execution. Making that distinction protects both your MRP budget and your practice time.",
+        "Choose a difficulty that lets you learn the objective sequence. Once the route is reliable, decide whether a harder setting fits your current goal. Do not change difficulty, aircraft and weapons together if you want to understand which adjustment helped."
+      ]
+    },
+    {
+      "id": "explore",
+      "heading": "Explore the Guide",
+      "paragraphs": [
+        "Use the mission directory as the central reference when moving between sorties. Open the aircraft guide when preparing a loadout, and the MRP guide when a specific purchase requires more campaign currency. The three detailed mission pages are meant for the moment you encounter their particular objective or return for a cleaner replay.",
+        "You can reach every guide from the navigation and footer as well as the links below. These pages cover a focused set of practical questions; choose the one that matches the obstacle you are solving and follow its related links when the next decision changes from flying to buying or replaying."
+      ],
+      "links": [
+        {
+          "slug": "missions",
+          "label": "Missions & Walkthroughs",
+          "description": "Find the three covered campaign missions and plan the next sortie."
+        },
+        {
+          "slug": "mission-16",
+          "label": "Mission 16",
+          "description": "Ship identification and the UAV objective transition."
+        },
+        {
+          "slug": "mission-26",
+          "label": "Mission 26",
+          "description": "Opening battle priorities and the later encounter."
+        },
+        {
+          "slug": "mission-28-s-rank",
+          "label": "Mission 28 S Rank",
+          "description": "Bomber defense, rearming and replay improvement."
+        },
+        {
+          "slug": "best-planes",
+          "label": "Best Planes",
+          "description": "Role-based aircraft comparisons and buying choices."
+        },
+        {
+          "slug": "mrp-farming",
+          "label": "MRP Farming",
+          "description": "A repeatable method for measuring currency efficiency."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "When did Ace Combat 8 release?",
+      "answer": "ACE COMBAT 8: WINGS OF THEVE released on October 2, 2026, with Deluxe early access from September 29."
+    },
+    {
+      "question": "Which platforms is it on?",
+      "answer": "PlayStation 5, Xbox Series X|S and PC via Steam."
+    },
+    {
+      "question": "Which mission walkthroughs are available here?",
+      "answer": "This guide covers Mission 16, Mission 26 and Mission 28 S Rank, with a mission directory linking all three."
+    },
+    {
+      "question": "How should I farm MRP?",
+      "answer": "Choose a reliable replay and compare banked currency per complete-loop minute, including retries. Build the farm around a specific purchase."
+    },
+    {
+      "question": "How do I choose an aircraft?",
+      "answer": "Match the mission\u2019s targets and restrictions, inspect supported weapons and budget the full prerequisite route before buying."
+    },
+    {
+      "question": "Is this an official Ace Combat website?",
+      "answer": "No. This is an independent fan guide, unaffiliated with Bandai Namco, the developers or platform owners. Use the linked publisher pages for official information."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-10-11"
+}

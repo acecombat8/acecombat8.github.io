@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+release/
+/output/
+*.log
+/.codex/
+/.agents/
+/.aws/
