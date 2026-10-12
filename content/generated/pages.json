@@ -1,0 +1,1360 @@
+[
+  {
+    "enabled": true,
+    "slug": "mission-28-s-rank",
+    "pageType": "guide",
+    "navLabel": "Mission 28 S Rank",
+    "title": "Ace Combat 8 Mission 28 S Rank Walkthrough",
+    "description": "Ace Combat 8 Mission 28 S Rank guide: objectives, loadout planning, attack priorities, replay checklist, and common mistakes to avoid.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 28 S Rank Guide",
+      "lead": "Protect Cima Island by intercepting bombers, use the island airstrip to replenish ammunition, then prepare for the final Shadow Squadron engagement. Build your S Rank attempt around a repeatable clear and compare the results screen after each replay.",
+      "quickRoute": [
+        "Intercept bombers threatening the base before chasing escorts.",
+        "Rearm during a safe opening and keep checking approaching formations.",
+        "Finish the aerial battle, then resolve the final dogfight with deliberate shots."
+      ],
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "Open mission hub"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "quick-strategy",
+        "heading": "Mission 28 Quick Strategy",
+        "paragraphs": [
+          "A Thousand Points of Light is an air-defense mission. The useful planning distinction is between enemies that threaten the defended base and enemies that distract you from that job. A fighter behind you can demand an evasive maneuver without becoming the next target you must chase across the map. Keep returning your attention to the objective after defending yourself.",
+          "For a first clear, learn how the battle develops before adding rank ambitions. For a replay, decide which part of your previous attempt needs improvement. A missed bomber, an unnecessary journey to rearm, and a drawn-out dogfight need different fixes. Buying another aircraft before identifying that problem can leave the same inefficient route intact."
+        ],
+        "table": {
+          "caption": "Decisions for an air-defense replay",
+          "columns": [
+            "Situation",
+            "Priority",
+            "What to monitor"
+          ],
+          "rows": [
+            [
+              "Bombers approach the island",
+              "Intercept the immediate threat",
+              "Objective messages and bomber movement"
+            ],
+            [
+              "Ammunition becomes scarce",
+              "Plan a safe return to the airstrip",
+              "Remaining weapons and nearby threats"
+            ],
+            [
+              "Final aerial engagement",
+              "Use an accurate firing opportunity",
+              "Spacing, missile lock and escape room"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Plane and Special Weapons",
+        "paragraphs": [
+          "Choose an air-to-air loadout you can fly accurately through both interception and close combat. An aircraft that makes the early formations easy can still be awkward in the final encounter. Start with a familiar fighter or multirole jet and inspect its special-weapon choices in the hangar. Surface attack equipment contributes little to an operation dominated by aircraft.",
+          "Think of your weapon budget as a plan for separate jobs. Multi-target air weapons are an option for formations; a focused air weapon or gun pass serves a different purpose against an evasive opponent. Confirm that your own aircraft supports the desired option before purchasing anything. Good guidance cannot rescue a shot fired from a poor angle, and ammunition capacity cannot compensate for repeated misses."
+        ],
+        "table": {
+          "caption": "Loadout decision matrix",
+          "columns": [
+            "Need",
+            "Consider",
+            "Tradeoff"
+          ],
+          "rows": [
+            [
+              "Formation interception",
+              "Available multi-target air weapon",
+              "Several locks require a usable approach"
+            ],
+            [
+              "Evasive fighter",
+              "Single-target air weapon plus gun practice",
+              "Accuracy matters more than firing continuously"
+            ],
+            [
+              "Long sortie",
+              "Ammunition and handling choices",
+              "Plan around rearming rather than endless capacity"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Compare aircraft by role"
+          }
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Mission 28 Step-by-Step Walkthrough",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Opening: defend the base",
+            "paragraphs": [
+              "Make the incoming bomber force your first concern. Choose an intercept that lets you arrive ahead of the threat instead of following it toward the base. After attacking, check whether the selected aircraft was destroyed before moving on. A damaged bomber remains an objective risk. Do not mistake a missile impact for a completed interception."
+            ]
+          },
+          {
+            "heading": "Continuing battle: manage weapons and rearm",
+            "paragraphs": [
+              "Reinforcements make situational awareness more valuable than a rigid memorized compass direction. Read the radar after each engagement and identify which bomber group needs attention next. The Cima Island airstrip provides a rearming opportunity. Use it while the defense is stable; avoid waiting until an urgent interception begins with an empty weapon inventory."
+            ]
+          },
+          {
+            "heading": "Final encounter: settle the dogfight",
+            "paragraphs": [
+              "The late Shadow Squadron encounter changes the task from formation management to fighting evasive aircraft. Stop treating every lock as a firing opportunity. Reposition, build a controlled approach and use the gun when tracking is steady. If a target breaks sharply, recover your position before committing another shot. The final engagement deserves ammunition and concentration saved from the earlier battle."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rank",
+        "heading": "How to Improve Your S Rank Attempt",
+        "paragraphs": [
+          "Use the debrief to compare completed runs on the same difficulty and game version. Record the displayed score, completion time and rank; do not substitute the opening objective quota for an S Rank cutoff. Those are different questions. A successful mission proves that the objective was completed, while an S result is a separate replay goal.",
+          "Choose one change for the next attempt. If the defense broke down, improve interception first. If the route was safe but slow, identify unnecessary travel or the encounter that consumed the most time. If many missiles missed, try better launch angles before increasing difficulty. Keeping the other settings consistent makes the comparison useful rather than leaving you to guess why the result changed."
+        ],
+        "subsections": [
+          {
+            "heading": "Repeatable Replay Checklist",
+            "paragraphs": [
+              "Before launch, write down the aircraft, weapon setup and one improvement you want to test. During the run, protect the base, verify kills and rearm with a purpose. After completion, save the result and note the phase that cost the most time. Repeat the same setup until the change produces a stable improvement. A checklist is useful only if it remains short enough to follow under pressure."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Common Mission 28 Failure Points",
+        "paragraphs": [
+          "When the base takes damage while you are busy with fighters, the problem is target selection. Break away and recheck the bomber approach. When you run out of ammunition, the problem may be missed shots or a late rearm decision. When the final fight drags on, repeated firing from a bad position can make the problem worse rather than solve it.",
+          "Give yourself room to recover from every attack. A close pass is worthwhile only when you can leave it without a collision or a prolonged defensive scramble. Keep a practical distinction between evading a threat and following that threat. Your route should return to the defended objective after the immediate danger passes."
+        ]
+      },
+      {
+        "id": "mrp",
+        "heading": "Mission 28 and MRP Farming",
+        "paragraphs": [
+          "A long aerial battle can produce a substantial results screen without being your most efficient currency route. Include selection, loading, rearming, final combat and any failures when comparing a replay. A shorter mission you finish consistently may serve a purchase goal better. Keep rank practice and earning efficiency as separate measurements, even when one sortie advances both.",
+          "Once the route is comfortable, compare several full attempts rather than the best single payout. If you are still learning the final encounter, treat that time as practice. It is useful progress, but it should not disappear from a farming calculation."
+        ],
+        "links": [
+          {
+            "slug": "mrp-farming",
+            "label": "Measure your MRP farming loop"
+          }
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [
+          "Source attribution: Mission-specific objectives, the rearming opportunity and the final engagement are based on TPose Gaming's Mission 28 walkthrough."
+        ],
+        "externalLinks": [
+          {
+            "label": "Publisher aircraft selection and combat overview",
+            "url": "https://www.bandainamcoent.com/games/ace-combat-8/walkthrough"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I attack first in Mission 28?",
+        "answer": "Intercept bombers threatening Cima Island. Deal with escorts when they obstruct the defense or the objective changes."
+      },
+      {
+        "question": "What score guarantees S Rank?",
+        "answer": "Compare the rank, time and score displayed after your completed replay. This guide does not prescribe a fixed cutoff or equate the mission objective quota with S Rank."
+      },
+      {
+        "question": "Can I replenish ammunition?",
+        "answer": "The mission provides rearming at the Cima Island airstrip. Plan the return around the current bomber threat."
+      },
+      {
+        "question": "Which aircraft should I use?",
+        "answer": "Choose a controllable air-to-air aircraft whose available weapons cover formations and evasive fighters. Check its actual hangar options."
+      },
+      {
+        "question": "Should I farm MRP while learning the final fight?",
+        "answer": "Learning is useful, but count every attempt and its full duration when measuring earnings. Compare it with a reliable shorter replay."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "mrp-farming",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-10-11",
+    "parentSlug": "missions"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-16",
+    "pageType": "guide",
+    "navLabel": "Mission 16",
+    "title": "Ace Combat 8 Mission 16 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 16 walkthrough with objective order, ship identification, UAV phase tips, recommended loadouts, and mission fixes.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 16 Walkthrough",
+      "lead": "Mission 16, Singer, asks you to identify hostile container ships among civilian traffic. Look for the combination of three cranes and a sun emblem, attack confirmed targets, and switch to the climbing Explosive UAVs if they launch.",
+      "quickRoute": [
+        "Inspect the shipping area before firing at an unconfirmed vessel.",
+        "Identify the crane arrangement and sun marking together.",
+        "If Explosive UAVs launch, intercept the highest threats first."
+      ],
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "Open mission hub"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "objectives",
+        "heading": "Mission 16 Objectives at a Glance",
+        "paragraphs": [
+          "This sortie is an identification problem before it becomes a weapons problem. Ships in view are not automatically authorized targets. Slow the decision down enough to inspect the relevant vessel and then make a deliberate attack. A quick missile launch at the wrong ship is less useful than a slightly longer approach that gives you a clear visual check.",
+          "The later UAV threat changes that rhythm. Once drones are climbing, continuing the ship search can consume the time you need for interception. Read the new objective as soon as it appears. Your earlier surface-target plan must yield to the active aerial threat rather than continuing simply because it was the plan at launch."
+        ],
+        "table": {
+          "caption": "Singer objective sequence",
+          "columns": [
+            "Part of the sortie",
+            "Task",
+            "Avoid"
+          ],
+          "rows": [
+            [
+              "Shipping search",
+              "Visually identify the hostile vessels",
+              "Treating every container ship as hostile"
+            ],
+            [
+              "Confirmed surface attack",
+              "Engage the positively identified targets",
+              "Firing while the visual cue is still ambiguous"
+            ],
+            [
+              "UAV launch, if it occurs",
+              "Intercept the climbing drones",
+              "Remaining occupied with surface cleanup"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "equipment",
+        "heading": "Best Aircraft and Weapons for Mission 16",
+        "paragraphs": [
+          "Prepare for both surface targets and a possible air interception phase. A familiar multirole aircraft is a reasonable starting point because the decision requires more than raw anti-ship firepower. You need enough control to inspect a vessel and enough aerial capability to respond promptly after an objective change. Select weapons after checking the exact options in your current hangar.",
+          "A multi-target air weapon can help when several drones are available to engage from one approach. It does not remove the need to acquire sensible locks. Avoid committing your entire weapon selection to ships and then discovering that the airborne threat requires repeated standard-missile passes. Conversely, a costly aircraft upgrade is unnecessary if your current setup can perform both jobs reliably."
+        ],
+        "table": {
+          "caption": "Two jobs, one practical loadout",
+          "columns": [
+            "Job",
+            "Useful capability",
+            "Selection question"
+          ],
+          "rows": [
+            [
+              "Ship inspection",
+              "Predictable low-speed handling",
+              "Can I see the markings without losing control?"
+            ],
+            [
+              "Surface attack",
+              "An adequate weapon already available",
+              "Can I destroy the identified target cleanly?"
+            ],
+            [
+              "UAV interception",
+              "Air-to-air capability and responsive handling",
+              "Can I change altitude and engage without delay?"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Find an aircraft for mixed objectives"
+          }
+        ]
+      },
+      {
+        "id": "phases",
+        "heading": "Mission 16 Walkthrough: Phase by Phase",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Locate and inspect the container ships",
+            "paragraphs": [
+              "Enter the shipping area and make a pass that gives you a clear view of each candidate. Inspect one vessel at a time. Keep the crane arrangement and emblem in mind together; recognizing only one feature is a reason to look again. Avoid trying to count details while also forcing a very steep attack angle. A clean inspection pass makes the following engagement easier."
+            ]
+          },
+          {
+            "heading": "Commit to the confirmed targets",
+            "paragraphs": [
+              "Once the visual identification is clear, line up the attack and keep track of which ship you have engaged. Make the distinction between a vessel you inspected, a vessel you damaged and a vessel you destroyed. That prevents repeated passes over a completed target while another candidate remains unresolved. After the attack, check the current objective instead of assuming that a weapon impact ended the stage."
+            ]
+          },
+          {
+            "heading": "React to the UAV objective",
+            "paragraphs": [
+              "If the Explosive UAV phase begins, climb and prioritize drones that are already highest. Their movement toward the Space Elevator is the urgent problem. Use the radar to choose your next interception and keep scanning after each kill. Do not keep circling the shipping lane out of habit when the objective has moved into the air."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "identification",
+        "heading": "How to Find the Correct Targets",
+        "paragraphs": [
+          "The visual cue is the combination of three cranes and a sun emblem. Plan an approach that allows both to be inspected. If the emblem is hidden by your angle, turn for another view rather than interpreting an unclear shape as confirmation. This is particularly helpful when several similar vessels occupy the same scene and you are tempted to use position alone.",
+          "A useful mental record has three states: unchecked, confirmed and cleared. Move a ship between those states only after the relevant action. You do not need an invented coordinate list to apply this method. You need to avoid letting a familiar-looking silhouette become a substitute for the identification task the mission presents."
+        ]
+      },
+      {
+        "id": "fixes",
+        "heading": "Common Mistakes and Fixes",
+        "paragraphs": [
+          "If every container ship looks the same, separate inspection from attack. Give yourself a stable view before selecting a weapon. If you lose track of your target, return to the identification cue instead of firing at the nearest vessel. If the UAVs get ahead of you, the next replay should improve the transition between jobs before making the ship phase faster.",
+          "A loadout mismatch can resemble an aiming problem. When you consistently need too many aerial passes, inspect your air weapon options and test one adjustment. When you struggle to see a ship marking, aircraft handling and approach angle deserve attention before firepower. Buy a specific solution to a repeated difficulty rather than spending MRP on a general impression that your plane is weak."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay and Rank Tips",
+        "paragraphs": [
+          "During your first successful run, learn the visual check and the objective transition. During a rank replay, reduce repeated inspection passes without skipping confirmation. Save the results screen and note whether your delay came from searching, attacking or climbing to intercept. That gives the next attempt a concrete purpose.",
+          "Keep the same difficulty while comparing changes. There is no reason to interpret a different result as proof that a new aircraft helped when several other settings also changed. For currency planning, include the complete repeat loop and failed attempts. A short successful sortie can be useful, but the rate comes from your recorded rewards and elapsed time."
+        ],
+        "links": [
+          {
+            "slug": "mrp-farming",
+            "label": "Compare a complete farming loop"
+          }
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [
+          "Source attribution: Mission-specific objectives, ship-identification cues and the UAV phase are based on TPose Gaming's Mission 16 walkthrough."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 16 called?",
+        "answer": "Mission 16 is Singer."
+      },
+      {
+        "question": "How do I identify the hostile ships?",
+        "answer": "Look for three cranes together with a sun emblem. Use a clear visual approach and confirm both details before attacking."
+      },
+      {
+        "question": "What should I do when the UAVs launch?",
+        "answer": "Switch to aerial interception and prioritize the drones already highest as they climb toward the Space Elevator."
+      },
+      {
+        "question": "Do I need a dedicated anti-ship aircraft?",
+        "answer": "Choose a loadout that can deal with confirmed surface targets and respond to the UAV phase. A practical multirole setup can cover both jobs."
+      },
+      {
+        "question": "How can I make a replay cleaner?",
+        "answer": "Reduce unnecessary inspection passes, track cleared ships and improve the transition to the aerial objective. Compare completed runs on the same difficulty."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "best-planes",
+      "mrp-farming"
+    ],
+    "lastReviewed": "2026-10-11",
+    "parentSlug": "missions"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-26",
+    "pageType": "guide",
+    "navLabel": "Mission 26",
+    "title": "Ace Combat 8 Mission 26 Walkthrough & Loadout",
+    "description": "Ace Combat 8 Mission 26 guide with objective priorities, fleet-defense tactics, aircraft loadouts, combat phases, and troubleshooting tips.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 26 Walkthrough",
+      "lead": "Mission 26, Crossing Fleets, combines the opening fleet battle with a later high-altitude encounter. Clear priority threats while protecting allied vessels, keep an air-capable loadout ready, and follow the changed objective through the scripted encounter and return sequence.",
+      "quickRoute": [
+        "Build the required objective score while responding to fleet danger.",
+        "Recheck the radar and current orders after every attack pass.",
+        "Switch to the high-altitude encounter when ordered, then follow the return objective."
+      ],
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "Open mission hub"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "objectives",
+        "heading": "Mission 26 Quick Answer and Objectives",
+        "paragraphs": [
+          "Approach the opening as a battle you must manage, rather than a list of targets you can finish in any order. The mission combines scoring with keeping the allied force safe. An attractive surface target can wait when an incoming threat demands intervention. Your next attack should come from the present objective state, not simply from whichever enemy is already selected.",
+          "The later aerial encounter is a separate planning concern. Save enough attention and aircraft capability for the change. Clearing the opening does not mean you can ignore the next instruction or continue farming unrelated targets. Listen for the objective transition, locate the new threat and adjust your approach before firing."
+        ],
+        "table": {
+          "caption": "Crossing Fleets planning card",
+          "columns": [
+            "Stage",
+            "Main concern",
+            "Useful preparation"
+          ],
+          "rows": [
+            [
+              "Opening battle",
+              "Score progress and allied fleet safety",
+              "Surface attack with air-to-air fallback"
+            ],
+            [
+              "Objective transition",
+              "New high-altitude threat",
+              "Handling and ammunition for aerial combat"
+            ],
+            [
+              "Return sequence",
+              "Follow the active mission instruction",
+              "Stay attentive after the major battle"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Best Plane and Special Weapon Loadout",
+        "paragraphs": [
+          "A mixed mission benefits from a mixed plan. Before launch, inspect which surface weapon your aircraft can equip and what aerial option remains available. A specialist attacker may help in the opening, but you still need to handle the later airborne target. A familiar multirole aircraft is worth considering when a more specialized purchase would leave that second job awkward.",
+          "Think about attack approaches as well as weapon labels. A surface weapon that works well on a clean approach may be difficult to use if you repeatedly enter from an obstructed angle. An air weapon also needs spacing and a usable firing opportunity. Select a setup that lets you keep responding to fleet reports instead of requiring a long reset after every engagement."
+        ],
+        "table": {
+          "caption": "Choose equipment for the entire operation",
+          "columns": [
+            "Requirement",
+            "Consider",
+            "Avoid"
+          ],
+          "rows": [
+            [
+              "Surface clearance",
+              "Available surface weapon with predictable use",
+              "Assuming any powerful weapon fits every approach"
+            ],
+            [
+              "Fleet response",
+              "Enough mobility to redirect quickly",
+              "Long detours after a low-priority target"
+            ],
+            [
+              "Later air encounter",
+              "Air-to-air option and reliable handling",
+              "Using the full setup only for the opening stage"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Compare mixed-mission aircraft"
+          }
+        ]
+      },
+      {
+        "id": "phases",
+        "heading": "Mission 26 Walkthrough: Phase by Phase",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Opening: make progress without neglecting the fleet",
+            "paragraphs": [
+              "Attack targets that advance the opening objective and watch the status of allied vessels. After each pass, read the radar and mission messages again. That brief check helps you avoid a common defense-mission habit: repeatedly attacking the same convenient area while a different threat moves toward the objective. Confirm destruction before counting a target as cleared."
+            ]
+          },
+          {
+            "heading": "Fleet defense: redirect when the situation changes",
+            "paragraphs": [
+              "Treat a fleet warning as a reason to reconsider your next target. If an aircraft or other marked threat is endangering an ally, intercept it before resuming less urgent surface attacks. Do not assume the fleet is secure simply because your score is progressing well. Maintain a usable escape path from each pass so you can change direction without a prolonged defensive scramble."
+            ]
+          },
+          {
+            "heading": "High-altitude encounter and return",
+            "paragraphs": [
+              "A high-altitude attacker appears after the opening battle. Follow the instruction to engage and react to its attack warnings instead of expecting a conventional surface-target cleanup. The encounter includes a scripted story transition. Continue following the current orders afterward, including the return sequence; do not treat an apparent interruption as proof that the mission is broken."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "priorities",
+        "heading": "Threat Priorities and Fleet Protection",
+        "paragraphs": [
+          "Use consequence and urgency to choose targets. A threat about to reach an ally matters more than a distant target that offers a convenient shot. After resolving the urgent problem, return to the opening objective and choose a route that avoids unnecessary travel. This is a decision rule, not a claim that every replay presents exactly the same target order.",
+          "It helps to define what a successful pass should accomplish before you begin it. Are you removing a threat, adding needed score or repositioning for the next instruction? If a pass does none of those, it may be consuming time without helping the mission. Keep weapons for the problems your setup is designed to solve rather than firing every special weapon whenever a lock appears."
+        ]
+      },
+      {
+        "id": "failures",
+        "heading": "Common Mission 26 Failures",
+        "paragraphs": [
+          "If allied vessels are lost while your score rises, revise your target priorities. Check objective reports more often and shorten the detours that leave the fleet unattended. If the opening score stalls, verify that your attacks are actually destroying targets and that the chosen weapon suits the surface job. If you reach the later encounter poorly equipped, revise the whole-sortie loadout rather than optimizing the opening in isolation.",
+          "When a dramatic late event occurs, read the new instruction before restarting. A scripted transition can look like a failed attack if you expect every enemy to behave like an ordinary target. Keep flying safely and give the mission sequence a chance to advance. Restart to correct a real failure, rather than merely because the story did something unexpected."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay, Rank and Completion Tips",
+        "paragraphs": [
+          "Separate learning the objective sequence from improving the result. On a learning attempt, note when your attention must shift away from surface clearance. On a replay, refine the attack route while keeping those transitions intact. Record the completed result rather than judging the run solely by the opening score.",
+          "A useful comparison changes one variable: the chosen surface weapon, a particular approach or the time spent responding to a fleet warning. Keep difficulty and other loadout choices stable while testing it. If you are also preparing for the later Mission 28 air battle, use these replays to practice returning to the objective after evasive maneuvers. That skill transfers even though the target mix changes."
+        ],
+        "links": [
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Prepare for Mission 28 air defense"
+          }
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [
+          "Source attribution: Mission-specific objectives and phase transitions are based on Into Indie Games' Missions 26–30 walkthrough."
+        ],
+        "externalLinks": [
+          {
+            "label": "Publisher mission preparation overview",
+            "url": "https://www.bandainamcoent.com/games/ace-combat-8/walkthrough"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 26 called?",
+        "answer": "Mission 26 is Crossing Fleets."
+      },
+      {
+        "question": "What should I prioritize during the opening?",
+        "answer": "Meet the active objective while protecting the allied fleet. Redirect when a threat endangers an ally instead of chasing convenient score targets."
+      },
+      {
+        "question": "Should I bring only surface attack weapons?",
+        "answer": "Prepare for the later aerial encounter as well. Check the aircraft’s air-to-air capability before launch."
+      },
+      {
+        "question": "Why does the late encounter change into a story sequence?",
+        "answer": "The high-altitude encounter includes a scripted transition. Follow the updated orders and continue the return sequence."
+      },
+      {
+        "question": "How do I improve my replay?",
+        "answer": "Identify whether lost time comes from surface attacks, fleet response or the objective transition, then test one adjustment on the same difficulty."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "best-planes",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-11",
+    "parentSlug": "missions"
+  },
+  {
+    "enabled": true,
+    "slug": "mrp-farming",
+    "pageType": "guide",
+    "navLabel": "MRP Farming",
+    "title": "Ace Combat 8 MRP Farming: Fast Routes & Tips",
+    "description": "Find practical Ace Combat 8 MRP farming routes, compare rewards per minute, avoid wasted aircraft-tree purchases, and plan better replays.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 MRP Farming Guide",
+      "lead": "Farm MRP by repeating a mission you can finish reliably, recording the currency actually banked and timing the entire repeat loop. Compare total MRP per minute across several attempts, including failures, before committing to a route.",
+      "quickRoute": [
+        "Choose one aircraft-tree purchase and budget its prerequisites.",
+        "Test an available replay with the same loadout and difficulty.",
+        "Divide total banked MRP by total elapsed minutes, then compare another route."
+      ],
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "Open mission hub"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "currency",
+        "heading": "How MRP Works in Ace Combat 8",
+        "paragraphs": [
+          "MRP is the campaign currency used to unlock additional aircraft. Treat the results screen as your record of what a sortie earned, and the Aircraft Tree as your record of what a purchase requires. Mission score, mission rank and spendable currency answer different questions. A high score is not a currency amount you should enter into a farming comparison.",
+          "Campaign and ACE COMBAT ONLINE have separate progression and save data. Begin by checking which mode contains the item you want. A campaign currency plan should serve a campaign purchase; it is not a shortcut around an Online resource requirement. This simple check prevents a long grinding session aimed at the wrong progression system."
+        ]
+      },
+      {
+        "id": "loop",
+        "heading": "The Fast MRP Farming Loop",
+        "paragraphs": [],
+        "steps": [
+          {
+            "heading": "Choose a destination",
+            "description": "Identify the aircraft, weapon or part that solves your current problem. Keep that destination visible while deciding whether optional purchases are worth delaying it."
+          },
+          {
+            "heading": "Budget the route",
+            "description": "Trace the required nodes from your owned equipment to the destination. Add the displayed prices of unowned prerequisites rather than using only the final aircraft price."
+          },
+          {
+            "heading": "Select a reliable replay",
+            "description": "Start with an available mission you know how to finish. Use a loadout that fits its actual targets and keep the difficulty steady during the first comparison."
+          },
+          {
+            "heading": "Measure the complete loop",
+            "description": "Start timing before selection and stop when you are ready to select the next run. Record banked currency after completion and keep failed attempts in the elapsed time."
+          },
+          {
+            "heading": "Compare and reassess",
+            "description": "Repeat several attempts, then test a different route. Recalculate after a meaningful aircraft or weapon change and stop farming when the planned purchase is affordable."
+          }
+        ]
+      },
+      {
+        "id": "candidates",
+        "heading": "Best Missions to Test for MRP",
+        "paragraphs": [
+          "Missions 7, 24 and 28 are useful candidates discussed in current farming guides, rather than guaranteed winners. The right comparison depends on what you have unlocked and how consistently you finish each route. Treat another player’s large payout as an invitation to test, not a promise of the same rate in your hangar.",
+          "Include a shorter mission you already know well. That establishes a baseline against which a more complex replay must earn its place. A mission with many targets can lose its advantage through extra travel, rearming or a difficult final encounter. Avoid changing both difficulty and route at once if you want to know which change helped."
+        ],
+        "table": {
+          "caption": "Candidate testing sheet: record your own results",
+          "columns": [
+            "Candidate",
+            "Reason to compare",
+            "Possible cost in the full loop"
+          ],
+          "rows": [
+            [
+              "Mission 7",
+              "Earlier alternative when available",
+              "Travel and cleanup must be included"
+            ],
+            [
+              "Mission 24",
+              "A different mixed-mission option",
+              "Objective management can affect reliability"
+            ],
+            [
+              "Mission 28",
+              "Dense aerial combat with rearming",
+              "Long battle and final encounter"
+            ],
+            [
+              "A familiar unlocked mission",
+              "Your personal baseline",
+              "Lower payout may still yield a useful rate"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Plan a reliable Mission 28 clear"
+          }
+        ]
+      },
+      {
+        "id": "rate",
+        "heading": "MRP Per Minute Comparison",
+        "paragraphs": [
+          "Use total banked MRP divided by total elapsed minutes. Count the entire session, including briefing, loading, rearming, results screens, retries and unsuccessful attempts. If a failure banks no currency, record no earned currency for that attempt but retain its time. Otherwise, an unreliable route can appear faster simply because you discarded its worst results.",
+          "Illustration only: suppose a test session banks 120,000 MRP in 12 minutes. Its rate is 10,000 MRP per minute. A second hypothetical session banks 150,000 in 20 minutes, or 7,500 per minute. These numbers are arithmetic examples, not game payouts. The first session is more efficient despite the second showing a larger total reward.",
+          "Keep a small log with route, difficulty, aircraft, weapon setup, elapsed time and earned currency. Use several runs to reduce the effect of one unusually good or bad attempt. If results vary widely, reliability is still part of the decision. Choose a slightly lower but stable rate when the supposedly faster option often fails."
+        ]
+      },
+      {
+        "id": "spending",
+        "heading": "MRP Spending Priorities",
+        "paragraphs": [
+          "Spend to remove a specific constraint. If a needed weapon is already supported by an owned aircraft, compare that purchase with the full route to a new plane. If your problem is controlling the approach, another weapon may do little to help. A useful purchase changes a repeated mission difficulty rather than merely making the aircraft list longer.",
+          "For a destination aircraft, distinguish mandatory connecting nodes from optional equipment. Check each displayed price and mark what you already own. Keep a reserve for the loadout you intend to use instead of exhausting the balance on an airframe that still needs another purchase. Reopen the budget after any prerequisite is acquired so you know the remaining gap."
+        ],
+        "table": {
+          "caption": "Purchase checklist",
+          "columns": [
+            "Question",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Does this solve the current mission problem?",
+              "Prefer a targeted upgrade with a clear use"
+            ],
+            [
+              "Is it required on my chosen branch?",
+              "Include it in the destination budget"
+            ],
+            [
+              "Do I already own a capable alternative?",
+              "Test that alternative before spending"
+            ],
+            [
+              "Is this a separate Online requirement?",
+              "Use the correct mode’s progression system"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Choose the aircraft worth saving for"
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "Early vs Mid vs Late Campaign Farming",
+        "paragraphs": [
+          "Early in the campaign, story progression can be more valuable than repeating a mission indefinitely. It expands the set of operations you can compare and helps you understand which roles your aircraft must cover. Pause to farm when a specific purchase will resolve a real obstacle, then return to progress once that goal is met.",
+          "In the middle of a campaign, reassess your owned equipment before opening several new branches. Later, when replay options are available, compare familiar routes systematically and combine earning with completion goals only when those goals do not make the route unreliable. Rank practice is worthwhile, but keep its learning time in your currency calculation rather than hiding it."
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [
+          "Source attribution: The Mission 7, 24 and 28 farming candidates are drawn from AceCombat8Wiki.wiki's MRP guide; they are suggestions to test, not measured results from this site."
+        ],
+        "externalLinks": [
+          {
+            "label": "Publisher explanation of MRP and sortie preparation",
+            "url": "https://www.bandainamcoent.com/games/ace-combat-8/walkthrough"
+          },
+          {
+            "label": "Official explanation of separate Online progression",
+            "url": "https://www.bandainamcoent.com/games/ace-combat-8/online-mode"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the fastest MRP farming mission?",
+        "answer": "Test several available missions using total banked MRP divided by complete loop time. The best route depends on your equipment and reliable completion rate."
+      },
+      {
+        "question": "Should I count loading and retries?",
+        "answer": "Yes. Count all elapsed time required to repeat the route, including failed attempts."
+      },
+      {
+        "question": "Is a high mission score the same as MRP?",
+        "answer": "No. Record the earned campaign currency from the results screen instead of treating score or rank as a payout."
+      },
+      {
+        "question": "How much should I save for an aircraft?",
+        "answer": "Add every unowned required node along the route plus the equipment you intend to use. Read the current prices in the Aircraft Tree."
+      },
+      {
+        "question": "Can Campaign MRP replace Online progression?",
+        "answer": "Campaign and ACE COMBAT ONLINE use separate progression and save data. Check the requirements in the mode containing your intended purchase."
+      },
+      {
+        "question": "When should I stop farming?",
+        "answer": "Stop when the planned purchase is affordable or when another available route proves more efficient. Avoid an open-ended grind without a purchase goal."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "mission-28-s-rank",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "missions",
+    "pageType": "guide",
+    "navLabel": "Missions",
+    "title": "Ace Combat 8 Missions List & Walkthrough Hub",
+    "description": "Browse the Ace Combat 8 mission list, campaign progress tips, and focused walkthroughs for Missions 16, 26, and 28 S Rank.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Missions & Walkthroughs",
+      "lead": "Start with the mission you are playing: Mission 16 for ship identification, Mission 26 for fleet-defense planning, or Mission 28 for air defense and S Rank replays. The list below covers the Prologue and all 30 numbered missions, with three full walkthroughs and aircraft and MRP guides for preparation.",
+      "quickRoute": [
+        "Open Mission 16 if the container-ship identification is blocking progress.",
+        "Open Mission 26 for the opening battle and later objective transition.",
+        "Open Mission 28 to plan bomber interception and a cleaner rank replay."
+      ],
+      "quickLinks": [
+        {
+          "slug": "mission-16",
+          "label": "Mission 16"
+        },
+        {
+          "slug": "mission-26",
+          "label": "Mission 26"
+        },
+        {
+          "slug": "mission-28-s-rank",
+          "label": "Mission 28 S Rank"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "list",
+        "heading": "Ace Combat 8 Campaign Mission List",
+        "paragraphs": [
+          "The campaign begins with the Prologue, followed by 30 numbered missions in the order shown below. The table lists every mission title and operation name. Full walkthroughs are available here for Missions 16, 26 and 28; the other rows are reference entries, with no separate walkthrough pages.",
+          "When using a mission list, match both the number and the displayed title to your mission-selection screen. That avoids opening a similarly described operation from another game or confusing an objective with the name of the sortie. Read the current briefing before applying a route, especially when you return to a mission after a long break."
+        ],
+        "table": {
+          "caption": "Full campaign list: Prologue and Missions 01–30",
+          "columns": [
+            "Number",
+            "Mission title",
+            "Operation"
+          ],
+          "rows": [
+            [
+              "Prologue",
+              "Wings of Theve",
+              "—"
+            ],
+            [
+              "01",
+              "Jokers Wild",
+              "Seabird"
+            ],
+            [
+              "02",
+              "Nomad",
+              "Falling Sparks"
+            ],
+            [
+              "03",
+              "Purple Magic Takes Flight",
+              "Frostwave"
+            ],
+            [
+              "04",
+              "The Fall of the Numbered Fleets",
+              "Elder Hand"
+            ],
+            [
+              "05",
+              "Retaking of Theve",
+              "Long Shot"
+            ],
+            [
+              "06",
+              "Attack on the Drinwich Airfield",
+              "Redouble"
+            ],
+            [
+              "07",
+              "A Lifeline in the Desert",
+              "Squeeze"
+            ],
+            [
+              "08",
+              "Retaking of Theve II",
+              "Gut Shot"
+            ],
+            [
+              "09",
+              "The Land Battleship Blockade",
+              "Ogre Pitfall"
+            ],
+            [
+              "10",
+              "Over the Rainband",
+              "Raincoat"
+            ],
+            [
+              "11",
+              "Maximum Payload",
+              "Gaffed Card"
+            ],
+            [
+              "12",
+              "An Island in Darkness",
+              "Worker Bee"
+            ],
+            [
+              "13",
+              "The People of the Lost Country",
+              "Twin Birds"
+            ],
+            [
+              "14",
+              "Two on the Run",
+              "Homing Pigeon"
+            ],
+            [
+              "15",
+              "Wings of Wax",
+              "Deal Cards"
+            ],
+            [
+              "16",
+              "Singer",
+              "Lighthouse Lady"
+            ],
+            [
+              "17",
+              "Land Battleship No. 3",
+              "Broncobuster"
+            ],
+            [
+              "18",
+              "Moonlight and Shadows",
+              "Branching Path"
+            ],
+            [
+              "19",
+              "Clearing the Lighthouse",
+              "Silver String"
+            ],
+            [
+              "20",
+              "Escort Orbiter",
+              "Migration Keeper"
+            ],
+            [
+              "21",
+              "The Star-Bound Bird",
+              "Dawn Rising"
+            ],
+            [
+              "22",
+              "Pursuing the HSCA",
+              "Patch of Blue"
+            ],
+            [
+              "23",
+              "The Destruction of Expo City",
+              "Rumbling"
+            ],
+            [
+              "24",
+              "The Battle of Rocky Island, Day 1",
+              "Coastal Hammer"
+            ],
+            [
+              "25",
+              "The Battle of Rocky Island, Day 2",
+              "Paint it Blue"
+            ],
+            [
+              "26",
+              "Crossing Fleets",
+              "King Tide"
+            ],
+            [
+              "27",
+              "Fatsia, The Ocean Fortress",
+              "Rootbreaker"
+            ],
+            [
+              "28",
+              "A Thousand Points of Light",
+              "Locust Purge"
+            ],
+            [
+              "29",
+              "Selene",
+              "Lunar Eclipse"
+            ],
+            [
+              "30",
+              "Song of Wings",
+              "Showdown"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "mission-16",
+            "label": "Mission 16 walkthrough"
+          },
+          {
+            "slug": "mission-26",
+            "label": "Mission 26 walkthrough"
+          },
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Mission 28 S Rank walkthrough"
+          }
+        ]
+      },
+      {
+        "id": "featured",
+        "heading": "Featured Mission Walkthroughs",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Mission 16: an identification problem",
+            "paragraphs": [
+              "If you can fly and shoot but still cannot progress, begin with the visual inspection task. The Mission 16 guide separates recognizing the hostile vessel from attacking it, then explains the shift to the airborne objective. Use it to correct a decision problem before assuming that more damage or a more expensive aircraft is the answer."
+            ]
+          },
+          {
+            "heading": "Mission 26: a priority problem",
+            "paragraphs": [
+              "A battle with several useful targets can tempt you to chase score while overlooking the objective that needs protection. The Mission 26 guide organizes the sortie around what deserves attention now and how the task changes later. Use it when your opening route works in isolation but the whole operation still breaks down."
+            ]
+          },
+          {
+            "heading": "Mission 28: a replay consistency problem",
+            "paragraphs": [
+              "A long defense can be cleared without producing the rank you want. The Mission 28 guide helps you separate objective safety, ammunition planning and the final encounter. Use completed results to decide which part to improve rather than treating every lower rank as evidence that the entire loadout is wrong."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "mission-16",
+            "label": "Mission 16 walkthrough"
+          },
+          {
+            "slug": "mission-26",
+            "label": "Mission 26 walkthrough"
+          },
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Mission 28 S Rank walkthrough"
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "heading": "How to Prepare for a New Mission",
+        "paragraphs": [
+          "Read the briefing with three questions in mind: what must be completed, what must survive and what could force a change in target priority? Then inspect your aircraft choices. Keep the most important objective in view when choosing weapons instead of selecting a favorite weapon first and hoping the mission will suit it.",
+          "Make a short preparation note. Name the dominant target type, identify any restriction displayed by the game and decide how you will handle a secondary threat. You do not need a complicated spreadsheet for a first clear. You need a reason for each major equipment choice and a plan that remains understandable when the objective changes.",
+          "Before buying, test whether an owned aircraft can cover the task with another supported weapon. An unnecessary branch can delay the plane you actually want later. If a purchase is needed, connect it to the specific failure you are solving: surface clearance, aerial interception, ammunition pressure or difficult handling."
+        ]
+      },
+      {
+        "id": "roles",
+        "heading": "Choosing the Right Aircraft for Mission Types",
+        "paragraphs": [
+          "Use the mission’s job as the starting point for aircraft selection. Air-heavy operations reward an aerial setup; surface-heavy operations need weapons suited to the targets; mixed sorties require a fallback when the dominant target type changes. The class name is useful, but the actual weapons you can equip determine whether the setup works.",
+          "Comfort matters during a first clear. A plane that responds predictably can reduce missed approaches and recovery time even if a different aircraft appears more impressive in a recommendation list. Compare the entire sortie with both setups before concluding that a purchase improved it. Include any restriction shown in the mission menu rather than assuming all aircraft are selectable everywhere."
+        ],
+        "table": {
+          "caption": "Choose by objective, then inspect the hangar",
+          "columns": [
+            "Mission need",
+            "First check",
+            "Second check"
+          ],
+          "rows": [
+            [
+              "Air interception",
+              "Available air weapons",
+              "Handling during repeated approaches"
+            ],
+            [
+              "Surface clearance",
+              "Surface weapon fit",
+              "Air-to-air fallback"
+            ],
+            [
+              "Protection objective",
+              "Ability to redirect",
+              "Time spent away from the ally"
+            ],
+            [
+              "Mixed operation",
+              "Coverage of both jobs",
+              "Ammo plan and selection restrictions"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Aircraft roles and buying advice"
+          }
+        ]
+      },
+      {
+        "id": "replays",
+        "heading": "Replay Missions for S Rank and MRP",
+        "paragraphs": [
+          "Define the goal of a replay before you launch. A rank attempt asks how efficiently you can complete the operation under the chosen settings. A farming attempt asks how much currency you bank over the entire repeat loop. These goals can overlap, but one useful result does not prove the other.",
+          "For rank improvement, record the displayed time, score and grade after completion. For farming, add the earned MRP and complete elapsed time. Keep failed attempts visible in the farming log. If the next replay is a practice run for one awkward phase, label it as practice in your own notes so you do not compare it with an optimized currency route.",
+          "Change one part of the plan between attempts. A new aircraft, new weapons and higher difficulty together can make a result difficult to interpret. A controlled comparison helps you preserve what already works while improving the real weak point."
+        ],
+        "links": [
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Build a Mission 28 rank attempt"
+          },
+          {
+            "slug": "mrp-farming",
+            "label": "Measure MRP per minute"
+          }
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [
+          "Source attribution: Campaign mission titles and operation names were cross-checked against the mission lists published by KeenGamer and The Click."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does this hub contain every campaign mission?",
+        "answer": "It contains focused guides for Missions 16, 26 and 28. The table lists the covered mission titles and links to those walkthroughs."
+      },
+      {
+        "question": "Which guide should I read first?",
+        "answer": "Match the mission number on your selection screen. Use Mission 16 for ship recognition, Mission 26 for fleet priorities or Mission 28 for bomber defense and rank planning."
+      },
+      {
+        "question": "Should I raise difficulty before replaying?",
+        "answer": "First learn a stable clear on your chosen setting. Compare improvements on the same difficulty before changing several variables."
+      },
+      {
+        "question": "Where can I find aircraft recommendations?",
+        "answer": "Open Best Planes for role-based choices and purchase planning. Check the mission restrictions and actual weapons in your own hangar."
+      },
+      {
+        "question": "Are rank and farming routes identical?",
+        "answer": "They can overlap, but rank planning and currency efficiency use different measurements. Record the result relevant to your goal."
+      },
+      {
+        "question": "How do I diagnose a failed sortie?",
+        "answer": "Identify whether the problem was target selection, objective protection, equipment or execution. Adjust the relevant part of the plan before replacing everything."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-16",
+      "mission-26",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "best-planes",
+    "pageType": "guide",
+    "navLabel": "Best Planes",
+    "title": "Ace Combat 8 Best Planes: Aircraft & Loadouts",
+    "description": "Compare Ace Combat 8 best planes by role, mission type, special weapons, and aircraft-tree costs to choose your next useful upgrade.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Best Planes Guide",
+      "lead": "Shortlist the F-35C for a flexible multirole role, F-22A for an air-focused role, and Rafale M for a naval multirole option. For an early budget decision, first test the F/A-18C you already own. Choose the aircraft and supported weapons that solve your next mission.",
+      "quickRoute": [
+        "Match the next mission’s targets and selection restrictions.",
+        "Compare the actual special weapons on the aircraft you can acquire.",
+        "Budget the full prerequisite route before buying a new plane."
+      ],
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "Open mission hub"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "comparison",
+        "heading": "Best Planes at a Glance",
+        "paragraphs": [
+          "A useful aircraft shortlist begins with jobs rather than a universal tier ranking. The publisher’s aircraft roster establishes the roles below. The recommendations are starting points for choosing and testing a loadout, not measured claims that one airframe wins every encounter. Purchase prices are omitted here because the connecting route and your owned equipment also affect the budget.",
+          "Check the variant carefully. Aircraft with related names may offer different options, and a recommendation for one model is not a reason to assume another carries the same weapon. Open the hangar entry, inspect available equipment and check the mission’s selection screen before committing MRP."
+        ],
+        "table": {
+          "caption": "Role-based aircraft shortlist",
+          "columns": [
+            "Aircraft",
+            "Publisher role",
+            "Planning use"
+          ],
+          "rows": [
+            [
+              "F-35C Lightning II",
+              "Multirole",
+              "Flexible mixed-objective shortlist"
+            ],
+            [
+              "F-22A Raptor",
+              "Fighter",
+              "Air-focused combat shortlist"
+            ],
+            [
+              "Rafale M",
+              "Multirole",
+              "Naval and mixed-role alternative"
+            ],
+            [
+              "F/A-18C Hornet",
+              "Multirole",
+              "Test existing equipment before an upgrade"
+            ],
+            [
+              "A-6E Intruder",
+              "Attacker",
+              "Surface-role alternative when available"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "all-round",
+        "heading": "Best All-Round Aircraft",
+        "paragraphs": [
+          "The F-35C is a sensible aircraft to compare when your missions change between air and surface targets. Its multirole classification makes it an appropriate shortlist entry, but that role alone does not select the weapon for you. Check the specific loadout you intend to use and compare it with an owned multirole aircraft on a familiar mission.",
+          "Ask whether the upgrade solves a repeated problem. If your current aircraft clears surface targets well but struggles with the aerial transition, a different weapon or a better approach may already address it. If both jobs are consistently awkward, a broader aircraft comparison becomes more useful. Keep one reliable setup while testing the new purchase so you can distinguish improvement from unfamiliar handling."
+        ]
+      },
+      {
+        "id": "air",
+        "heading": "Best Air-to-Air Aircraft",
+        "paragraphs": [
+          "The F-22A belongs on an air-focused shortlist. Choose a fighter when the mission asks you to manage repeated aerial engagements, but evaluate how you use it rather than relying on a class label. Stable tracking, sensible launch angles and recovery space are all part of turning an aerial loadout into a reliable clear.",
+          "Before spending, compare the aircraft’s available weapon choices with the enemies causing trouble. Formations and evasive single targets are different jobs. A multi-target option can help you use an aligned approach efficiently, while a close dogfight may demand more controlled firing. Test the setup in a known encounter before treating a recommendation as a guaranteed solution."
+        ]
+      },
+      {
+        "id": "surface",
+        "heading": "Best Planes for Ground and Naval Missions",
+        "paragraphs": [
+          "Rafale M offers a naval multirole option to consider, while an available attacker such as the A-6E provides a surface-role alternative. Inspect the actual surface weapons and launch restrictions before choosing between them. A sortie with an important late air phase may justify a broader setup than a mission devoted mostly to surface clearance.",
+          "Do not treat every ship or ground target as the same weapons problem. Position, approach and the need to return quickly to an ally can change which option feels practical. A surface weapon that requires repeated awkward passes may be less helpful than a simpler setup you can use accurately. Compare complete sorties rather than the damage impression from one impressive hit."
+        ]
+      },
+      {
+        "id": "early",
+        "heading": "Best Early-Campaign Aircraft",
+        "paragraphs": [
+          "For an early budget choice, start with the aircraft already in your hangar. The F/A-18C is a multirole entry worth evaluating before you commit to a new branch. Buying early is useful when a purchase solves a concrete obstacle; buying simply because you want to replace a starter can consume MRP without improving the next mission.",
+          "List the job you need to perform, the supported equipment you already have and the smallest upgrade that could help. Test that adjustment first. If the remaining problem is handling, spend practice time on the approach before treating a more expensive airframe as the answer. Affordability should include the whole route from owned nodes, not just a low price beside a tempting model."
+        ]
+      },
+      {
+        "id": "budget",
+        "heading": "Aircraft Tree, MRP and Purchase Planning",
+        "paragraphs": [
+          "Trace the route to one destination aircraft and write down the prices of unowned required nodes. Include the equipment you plan to use once the aircraft is acquired. Keep optional purchases separate so you can see exactly what delays the destination. An aircraft is not ready for your intended job merely because you can afford its final node.",
+          "When a mission becomes difficult, revisit the purchase goal. The best next plane might differ from the plane you eventually want for collection or a later replay. It is reasonable to buy a smaller targeted solution now if it gets the campaign moving again. Measure that decision by useful progress rather than the prestige of the aircraft name."
+        ],
+        "links": [
+          {
+            "slug": "mrp-farming",
+            "label": "Plan MRP around your next purchase"
+          }
+        ]
+      },
+      {
+        "id": "missions",
+        "heading": "Best Loadouts for Difficult Missions",
+        "paragraphs": [
+          "Mission 16 tests recognition and the transition from surface targets to airborne threats. Build for both jobs and remember that firepower cannot identify the correct ship. Mission 26 calls for opening clearance and attention to a later aerial encounter. Choose a setup for the whole operation rather than treating the first battle as the entire sortie.",
+          "Mission 28 emphasizes air defense and a late dogfight. Compare air weapon options and plan ammunition use around the rearming opportunity. In each case, the detailed walkthrough should guide the buying decision: first understand why the attempt failed, then choose equipment that addresses that failure. Do not purchase three different aircraft before testing one focused change."
+        ],
+        "links": [
+          {
+            "slug": "mission-16",
+            "label": "Match a loadout to Mission 16"
+          },
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Plan the Mission 28 aerial setup"
+          }
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Aircraft Buying Mistakes",
+        "paragraphs": [
+          "Avoid opening several unrelated branches at once, assuming a recommendation includes every prerequisite or confusing an airframe’s role with its currently equipped weapon. Also avoid judging a new purchase after an unfamiliar mission that changed several other variables. Use a known replay for a fair comparison.",
+          "A practical buying decision can be written in one sentence: this purchase helps this mission because it supplies this capability. If you cannot finish that sentence, inspect your owned alternatives again. The aim is a hangar that covers the operations you play, with equipment you can use confidently."
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Sources and Further Reading",
+        "paragraphs": [],
+        "externalLinks": [
+          {
+            "label": "Publisher aircraft roster and role descriptions",
+            "url": "https://www.bandainamcoent.com/games/ace-combat-8/aircraft"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best overall plane?",
+        "answer": "Start by comparing the F-35C for a flexible multirole role, then check your mission, supported weapons and budget. There is no universal recommendation for every sortie."
+      },
+      {
+        "question": "Which plane should I consider for air combat?",
+        "answer": "The F-22A is an air-focused shortlist entry. Match its available weapons to formations or evasive targets and test it against your owned alternatives."
+      },
+      {
+        "question": "Which aircraft should I consider for naval missions?",
+        "answer": "Compare a naval multirole option such as Rafale M with the surface-capable aircraft you own. Check the actual weapon and mission restrictions."
+      },
+      {
+        "question": "Should I replace the F/A-18C immediately?",
+        "answer": "First test whether your owned aircraft and a supported weapon cover the next mission. A new branch should solve a specific problem."
+      },
+      {
+        "question": "Why does the budget exceed the aircraft price?",
+        "answer": "The route can include unowned prerequisite nodes and equipment needed for your planned setup. Add the displayed costs before buying."
+      },
+      {
+        "question": "Does a campaign purchase determine my Online hangar?",
+        "answer": "ACE COMBAT ONLINE has separate progression and save data. Check the requirements inside the mode you intend to play."
+      }
+    ],
+    "relatedSlugs": [
+      "mrp-farming",
+      "mission-16",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-11"
+  }
+]
