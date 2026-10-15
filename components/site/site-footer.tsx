@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { siteConfig } from "@/config/site";
 import type { InternalLink } from "@/config/types";
+import { navigationGroups, groupLinks } from "@/content/navigation";
 import { routePath } from "@/lib/urls";
 
 export function SiteFooter({ coreLinks, legalLinks }: { coreLinks: InternalLink[]; legalLinks: InternalLink[] }) {
@@ -15,12 +16,14 @@ export function SiteFooter({ coreLinks, legalLinks }: { coreLinks: InternalLink[
           </p>
         </div>
         <div>
-          <p className="mb-3 text-sm font-black uppercase tracking-widest text-foreground">Explore</p>
-          <ul className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-muted-foreground">
-            {coreLinks.map((link) => (
-              <li key={link.slug}><Link className="hover:text-primary" href={routePath(link.slug)}>{link.label}</Link></li>
-            ))}
-          </ul>
+          <div className="grid grid-cols-2 gap-x-5 gap-y-6">
+            {[{ label: "Explore", slugs: ["", "missions", "best-planes", "mrp-farming"] }, navigationGroups[0], { label: "S Rank", slugs: ["s-rank-guide"] }].map((group) => <div key={group.label}>
+              <p className="mb-3 text-sm font-black uppercase tracking-widest text-foreground">{group.label}</p>
+              <ul className="grid gap-2 text-sm text-muted-foreground">
+                {groupLinks(coreLinks, group.slugs).map((link) => <li key={link.slug}><Link className="hover:text-primary" href={routePath(link.slug)}>{link.label}</Link></li>)}
+              </ul>
+            </div>)}
+          </div>
         </div>
         <div>
           <p className="mb-3 text-sm font-black uppercase tracking-widest text-foreground">Site</p>

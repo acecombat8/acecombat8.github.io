@@ -11,6 +11,7 @@ import { pageSchemas } from "@/lib/schema";
 import { routePath } from "@/lib/urls";
 
 export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
+  const quickRoute = page.hero.quickRoute?.length ? <div className="guide-quick-route"><p className="eyebrow">Quick route</p><ol>{page.hero.quickRoute.map((step) => <li key={step}>{step}</li>)}</ol></div> : null;
   return <>
     <JsonLd data={pageSchemas(page)} />
     <main className="guide-main site-container">
@@ -18,13 +19,14 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
       <header className="guide-hero">
         <p className="eyebrow">{page.hero.eyebrow}</p>
         <h1>{page.hero.heading}</h1>
+        {page.hero.answerFirst ? quickRoute : null}
         <p className="section-lead">{page.hero.lead}</p>
         <div className="guide-actions">
           <a className="button-primary" href={`#${page.sections[0].id}`}>Read the guide</a>
           {page.hero.quickLinks?.map((link) => <Link className="button-secondary" key={link.slug} href={routePath(link.slug)}>{link.label}</Link>)}
         </div>
-        {page.hero.quickRoute?.length ? <div className="guide-quick-route"><p className="eyebrow">Quick route</p><ol>{page.hero.quickRoute.map((step) => <li key={step}>{step}</li>)}</ol></div> : null}
-        <p className="guide-date">Updated <time dateTime={page.lastReviewed}>{page.lastReviewed}</time></p>
+        {!page.hero.answerFirst ? quickRoute : null}
+        {page.hero.answerFirst ? <p className="guide-date">Reviewed <time dateTime={page.lastReviewed}>{page.lastReviewed}</time></p> : <p className="guide-date">Updated <time dateTime={page.lastReviewed}>{page.lastReviewed}</time></p>}
       </header>
       <ResponsiveBanner />
       <div className="guide-layout">

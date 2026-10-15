@@ -1356,5 +1356,999 @@
       "mission-28-s-rank"
     ],
     "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-15",
+    "pageType": "guide",
+    "navLabel": "Mission 15",
+    "title": "Ace Combat 8 Mission 15 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 15 walkthrough with objective priorities, aircraft loadout tips, stage-by-stage strategy, common mistakes, and replay advice.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 15 Walkthrough",
+      "lead": "Mission 15, Wings of Wax, is an interception battle against Ladon bombers threatening the friendly fleet. Plan where to meet each bomber rather than spending the whole sortie trying to catch it from behind.",
+      "quickRoute": [
+        "Keep the fleet-defense objective active in your planning; do not follow a distant distraction away from the bombers.",
+        "Use the Ladons’ turns to shorten your interception path, then select an engine for a controlled attack.",
+        "Close the distance before expecting a missile lock through the jamming; save ammunition when no firing solution exists.",
+        "After a pass, recover speed and locate the other bomber before committing to another chase."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "route",
+        "heading": "Mission 15 Quick Route",
+        "paragraphs": [
+          "Begin by locating the fleet and the bombers’ direction of travel. Your first useful action is positioning: turn toward an interception point while retaining enough room to correct your approach. A bomber directly ahead can tempt you into holding the throttle and following its exact path. If the range keeps opening, that approach is consuming time without producing a shot. Break the chase and plan a shorter crossing instead.",
+          "Treat each pass as a small sequence: find the bomber, identify the selected component, establish a stable firing line, shoot, and check the result. Do not continue pressing fire simply because the aircraft remains somewhere near the reticle. Decide where your next useful attack will begin before making another large turn. That habit helps protect both ammunition and the fleet."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Mission Phases",
+        "paragraphs": [
+          "Wings of Wax is Operation Deal Cards. The central problem is air interception, rather than clearing ground positions. Two Ladons and their jamming change how you approach the fight. Keep the objective display and fleet warnings in view; use them to decide whether there is time to reposition or whether a bomber already threatening the ships needs immediate attention.",
+          "The table describes decision points, not additional scripted stages. Let the current target markers tell you when engagement is available. During an opening sequence without a valid target, maneuver into a useful position and preserve ammunition. After a bomber is destroyed, recheck the remaining threat instead of assuming that the same approach will still be safe."
+        ],
+        "table": {
+          "caption": "Interception decisions",
+          "columns": [
+            "Situation",
+            "Immediate job",
+            "Avoid"
+          ],
+          "rows": [
+            [
+              "No valid firing solution",
+              "Position for an approaching bomber",
+              "Emptying missiles into an unavailable target"
+            ],
+            [
+              "Range increasing in pursuit",
+              "Cut toward the next turn",
+              "Following the entire outside arc"
+            ],
+            [
+              "Stable close approach",
+              "Check the engine target and fire deliberately",
+              "Cycling targets while releasing a volley"
+            ],
+            [
+              "One bomber remains",
+              "Read the updated threat and plan a fresh pass",
+              "Assuming the battle is already won"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Aircraft and Weapons",
+        "paragraphs": [
+          "Choose an air-focused aircraft you can keep under control at speed. Acceleration helps you recover after turning; useful handling helps you create the next firing opportunity. Compare aircraft that you already own before making an expensive purchase. A faster airframe does not solve an interception route that continually puts you behind the target. Test the route and the aircraft as separate variables.",
+          "Use air-to-air special weapons suited to the close engagements you can actually establish. Read the hangar descriptions for your available options, then choose a combination you understand. An impressive nominal range is less helpful when jamming prevents the lock you need. Favor weapons that let you turn a brief, stable window into dependable damage. Keep standard missiles available between special-weapon opportunities rather than spending everything at the first contact.",
+          "If ammunition runs low, review missed launches before buying more capacity. Check whether you fired without a completed lock, switched to the wrong component, or launched just as the bomber left your useful angle. Capacity can create room for mistakes, but fixing those mistakes makes every aircraft more effective. The aircraft guide linked below helps compare roles without requiring one specific purchase."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Step-by-Step Walkthrough",
+        "steps": [
+          {
+            "heading": "Set up the crossing",
+            "description": "Watch the bomber’s direction and turn toward the inside of its path. Leave yourself a clear recovery line. If you arrive with too much closure, ease off enough to keep the target in view instead of overshooting and starting another long chase."
+          },
+          {
+            "heading": "Confirm the component",
+            "description": "When the HUD offers a valid engagement, check the selected component before firing. An engine attack requires the engine to be selected. Keep the aircraft steady long enough to judge the effect; a hurried volley at an unintended weapon mount spends ammunition without advancing the same plan."
+          },
+          {
+            "heading": "Recover and reassess",
+            "description": "After shooting, clear the immediate danger and recover your position. Locate both the fleet and the remaining bomber threat. If the previous attack became a pursuit with no shots, change the interception angle on the next pass rather than repeating the same turn farther behind."
+          }
+        ]
+      },
+      {
+        "id": "problems",
+        "heading": "Threat Priorities and Common Mistakes",
+        "paragraphs": [
+          "A lock that disappears does not mean the mission has stopped progressing. In this fight, jamming is a reason to work on positioning. Use the visible aircraft and its travel direction to establish another close approach, while keeping the terrain and your own attitude readable. Flying deeper into poor visibility with no planned exit makes reacquisition harder and increases the risk of a collision.",
+          "If you are repeatedly shot down, identify where it happens. An extended, predictable approach is a different problem from a collision during an aggressive recovery. For the former, shorten your exposure and leave the attack line before you lose control of the engagement. For the latter, allow more space and reduce the amount of correction demanded at the end of the pass. Keep the next attempt focused on that one failure.",
+          "Fleet losses should prompt an earlier interception, not an unrelated score chase. Note where you were when the warning arrived. If you were following a bomber away from its next approach, plan your next run from the fleet’s position outward. This keeps your decisions tied to the protected objective."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay and Rank Improvement Tips",
+        "paragraphs": [
+          "For a first clear, prioritize a route you can repeat and enough reserve to finish the remaining bomber. For a rank replay, compare where the previous run lost useful firing time. Record the first engagement, missed approaches, and ammunition remaining. Improve one crossing before changing the entire loadout. A route with fewer empty pursuits gives you a clearer basis for assessing the result screen.",
+          "Keep optional collection separate from learning the main interception. A detour that adds a target can also change the fleet situation and your next meeting point. After a successful clear, use the mission results to decide whether the next attempt should emphasize cleaner attacks or quicker positioning. Do not treat a suggested route as a guaranteed S Rank threshold."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Compare aircraft roles"
+          },
+          {
+            "slug": "mission-17",
+            "label": "Plan the Mission 17 strike"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Why can’t I lock onto a Ladon?",
+        "answer": "The Ladons use jamming. Work toward a closer, stable interception and check the HUD for a valid lock before launching. A longer-range weapon alone does not remove the positioning problem."
+      },
+      {
+        "question": "What should I do when the bomber pulls away?",
+        "answer": "Stop following its full outside path. Use its direction and next turn to set up a shorter crossing, with enough room to recover if the first shot is missed."
+      },
+      {
+        "question": "Which weapon should I bring to Mission 15?",
+        "answer": "Choose air-to-air weapons you can use reliably during close approaches. Check your unlocked loadouts and pair a manageable aircraft with enough missile reserve for both bombers."
+      },
+      {
+        "question": "How can I save ammunition?",
+        "answer": "Confirm the selected component and lock before each volley. Stop firing during an empty pursuit, and judge whether the previous hit worked before spending another special weapon."
+      },
+      {
+        "question": "Should I chase optional targets on my first clear?",
+        "answer": "Learn the bomber interception and fleet-defense route first. Optional pursuits are easier to evaluate on a separate attempt once you know how much time and ammunition the clear needs."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-17",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-25",
+    "pageType": "guide",
+    "navLabel": "Mission 25",
+    "title": "Ace Combat 8 Mission 25 Walkthrough & Strategy",
+    "description": "Ace Combat 8 Mission 25 guide with a clear objective route, priority targets, recommended loadout choices, common failure points, and replay tips.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 25 Walkthrough",
+      "lead": "Mission 25, The Battle of Rocky Island, Day 2, combines ground support with a later Shadow engagement and a headquarters assault. Protect the advancing troops throughout Operation Paint It Blue; an impressive opening attack is only part of the clear.",
+      "quickRoute": [
+        "Open by attacking threats to the allied advance, using the active objective and troop reports to choose your next pass.",
+        "Keep air-to-air capability available for the Shadow engagement after the opening battle.",
+        "Return attention to the ground columns and remove the defenses blocking the headquarters approach.",
+        "Follow the marked final assault targets and the cease-fire order instead of continuing an old cleanup route."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "strategy",
+        "heading": "Quick Mission 25 Strategy",
+        "paragraphs": [
+          "Plan the sortie around the survival and movement of the ground force. Before selecting a distant target, ask which allied route it threatens and whether dealing with it changes the advance. The nearest red contact may be convenient but irrelevant to the unit currently taking fire. A short diversion to stop an active attacker can be more useful than finishing a tidy sweep of an already quiet sector.",
+          "Leave room in your loadout for a change of role. This battle asks you to attack surface defenses and then handle capable aircraft before returning to the ground assault. Spending every useful resource on the opening can leave the later fight unnecessarily slow. Build a plan that still works after the initial objective changes, and check the tactical display again whenever a new warning interrupts your attack."
+        ]
+      },
+      {
+        "id": "phases",
+        "heading": "Mission Objectives and Phases",
+        "paragraphs": [
+          "The main clear concerns the capture of Sotoa’s headquarters. Allied ground forces approach on separate routes, so support cannot be reduced to one uninterrupted line of targets. Follow the reports of the unit in danger, then use the next quiet interval to move toward the other approach. Avoid inventing a fixed friendly health allowance: the warning and current objective are the useful information for your run.",
+          "The opening battle is followed by a Shadow fighter engagement, then renewed ground support and the final headquarters assault. Treat each transition as a fresh targeting problem. Confirm the new markers before using a scarce weapon; an attack that was useful a moment earlier may now take you away from the required battle."
+        ],
+        "table": {
+          "caption": "Mission 25 objective flow",
+          "columns": [
+            "Part of the sortie",
+            "Your priority",
+            "Transition check"
+          ],
+          "rows": [
+            [
+              "Opening ground battle",
+              "Reduce threats to the approaching troops",
+              "Recheck the objective when the opening period ends"
+            ],
+            [
+              "Shadow engagement",
+              "Keep an effective air-to-air attack available",
+              "Do not lose track of the ground situation"
+            ],
+            [
+              "Renewed advance",
+              "Clear defenders blocking allied routes",
+              "Move when a different group needs help"
+            ],
+            [
+              "Headquarters assault",
+              "Attack the marked final defenses",
+              "Observe the final orders rather than chasing stragglers"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Best Loadout for This Mission",
+        "paragraphs": [
+          "A balanced aircraft is the practical starting point. Choose an airframe with surface-attack options and enough air capability to handle the interruption. Compare the weapons you can equip now instead of planning around a late unlock. If two aircraft both cover the roles, favor the one whose turning and attack recovery you can manage consistently. Losing an aircraft during a rushed pass costs more progress than a modest difference in weapon convenience.",
+          "For ground attacks, look for a special weapon that helps against the formations you can line up safely. For aircraft, keep an option you can employ without spending a long time chasing one opponent. Read the actual weapon description and target compatibility before sortieing. Do not assume that a weapon recommended for one role will lock onto every kind of target in the mission.",
+          "Think in terms of ammunition available at the next transition. If you used most of your air weapons before the Shadows arrived, test an opening that relies more on ground equipment and deliberate standard-missile attacks. If surface attacks are the weak point, improve alignment so each pass covers a useful group. Change one part of the loadout at a time to see which resource actually limits your clear."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Walkthrough by Stage",
+        "steps": [
+          {
+            "heading": "Support the exposed approach",
+            "description": "Start with enemies capable of harming the advancing troops. Establish a clean line through one useful group, complete the attack, and check the allied reports before turning back. Do not remain over a cleared group while another approach comes under pressure."
+          },
+          {
+            "heading": "Reset for the air battle",
+            "description": "When the Shadows become the active problem, recover enough space to maneuver and select your air weapon. Make deliberate attacks rather than firing through poor angles. Keep the ground force in your route planning so the dogfight does not become an excursion far from the battle."
+          },
+          {
+            "heading": "Open the headquarters approach",
+            "description": "After the air threat is handled, return to the defenders holding up the ground force. Select the marked targets requested for the final assault. Confirm each update before moving to another sector, and stop when the mission orders a cease-fire."
+          }
+        ]
+      },
+      {
+        "id": "problems",
+        "heading": "Protecting Objectives and Target Priorities",
+        "paragraphs": [
+          "If the mission fails while you still have plenty of ammunition, inspect your target order. Resources remaining at the end do not help a ground unit you left unsupported. On the next attempt, identify the first troop warning and alter the route before that point. This is a more useful correction than simply buying a heavier weapon and repeating the same sequence.",
+          "If troops seem stuck, look for the defenders around their current route and read the latest requested target. A stationary allied group is a signal to examine its immediate problem. Avoid assuming that every visible hostile must be cleared before it can move. Attack the relevant defenses, then watch for confirmation before leaving.",
+          "If you run out of useful weapons during the fighter battle, count the misses and unproductive pursuits from the previous attempt. You may need a different air weapon, but you may also need a steadier firing angle. If the loadout works against the first few aircraft, preserve that attack method instead of rushing the later engagements. Keep enough room to evade and set up another pass."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Troubleshooting and Replay Planning",
+        "paragraphs": [
+          "Separate three replay goals: a reliable clear, a better rank, and optional collection. Each asks a different question. For a clear, find the first unsupported allied route. For rank improvement, compare attack efficiency and the time spent traveling between useful targets. For collection, check the relevant in-game record and plan the extra action without assuming it is required to capture the headquarters.",
+          "Write down the point at which your plan stopped matching the current objective. If it was the fighter transition, reserve a better air option. If it was the final advance, reduce unnecessary travel and return sooner. Keep the same difficulty while comparing attempts. Once the mission is secure, continue to Mission 26 or prepare for the Fatsia strike in Mission 27."
+        ],
+        "links": [
+          {
+            "slug": "mission-26",
+            "label": "Continue to Mission 26"
+          },
+          {
+            "slug": "mission-27",
+            "label": "Prepare for Mission 27"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Paint It Blue the name of Mission 25?",
+        "answer": "Paint It Blue is the operation name associated with Mission 25, The Battle of Rocky Island, Day 2. Use the number and mission title to distinguish it from the first day of the battle."
+      },
+      {
+        "question": "Why can the ground assault fail while I am fighting aircraft?",
+        "answer": "Your ground-support responsibility still matters. Review the troop warnings and how far your dogfight carried you from the advance; respond to threats rather than following an aircraft indefinitely."
+      },
+      {
+        "question": "Should I use only ground-attack weapons?",
+        "answer": "Keep an air-to-air option ready as well. The sortie includes a Shadow engagement between the opening battle and later headquarters support."
+      },
+      {
+        "question": "What should I attack when friendly troops stop?",
+        "answer": "Check the latest objective and the hostile defenses around the stalled route. Remove the relevant blocker and watch for movement or an updated order before changing sectors."
+      },
+      {
+        "question": "Do optional aces have to be part of my clear route?",
+        "answer": "Treat collection as a separate replay goal. Build a dependable headquarters-assault route first, then check the in-game records before adding optional detours."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-26",
+      "mission-27"
+    ],
+    "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-27",
+    "pageType": "guide",
+    "navLabel": "Mission 27",
+    "title": "Ace Combat 8 Mission 27 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 27 walkthrough: understand the objective order, plan your aircraft loadout, solve tricky phases, and improve your replay.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 27 Walkthrough",
+      "lead": "Mission 27, Fatsia, The Ocean Fortress, moves from attacks on the megafloat’s exterior to a central reactor objective. Structural targets help the opening battle; the later objective demands that you leave exterior cleanup behind.",
+      "quickRoute": [
+        "Attack useful structural targets and explosive facilities instead of treating every exterior icon as equally valuable.",
+        "When the surrender and hold-fire orders arrive, stop shooting and read the changed objective.",
+        "Line up the central entrance with room to adjust before committing to the interior approach.",
+        "Attack the reactor as instructed and confirm the follow-up damage; do not assume the first hit completes the objective."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "route",
+        "heading": "Mission 27 Quick Route",
+        "paragraphs": [
+          "Build your route around the objective transitions. In the opening, look for an attack that changes the structure you are fighting over. Later, stop thinking in terms of the targets you left behind and start thinking about the central approach. Continuing a successful opening pattern after the mission changes is a common way to waste a run that was otherwise going well.",
+          "The first practical decision is choosing a manageable exterior sector. Work through targets from a clear attack line and watch what collapses or disappears. That gives you feedback about which attacks are producing useful progress. Do not fly into the structure simply to inspect the result. Recover to open space, check the next marker, and establish the next line from there."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives in Order",
+        "paragraphs": [
+          "Fatsia is a megafloat installation with exterior defenses and structural targets. Support pillars and explosive facilities are useful to the opening destruction plan. The battle subsequently reaches surrender orders and a central reactor objective. Follow the current order rather than imposing a requirement to remove every remaining exterior target.",
+          "Use the following table as a transition checklist. It deliberately avoids a fixed score or time requirement: read the displayed objective for the difficulty you selected. The important distinction is whether you should still be attacking the exterior, holding fire, or lining up for the interior. Confirm that distinction whenever dialogue interrupts the action."
+        ],
+        "table": {
+          "caption": "Fatsia transition checklist",
+          "columns": [
+            "Current cue",
+            "Action",
+            "Stop doing"
+          ],
+          "rows": [
+            [
+              "Exterior attack objective",
+              "Choose productive structural attacks",
+              "Circling isolated targets with no useful angle"
+            ],
+            [
+              "Surrender or hold-fire order",
+              "Release the trigger and reassess",
+              "Finishing a queued cleanup pass"
+            ],
+            [
+              "Central objective appears",
+              "Approach the assigned opening",
+              "Returning to an unfinished exterior arm"
+            ],
+            [
+              "Reactor remains active",
+              "Read the target and make the required follow-up attack",
+              "Assuming an initial impact is the final confirmation"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Aircraft and Special Weapon Choice",
+        "paragraphs": [
+          "Start with a loadout that can handle dense surface targets while retaining control during the final approach. A surface weapon that reduces the number of exposed exterior passes can be useful, but the aircraft must still be comfortable to fly when the available space narrows. If you repeatedly collide inside, a familiar airframe is a sensible alternative to choosing only for destructive power.",
+          "Use the hangar to check weapon compatibility and your available reserve. Keep an air-capable option for threats that interrupt the surface attack. Do not commit every special weapon to targets already covered by an easy standard-missile pass. A balanced reserve gives you another answer when the approach you planned is blocked or when you need to recover from a missed attack.",
+          "For the reactor, favor a firing method you can line up and confirm. The size of an exterior target group is no reason to assume the same release pattern will work inside. Before entering, know which weapon is selected and which control changes that selection. Searching through options during a constrained turn is a preventable source of missed shots and collisions."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Mission Phase Walkthrough",
+        "steps": [
+          {
+            "heading": "Create structural progress",
+            "description": "Choose a sector with a clear exit. Attack the relevant supports or explosive facilities, confirm the resulting destruction, and move along a planned line. Remove a defensive weapon when it prevents that line from being safe; do not turn every isolated gun into a separate low-level chase."
+          },
+          {
+            "heading": "Obey the change of orders",
+            "description": "When surrender or hold-fire instructions arrive, stop the attack immediately. Read the next objective and move into position for the central approach. An old target remaining on screen is not permission to ignore the new order. Allow enough distance to align before entering."
+          },
+          {
+            "heading": "Complete the reactor attack",
+            "description": "Inside, keep your attention on the marked reactor and the available firing window. An initial strike is followed by another attack before the shutter blocks the shot. Check the target feedback and mission confirmation, while keeping enough control to make the required turn rather than exploring side passages."
+          }
+        ]
+      },
+      {
+        "id": "threats",
+        "heading": "Handling Key Threats",
+        "paragraphs": [
+          "Exterior defense and collision risk require different corrections. If gunfire disrupts every approach, clear the defense covering your chosen line or move to an angle with less exposure. If you hit the structure after a successful release, your recovery began too late. Give the next pass a defined exit and abandon the shot early if that exit disappears.",
+          "For the entrance, a longer setup is often easier to repeat than a last-second correction. Line up in open space, reduce the amount of bank needed at the opening, and keep the aircraft’s attitude readable. If the entrance drifts out of a safe line, reset before committing. Trying to rescue a bad entry from very close range can cost the entire attempt.",
+          "During the reactor sequence, distinguish a missed shot from incomplete damage. Check the selected target and visible feedback. If the first impact registers but the objective remains, prepare the follow-up rather than leaving to search for more exterior targets. Watch the shutter and current instructions; do not replace that information with an assumed number of seconds."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Troubleshooting a Failed Run",
+        "paragraphs": [
+          "If you fail before reaching the interior, compare which exterior attacks created useful progress. Remove one unproductive detour and try the same sector again. If you reach the reactor reliably but fail there, retain the exterior route and practice the entry, target selection, and follow-up as one connected sequence. Changing the entire sortie at once makes it harder to tell what improved.",
+          "For rank replays, compare productive attacks, unnecessary exposure, and time spent reacquiring a target after each turn. Keep a successful clear as your reference instead of demanding a speculative numerical threshold. Mission 28 uses a different air-defense plan; continue to its dedicated guide rather than carrying Fatsia’s surface-attack loadout forward without review."
+        ],
+        "links": [
+          {
+            "slug": "mission-25",
+            "label": "Review the Rocky Island support mission"
+          },
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Mission 28 interception and S Rank route"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do I have to destroy every exterior target on Fatsia?",
+        "answer": "Follow the active destruction objective and its progress display. When the mission changes to hold fire or the central objective, stop exterior cleanup and follow that instruction."
+      },
+      {
+        "question": "Why should I target supports and explosive facilities?",
+        "answer": "They can produce structural destruction, making them useful choices during the exterior battle. Check the result of the pass rather than assuming every red icon contributes equally to your route."
+      },
+      {
+        "question": "What should I do when surrender is announced?",
+        "answer": "Stop shooting when ordered and check the new objective. Releasing the trigger also prevents a planned cleanup volley from carrying through the change of orders."
+      },
+      {
+        "question": "Why did the reactor objective remain after my first hit?",
+        "answer": "The reactor sequence includes a follow-up attack. Check the target feedback and make the next required strike before the shutter obstructs it, rather than immediately returning outside."
+      },
+      {
+        "question": "How can I make the interior approach safer?",
+        "answer": "Align from open space, select the intended weapon beforehand, and reset a poor approach before entering. Use an aircraft you can control consistently through the entry and turn."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-25",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-08",
+    "pageType": "guide",
+    "navLabel": "Mission 8",
+    "title": "Ace Combat 8 Mission 8 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 8 walkthrough with objective order, mission-stage advice, aircraft choices, common mistakes, and clear answers to player questions.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 8 Walkthrough",
+      "lead": "Mission 8 is Retaking of Theve II, Operation Gut Shot. Support the landing force, clear the ground advance, and intercept bombers before returning to the headquarters defenses. Keep the protected force at the center of your target decisions.",
+      "quickRoute": [
+        "Check that the briefing reads Retaking of Theve II / Gut Shot; this guide uses the numbered Mission 08 route.",
+        "At the landing approach, attack threats to the friendly craft rather than pursuing distant fighters.",
+        "After landing, remove the defenses blocking allied ground units and respond to bomber warnings promptly.",
+        "Finish the marked headquarters defenders while preserving enough ammunition for later aircraft."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "strategy",
+        "heading": "Mission 8 Quick Strategy",
+        "paragraphs": [
+          "Start by identifying which friendly group you are supporting. As the landing develops, your useful target changes: a hostile aircraft near the craft, a defense blocking movement ashore, or a bomber on its approach can each become the immediate priority. Choose based on the current threat, not on the order in which red contacts first appeared on your screen.",
+          "Use each completed attack as a chance to read the next warning. A long turning fight can carry you away from the force you need to protect. If a target pulls you away without giving you a clean shot, reconsider the chase. Returning to the landing force may accomplish more than spending another circuit trying to finish that fighter. Your route should keep bringing you back to the active allied advance."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Mission Objectives",
+        "paragraphs": [
+          "Retaking of Theve II mixes naval, ground, and air targets. The useful progression is landing support, assistance to the ground force, and attacks on the marked defenders around the headquarters. Bomber threats can interrupt that work. Follow the radio and objective display when they do; a stage summary should help interpret the mission, not override a new order.",
+          "When a ground unit stops, inspect the defenses along its route. Remove the target that prevents movement and watch for confirmation before moving elsewhere. During a bomber warning, reassess the air picture promptly. An escort trying to draw you into a turn is a different problem from the bomber continuing toward friendly troops."
+        ],
+        "table": {
+          "caption": "Mission 8 priority guide",
+          "columns": [
+            "Objective cue",
+            "Best next action",
+            "What can wait"
+          ],
+          "rows": [
+            [
+              "Landing force under attack",
+              "Remove the attacker threatening the craft",
+              "A fighter retreating away from the landing"
+            ],
+            [
+              "Ground force cannot advance",
+              "Clear the defenses on its route",
+              "An unrelated target in a quiet area"
+            ],
+            [
+              "Bomber warning",
+              "Intercept the approaching bomber",
+              "A prolonged fight with its escort"
+            ],
+            [
+              "Headquarters targets marked",
+              "Finish the required defenders",
+              "Optional map cleanup away from the advance"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Plane and Weapon Setup",
+        "paragraphs": [
+          "Choose a multirole aircraft with a surface-attack option and a useful answer to airborne targets. A narrow surface-only plan makes the bomber interruptions harder, while an air-only setup can leave the ground advance slow. Compare the weapons you can equip on your current aircraft before treating another purchase as necessary. Familiar handling is valuable in a long sortie with frequent changes of target type.",
+          "Manage ammunition by the attack opportunities ahead. If a ground formation is lined up cleanly, use an appropriate weapon to avoid several separate turns. If targets are scattered, avoid spending a valuable area attack on one isolated vehicle simply because the weapon is ready. Preserve an air option for the next bomber warning instead of using all of it in the opening dogfight.",
+          "Check each weapon’s target compatibility in the hangar. During the sortie, verify the selected target after switching from surface to air combat. A failed lock may mean you still have the wrong weapon selected, rather than a problem with range. Practice that selection sequence before relying on it during a warning; the faster you can make the switch deliberately, the less likely you are to waste the first interception chance."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Stage-by-Stage Walkthrough",
+        "steps": [
+          {
+            "heading": "Keep the landing approach open",
+            "description": "Stay near enough to answer an attack on the friendly craft. Work through the threats affecting their approach, then look for the next active attacker. After each pass, check the craft rather than automatically turning back toward the last red contact you saw."
+          },
+          {
+            "heading": "Unblock the ground advance",
+            "description": "Once troops are ashore, use their reports to find the group that cannot move. Attack the defenses directly affecting that route. When movement resumes, reassess the next group; staying over a solved blockage leaves other troops without support."
+          },
+          {
+            "heading": "Interrupt for bombers",
+            "description": "A bomber warning changes the priority. Set up an intercept against the aircraft carrying the threat, and avoid letting an escort extend the chase. After the immediate air danger is handled, return to the ground objective and finish the marked headquarters defenses."
+          }
+        ]
+      },
+      {
+        "id": "problems",
+        "heading": "Common Problems and Fixes",
+        "paragraphs": [
+          "If friendly losses end the run, find the moment you left the active objective unsupported. Were you fighting far away, attacking a quiet sector, or turning repeatedly over a target that no longer mattered? Change the route before that moment. Merely flying faster through the same detour may still leave too much time for the threatening unit to attack.",
+          "If you are shot down over ground defenses, shorten the exposure of each pass. Approach with enough room to identify the target, release from a stable line, and leave before beginning another turn. A tight circle directly above hostile defenses can make both aiming and threat awareness worse. A fresh approach also helps you see whether a new warning has appeared.",
+          "If ammunition is the limiting factor, identify the weapon and the stage where the shortage begins. Missiles spent on poor fighter angles call for better air attacks; surface weapons spent on isolated vehicles call for better grouping. Do not solve both problems with the same change by default. Retain the attacks that worked and replace the least productive part of the route."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay Advice",
+        "paragraphs": [
+          "Learn a dependable support route before adding optional targets. On a first clear, the useful questions are whether the landing force stays protected and whether you reach the final defenders with a workable reserve. On a rank replay, compare the delay between a warning and your response, the number of unnecessary turns, and the amount of travel between active objectives.",
+          "Keep your aircraft and difficulty consistent for an initial comparison. If the next result improves, you can relate that improvement to the route change you made. If it gets worse, check whether the new shortcut actually left an allied group unsupported. Use the general S Rank guide for this replay method, then return to the mission list when choosing the next sortie."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Choose an aircraft for mixed targets"
+          },
+          {
+            "slug": "s-rank-guide",
+            "label": "Prepare a controlled rank replay"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Mission 08 the same as Mission 8?",
+        "answer": "Yes. The leading zero is part of this site’s route format. The mission is Retaking of Theve II, with the operation name Gut Shot."
+      },
+      {
+        "question": "Should I fight bomber escorts first?",
+        "answer": "Prioritize the bomber threatening friendly forces. Fight an escort when it prevents a safe interception, but avoid a long chase that leaves the bomber free to continue its attack."
+      },
+      {
+        "question": "Why are my ground units not advancing?",
+        "answer": "Check their current report and the defenses along their route. Remove the relevant blocker, then look for movement or an objective update before leaving the area."
+      },
+      {
+        "question": "What loadout fits Operation Gut Shot?",
+        "answer": "Use a manageable multirole aircraft with both surface and air capability. Keep ammunition available for bomber interruptions instead of committing everything to the opening targets."
+      },
+      {
+        "question": "What should I change after running out of missiles?",
+        "answer": "Identify where the shortage started. Improve missed air shots or inefficient surface passes first, then consider capacity or a different weapon if the same stage still leaves you short."
+      }
+    ],
+    "relatedSlugs": [
+      "best-planes",
+      "s-rank-guide"
+    ],
+    "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-17",
+    "pageType": "guide",
+    "navLabel": "Mission 17",
+    "title": "Ace Combat 8 Mission 17 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 17 guide with objectives, recommended loadouts, walkthrough steps, key threats, replay tips, and answers to common questions.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 Mission 17 Walkthrough",
+      "lead": "Mission 17, Land Battleship No. 3, asks you to clear radar and surface-to-air defenses for the bomber attack. Work through the required targets along a planned route; the battleship itself is not a reason to abandon the marked defenses.",
+      "quickRoute": [
+        "Read the remaining target groups and plan a continuous sweep rather than crossing the area repeatedly.",
+        "Attack the radar and SAM defenses required to open the bomber approach.",
+        "Recheck the target list around the land battleship when the objective updates.",
+        "Keep optional ace hunting separate from your first dependable clear and follow the bomber-related orders to completion."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "plan",
+        "heading": "Mission 17 Quick Plan",
+        "paragraphs": [
+          "Start with the target display and your aircraft’s surface-attack options. Build a route through the marked defenses that leaves you lined up for the next group after each pass. Crossing back and forth for individual targets can consume the sortie without adding useful attacks. If you miss one, remember its position in relation to the next group rather than immediately making a hard turn under fire.",
+          "Keep the bomber-support purpose in mind. The mission is asking you to remove obstacles to another force’s attack, so optional opponents should not determine your route. Before chasing an aircraft, decide whether it is stopping you from completing the marked work. If it is only drawing you away, recover your attack line and continue clearing the required defenses."
+        ]
+      },
+      {
+        "id": "goals",
+        "heading": "Mission Goals and Phases",
+        "paragraphs": [
+          "Land Battleship No. 3 is Operation Broncobuster. The opening work concerns radars and SAM launchers, followed by required targets near the battleship and the bomber attack. Use the objective changes as the boundary between these tasks. Do not import the mechanics of another land-battleship mission just because the large target looks familiar.",
+          "The safest planning aid is a short remaining-target check. After each pass, identify the next required group, the direction of your exit, and the weapon you will use. If the display still shows a defense you thought was destroyed, verify the actual target before spending another shot. A nearby visual explosion is less useful than confirmation that the marked objective has been removed."
+        ],
+        "table": {
+          "caption": "Mission 17 objective planning",
+          "columns": [
+            "Task",
+            "Decision to make",
+            "Useful confirmation"
+          ],
+          "rows": [
+            [
+              "Clear radar and SAM defenses",
+              "Choose a route through required groups",
+              "Marked targets disappear after the attack"
+            ],
+            [
+              "Approach the battleship area",
+              "Read the updated target set",
+              "Your next attack matches the current order"
+            ],
+            [
+              "Support the bomber attack",
+              "Complete remaining required work",
+              "The mission advances to the bomber sequence"
+            ],
+            [
+              "Consider an optional target",
+              "Decide whether this is a collection run",
+              "The main objective remains achievable"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Loadouts",
+        "paragraphs": [
+          "Begin with a familiar multirole aircraft and a surface weapon suited to the required groups. The best practical setup is one that reduces the number of passes while keeping the aircraft controllable during recovery. A powerful weapon that you repeatedly release at the wrong angle is less useful than a simpler option you can place consistently. Use the hangar descriptions to compare compatibility and capacity among aircraft you already own.",
+          "Retain a way to deal with aircraft that interfere with the route. This does not mean you must clear every fighter before attacking ground targets. It means the loadout should not leave you helpless when an air threat prevents a safe pass. Choose when to interrupt the ground sweep, then return to the next required group instead of turning the interruption into a long excursion.",
+          "If you need multiple attempts, compare loadouts against the same opening route. Note how many required targets you remove on each pass and whether the exit leaves you facing the next group. A change that makes the opening look spectacular but forces a large recovery detour may be slower overall. Judge the entire sequence, including the turn and reacquisition, before deciding the new weapon is better."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Complete Walkthrough",
+        "steps": [
+          {
+            "heading": "Sweep the required defenses",
+            "description": "Select a marked radar or SAM group and approach from a line that continues toward another required group. Confirm the destroyed targets, then leave the area on the planned exit. If the attack misses, avoid a blind snap turn; regain a readable angle before trying again."
+          },
+          {
+            "heading": "Recheck the battleship perimeter",
+            "description": "When the opening defenses are handled, follow the updated markers toward the battleship area. Read what is actually selected before launching. The large hull is visually prominent, but the current required defenses are what should determine your next useful attack."
+          },
+          {
+            "heading": "Finish the support task",
+            "description": "Before waiting for the bomber sequence, check that no required target remains on the display. If the mission does not advance, compare your assumption with the active order. Finish the marked work, maintain safe flight, and let the mission confirmation establish that the clear is complete."
+          }
+        ]
+      },
+      {
+        "id": "optional",
+        "heading": "Optional Ace Encounters",
+        "paragraphs": [
+          "Avus is associated with Mission 17’s optional ace collection. Keep that goal distinct from opening the bomber route. A first clear teaches you the required target layout; a collection attempt adds a separate condition and another engagement. Trying to learn both at once makes it difficult to tell whether a failure came from a missed defense, an inefficient route, or the optional diversion.",
+          "For an ace attempt, check the in-game record and the difficulty you selected before beginning. Do not assume that a missing optional aircraft means the main mission is broken. Return to the required target display and continue the support task if your immediate goal is a clear. After you have a repeatable route, you can measure where an extra engagement would fit without sacrificing the bomber objective."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Mistakes and Replay Tips",
+        "paragraphs": [
+          "If you run out of time, review the travel between attacks before trying more aggressive flying. Look for a target that made you cross the whole area twice or a missed group that forced a late return. Improve that segment first. The aim is to connect useful attacks, not simply to keep the throttle high while moving between poor approach angles.",
+          "If repeated hits do not remove the objective, confirm target selection and line of fire. If repeated low passes end in collisions, give yourself more recovery room and abandon marginal shots earlier. If air threats keep interrupting, reserve a dependable response and use it only when it protects the route. These are different problems and should lead to different adjustments.",
+          "For a rank replay, keep a short record of missed passes and unnecessary turns. Compare the results after changing one section of the route. Mission 16’s identification task requires a different approach; use its guide when returning to that mission rather than applying this target-clearing rhythm to civilian shipping."
+        ],
+        "links": [
+          {
+            "slug": "mission-15",
+            "label": "Review Mission 15 interception"
+          },
+          {
+            "slug": "mission-16",
+            "label": "Return to Mission 16 identification"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the objective of Mission 17?",
+        "answer": "Clear the required radar and surface-to-air defenses to support the bomber attack on Land Battleship No. 3. Follow the updated target groups around the battleship before expecting the mission to advance."
+      },
+      {
+        "question": "Should I attack the battleship immediately?",
+        "answer": "Use the current marked targets to decide. The opening support work concerns the defenses protecting the approach; the most visible object is not automatically the next required target."
+      },
+      {
+        "question": "Which aircraft should I choose?",
+        "answer": "Start with a controllable multirole aircraft and a useful surface weapon, while retaining air capability for interference. Compare your unlocked loadouts against the route you can fly reliably."
+      },
+      {
+        "question": "Is Avus part of the ordinary clear?",
+        "answer": "Avus is an optional ace associated with this mission. Keep collection separate from learning the required defense-clearing route, and check the in-game record before planning an ace attempt."
+      },
+      {
+        "question": "Why does the mission not move to the bomber attack?",
+        "answer": "Check for remaining required targets and reread the active order. Confirm that the defense you attacked was actually destroyed rather than assuming a nearby explosion completed the group."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-15",
+      "mission-16"
+    ],
+    "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "s-rank-guide",
+    "pageType": "guide",
+    "navLabel": "S Rank Guide",
+    "title": "Ace Combat 8 S Rank Guide: Requirements & Tips",
+    "description": "Learn how to approach Ace Combat 8 S Rank replays, improve time and scoring decisions, choose helpful aircraft, and troubleshoot common mistakes.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Unofficial fan guide",
+      "heading": "Ace Combat 8 S Rank Guide",
+      "lead": "Build an S Rank attempt from a repeatable clear, then improve the weakest part of that run. Use mission results to judge changes to your route and loadout; there is no useful one-number shortcut for every mission.",
+      "quickRoute": [
+        "Learn the required objectives and secure a reliable clear before adding optional detours.",
+        "Choose aircraft and weapons that match the mission’s targets and your available unlocks.",
+        "Reduce empty travel, missed attacks, and time spent pursuing targets that do not help the route.",
+        "Compare the results screen on the same mission and difficulty, then change one weak segment for the next attempt."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "S Rank: What to Know First",
+        "paragraphs": [
+          "A first clear and a rank replay have different immediate goals. During a first clear, you are learning target locations, objective changes, and the amount of ammunition needed to finish. During a rank replay, that knowledge lets you choose a better order and reduce unnecessary work. Do not make every learning attempt a test of whether you can already fly an optimized route.",
+          "Keep the comparison specific to the mission and difficulty. A destruction-heavy sortie rewards a different pattern of attacks from an escort where an unprotected friendly force can end the attempt. Likewise, a strong aircraft does not compensate for continuing to attack old targets after the objective changes. Start by making the required clear dependable, then judge how each adjustment affects the complete result."
+        ]
+      },
+      {
+        "id": "results",
+        "heading": "How to Read Mission Results",
+        "paragraphs": [
+          "Use the results page as feedback rather than relying on how busy the sortie felt. Record the displayed rank, score or evaluation breakdown, completion time, and any shown penalties or bonuses. Compare like with like: the same mission, the same difficulty, and a clear note of what changed. Do not combine numbers from different missions and treat them as a universal S Rank formula.",
+          "Read the labels actually present in your result. If the run ends before a result is awarded, solve the clear failure first. If a completed attempt falls short, distinguish a route that was slow from one that missed valuable targets. A faster result with lower destruction is a tradeoff to examine, not automatic proof that the shortcut was good or bad."
+        ],
+        "table": {
+          "caption": "Result-driven priorities",
+          "columns": [
+            "Observed problem",
+            "Change to test",
+            "Keep consistent"
+          ],
+          "rows": [
+            [
+              "The mission is not completed",
+              "Fix the first objective or survival failure",
+              "The required objective order"
+            ],
+            [
+              "Long gaps between useful attacks",
+              "Connect target groups with shorter travel",
+              "Aircraft and difficulty"
+            ],
+            [
+              "Many unsuccessful launches",
+              "Improve firing angle and weapon selection",
+              "The route segment being tested"
+            ],
+            [
+              "Optional pursuit adds a large delay",
+              "Compare a run without that diversion",
+              "Other target choices"
+            ],
+            [
+              "Good opening, poor final phase",
+              "Reserve the weapon needed at the transition",
+              "The successful opening route"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "checklist",
+        "heading": "S Rank Replay Preparation Checklist",
+        "steps": [
+          {
+            "heading": "Define one improvement",
+            "description": "Choose a measurable problem from the last completed attempt: a missed target group, a long turn, an ammunition shortage, or a delayed response to a warning. State what you will do differently before sortieing. Avoid changing the route, aircraft, weapons, and difficulty all at once."
+          },
+          {
+            "heading": "Prepare for transitions",
+            "description": "List the major objective changes and which weapon you need after each one. Keep a reserve for the final task. A loadout that clears the first part quickly but leaves the last part slow should be judged across the whole mission, including the recovery time it creates."
+          },
+          {
+            "heading": "Compare the finished result",
+            "description": "After the run, write down the displayed result and whether the planned change worked. If a different mistake spoiled the comparison, keep that distinction clear. Repeat a useful adjustment until it is dependable before adding another optimization."
+          }
+        ]
+      },
+      {
+        "id": "discipline",
+        "heading": "Time, Accuracy and Objective Discipline",
+        "paragraphs": [
+          "Reduce time spent doing nothing useful before trying risky shortcuts. An empty pursuit, a repeated turn over a missed target, and a long trip back to a forgotten defense all consume time without completing another objective. Look for a route that exits one attack facing the next group. This can improve the sortie without requiring faster reactions or a less familiar aircraft.",
+          "Treat accuracy as a resource-management tool. Confirm the selected target and a usable firing solution before launching. If a weapon repeatedly misses in one situation, identify whether the problem is range, angle, target type, or the timing of your release. Spending more ammunition on the same poor solution rarely makes the route dependable. A clean attack can also leave more reserve for a later phase.",
+          "Objective discipline matters throughout the attempt. An escort warning can make a distant score target irrelevant; a hold-fire order can make the previous cleanup route inappropriate. Pause your attack decision long enough to read the change. Use optional targets when they fit the mission plan, and evaluate the extra travel they require rather than assuming every possible kill improves the final result."
+        ]
+      },
+      {
+        "id": "aircraft",
+        "heading": "Aircraft and Loadout Decisions",
+        "paragraphs": [
+          "Match the loadout to the target mix and the route you can fly. An interception mission needs a way to establish productive air attacks. A dense surface battle benefits from equipment that can remove a useful group without several exposed passes. A mission combining both needs a reserve for the transition. Compare available aircraft by the problem they solve instead of treating the most expensive unlock as a requirement.",
+          "Handling is part of that comparison. If you repeatedly overshoot an interception or collide during an approach, a familiar airframe may produce a better complete attempt than one with attractive headline performance. Use the aircraft guide to compare roles, then test the actual loadout against one consistent route. Read the hangar descriptions for weapon compatibility rather than inferring it from the weapon’s appearance.",
+          "Keep upgrades tied to evidence from your attempts. If ammunition remains unused because your shots cannot connect, capacity is not the first problem to solve. If a clean route consistently runs short in the same phase, capacity or a different weapon may deserve a test. Avoid spending currency on several changes at once; you want to know which purchase, if any, improved the repeatable result."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Compare aircraft and loadout roles"
+          }
+        ]
+      },
+      {
+        "id": "retry",
+        "heading": "How to Improve After a Failed S Rank Attempt",
+        "paragraphs": [
+          "Find the largest avoidable loss in the run, then turn it into one action for the next attempt. Replace “fly better” with a concrete decision such as leaving a quiet sector sooner, selecting the air weapon before a warning, or approaching a target group from the opposite end. This creates a test you can evaluate even when the next result is not yet an S Rank.",
+          "Keep collection attempts separate when their route conflicts with the rank plan. An optional ace or other record may require an extra action that changes the timing of the sortie. Secure that objective on its own run when necessary, then return to the cleaner route. Do not assume a collection condition is also an S Rank requirement.",
+          "Retain the successful parts of a failed attempt. If the first half is consistent, preserve it while improving the final transition. If the final phase works but the opening wastes ammunition, improve the opening rather than rebuilding the whole sortie. Small, attributable changes make it easier to understand the next results screen."
+        ]
+      },
+      {
+        "id": "mission-guides",
+        "heading": "Mission-Specific S Rank Guides",
+        "paragraphs": [
+          "Use this page for the replay method and the mission walkthrough for the actual target order. Mission 28 has its own interception and fleet-defense demands, so its detailed route remains in the dedicated guide. Mission 8 and Mission 27 also illustrate why a single general loadout cannot be assumed to fit every attempt. Read the relevant objective sequence before applying the checklist above."
+        ],
+        "links": [
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Open the Mission 28 S Rank guide",
+            "description": "Use the dedicated bomber-interception and final air-battle route."
+          },
+          {
+            "slug": "mission-08",
+            "label": "Review Mission 8 support priorities"
+          },
+          {
+            "slug": "mission-27",
+            "label": "Review Fatsia’s objective transitions"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is there one S Rank score requirement for every mission?",
+        "answer": "Do not use one number across the campaign. Compare the result and objective structure of the particular mission and difficulty you are replaying."
+      },
+      {
+        "question": "Should I chase time or destruction first?",
+        "answer": "Find the weakness in your completed run. Remove empty travel and missed attacks first, then compare whether a target detour improves the complete result rather than focusing on only one measure."
+      },
+      {
+        "question": "Do I need the most expensive aircraft for S Rank?",
+        "answer": "Choose a loadout that addresses the mission and that you can control consistently. An expensive aircraft does not fix a poor route, missed firing solutions, or ignored objective changes."
+      },
+      {
+        "question": "Should every optional ace be included in my rank route?",
+        "answer": "Evaluate the detour separately. Collection can require actions that disrupt a rank route, so use a separate attempt when the two goals compete."
+      },
+      {
+        "question": "What should I record after a replay?",
+        "answer": "Record the mission, difficulty, displayed rank and evaluation, completion time, and the one route or loadout change being tested. Add the first major mistake so the next comparison has context."
+      },
+      {
+        "question": "Where is the detailed Mission 28 S Rank route?",
+        "answer": "Follow the Mission 28 S Rank guide linked above. It covers that mission’s interception and air-defense sequence, while this page covers the method for comparing replays across missions."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-28-s-rank",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-10-15"
   }
 ]

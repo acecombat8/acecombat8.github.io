@@ -178,6 +178,7 @@ export interface SeoPageDefinition {
     heading: string;
     lead: string;
     quickRoute?: string[];
+    answerFirst?: boolean;
     quickLinks?: InternalLink[];
   };
   sections: PageSection[];
