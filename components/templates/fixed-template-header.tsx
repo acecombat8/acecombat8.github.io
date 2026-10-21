@@ -17,6 +17,21 @@ export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
   const close = () => { setOpen(false); setExpanded(null); };
 
   useEffect(() => {
+    if (!open) return;
+    const mobile = window.matchMedia("(max-width: 1023px)");
+    const previousOverflow = document.body.style.overflow;
+    const syncScroll = () => {
+      document.body.style.overflow = open && mobile.matches ? "hidden" : previousOverflow;
+    };
+    syncScroll();
+    mobile.addEventListener("change", syncScroll);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      mobile.removeEventListener("change", syncScroll);
+    };
+  }, [open]);
+
+  useEffect(() => {
     function outside(event: PointerEvent) {
       if (!header.current?.contains(event.target as Node)) { setOpen(false); setExpanded(null); }
     }
@@ -24,7 +39,7 @@ export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
     return () => document.removeEventListener("pointerdown", outside);
   }, []);
 
-  return <header ref={header} className="guide-header" onKeyDown={(event) => {
+  return <>{open ? <button className="guide-nav-backdrop" aria-label="Close navigation backdrop" tabIndex={-1} onClick={close} /> : null}<header ref={header} className="guide-header" onKeyDown={(event) => {
     if (event.key === "Escape") {
       event.preventDefault();
       if (expanded) { setExpanded(null); lastTrigger.current?.focus(); }
@@ -39,6 +54,7 @@ export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
         <img src={assetPath(siteConfig.assets.logo)} alt="" width="36" height="36" />
         <span>{siteConfig.shortName}</span>
       </Link>
+      <Link className="guide-mobile-missions" href={routePath("missions")} onClick={close}>Missions</Link>
       <button ref={toggle} type="button" className="guide-nav-toggle" aria-label={open ? "Close navigation" : "Open navigation"} aria-expanded={open} aria-controls="guide-navigation" onClick={() => { setOpen(!open); setExpanded(null); }}>
         {open ? <X size={20} aria-hidden="true" /> : <Menu size={20} aria-hidden="true" />}<span>Menu</span>
       </button>
@@ -56,5 +72,5 @@ export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
         </div>)}
       </nav>
     </div>
-  </header>;
+  </header></>;
 }

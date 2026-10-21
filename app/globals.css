@@ -562,6 +562,11 @@ html[data-skin="horror"] .skin-article-hero { border: 0; min-height: 28vh; }
 .guide-tools-group>button { display:none; }
 .guide-tools-group>.guide-nav-panel { display:flex; position:static; width:auto; max-height:none; overflow:visible; padding:0; border:0; box-shadow:none; background:transparent; }
 .guide-tools-group .guide-nav-panel a { padding:14px 10px; }
+.guide-nav-group:first-of-type>.guide-nav-panel.is-expanded { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); width:440px; }
+.guide-mobile-missions, .guide-nav-backdrop { display:none; }
+.guide-footer>.site-container { grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,.7fr); }
+.guide-footer-groups { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.guide-footer a { overflow-wrap:anywhere; }
 @media(max-width:1023px) {
   .guide-header-row { flex-wrap:wrap; gap:0 12px; }
   .guide-brand { min-height:76px; }
@@ -573,7 +578,13 @@ html[data-skin="horror"] .skin-article-hero { border: 0; min-height: 28vh; }
   .guide-nav-panel, .guide-tools-group>.guide-nav-panel { display:none; position:static; width:100%; max-height:none; padding:0 0 0 14px; border:0; border-left:1px solid #625633; box-shadow:none; }
   .guide-nav-panel.is-expanded, .guide-tools-group>.guide-nav-panel.is-expanded { display:block; }
   .guide-tools-group>button { display:flex; }
+  .guide-mobile-missions { display:block; margin-left:auto; padding:12px 6px; min-height:44px; font-size:14px; }
+  .guide-nav-backdrop { display:block; position:fixed; inset:0; z-index:20; background:#0008; cursor:default; }
+  .guide-nav-group:first-of-type>.guide-nav-panel.is-expanded { display:block; width:100%; }
+  .guide-footer>.site-container { grid-template-columns:minmax(0,1fr); }
+  .guide-footer-groups { grid-template-columns:repeat(3,minmax(0,1fr)); }
 }
+@media(max-width:479px) { .guide-footer-groups { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 .guide-main { padding-top:30px; }
 .guide-hero { padding:20px 0 32px; border-bottom:1px solid #625633; max-width:100%; }
 .guide-hero h1 { color:#ead895; max-width:960px; font-size:clamp(2.3rem,5.4vw,4rem); line-height:1.06; }
@@ -621,6 +632,7 @@ a:focus-visible, summary:focus-visible, button:focus-visible, [tabindex]:focus-v
   .guide-brand { font-size:14px; gap:8px; }
   .guide-brand img { width:30px; height:30px; }
   .guide-header-row { gap:10px; }
+  .guide-nav-toggle>span { display:none; }
   .guide-hero h1 { font-size:2.35rem; }
   .guide-actions { flex-direction:column; align-items:stretch; }
   .guide-actions a { justify-content:center; }

@@ -2350,5 +2350,914 @@
       "best-planes"
     ],
     "lastReviewed": "2026-10-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-30",
+    "pageType": "guide",
+    "navLabel": "Mission 30",
+    "title": "Ace Combat 8 Mission 30 Walkthrough & Final Guide",
+    "description": "Ace Combat 8 Mission 30 walkthrough with final mission objectives, key phases, loadout tips, carrier-defense priorities, and practical troubleshooting.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Song of Wings · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 30 Walkthrough",
+      "lead": "Ace Combat 8 Mission 30, Song of Wings, is the final campaign sortie. Protect the Endurance while the Triumphant attacks from underwater, then follow the changing guidance and submarine objectives. This guide covers the combat sequence; later sections reveal the final attack.",
+      "quickRoute": [
+        "Intercept anti-ship missiles approaching the Endurance; the submerged submarine is not your opening target.",
+        "Destroy hostile guidance UAVs, then follow the Rainband and airship instructions. Stop shooting the airship when D.D. takes control.",
+        "Attack the submarine’s marked weapons after it surfaces, and switch to the underwater launch tube when it becomes a target.",
+        "Clear missiles still in flight, then attack the hull during the final ramming run. Keep firing until mission completion."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 30 Quick Walkthrough: What to Do First",
+        "paragraphs": [
+          "Start by locating the Endurance and intercepting the incoming missile markers. Choose an approach that lets you finish an interception and turn back toward the carrier. Flying toward a presumed underwater launch point creates distance from the object you must defend.",
+          "Treat each new launch as a fresh threat. Destroying the source later does not remove weapons already traveling toward the ship. Before making a long attack pass, check whether a missile is closer to the Endurance than you are. If so, solve that interception first."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Final Mission Phases",
+        "paragraphs": [
+          "Operation Showdown shifts between defense and attack. Use the current target labels to recognize the transition instead of expecting a single submarine health bar to explain the whole battle."
+        ],
+        "table": {
+          "caption": "Song of Wings combat sequence",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Opening",
+              "Defend the Endurance",
+              "Intercept anti-ship missiles rather than searching underwater."
+            ],
+            [
+              "Guidance contest",
+              "Remove hostile UAVs",
+              "Keep following instructions as the fleet enters the Rainband."
+            ],
+            [
+              "Counterattack",
+              "Support the redirected strike",
+              "Preserve the airship once D.D. takes it over."
+            ],
+            [
+              "Surface battle",
+              "Disarm the Triumphant",
+              "Attack marked systems, then the underwater launch tube."
+            ],
+            [
+              "Final approach",
+              "Sink the submarine",
+              "Switch from components to the hull during the ram."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Best Aircraft and Weapon Approach for Mission 30",
+        "paragraphs": [
+          "A practical first-clear setup must handle airborne interceptions and attacks on a large surface target. Choose from aircraft you own with weapons you can aim consistently in both situations. An aircraft selected only for heavy surface damage can make the opening unnecessarily awkward if its special weapon cannot engage incoming airborne threats.",
+          "Before launch, check which weapon you will use against missiles and UAVs, which you will reserve for the submarine, and how you will attack while special weapons reload. Keep some ammunition for the closing hull attack. These are loadout choices based on target roles, not a requirement to buy a particular endgame aircraft."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Step-by-Step Final Mission Strategy",
+        "paragraphs": [
+          "In the opening, keep your interception circuit centered on the carrier. Avoid a long pursuit of an unrelated aircraft while anti-ship missiles are active. A short turn back toward the Endurance after each kill is a useful way to keep the next threat within reach.",
+          "When guidance UAVs become the objective, cycle through the marked drones and clear the hostile guidance. The battle continues into the Rainband; stay with the fleet and listen before firing at the airship. D.D.’s intervention changes its role, so an earlier hostile appearance is not a reason to keep attacking it.",
+          "Once the submarine surfaces, aim at the systems the game marks. Approach with enough room to pull away from the vessel, then check which component remains selected before the next pass. If the target disappears as the vessel dives, reposition for the next valid target rather than emptying ammunition into the water."
+        ]
+      },
+      {
+        "id": "guidance",
+        "heading": "Rainband Airship and Guidance Changes",
+        "paragraphs": [
+          "The airship sequence is a change in who controls the strike. D.D. takes over its systems so the guidance can be turned against the submarine. Your flying task is to follow the updated orders and deal with hostile guidance threats, rather than treat the airship as another object to destroy.",
+          "If this section seems stalled, read the current objective and check for remaining UAV targets. A quiet moment in the radio conversation is not a cue to invent a new target. Keep the carrier in view on the radar while checking what remains, because the escort responsibility continues around these transitions."
+        ]
+      },
+      {
+        "id": "failures",
+        "heading": "Common Failure Points and Fixes",
+        "paragraphs": [
+          "If the Endurance is hit while you are making a successful submarine pass, your route is too far from the immediate threat. Shorten the next pass and break away sooner to intercept launched missiles. Damage to the boss cannot compensate for losing the carrier.",
+          "If all obvious launchers are gone but attacks continue, look for the underwater launch-tube marker. If that target is also destroyed, clear any missiles already in flight. The final ramming phase then asks for direct hull damage: stop searching for another external launcher and commit your remaining weapons to the vessel.",
+          "Use a checkpoint retry to learn the phase that actually failed. Check the restored objective and ammunition before repeating your inputs; a retry is most useful when you change the interception angle, target selection, or timing that caused the loss."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay Tips Before the Mission 30 FAQ",
+        "paragraphs": [
+          "On a replay, distinguish time spent intercepting real threats from time spent waiting on the operation’s scripted transitions. Improve travel between active targets first. Rushing away from the Endurance merely to keep firing can make the run less reliable.",
+          "For the campaign’s preceding boss fight, use Mission 29. The separate Mission 28 S Rank guide concerns an earlier sortie with different priorities. Keep those routes separate from this carrier-defense sequence when planning a replay."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Ace Combat 8 Mission 30 called?",
+        "answer": "Song of Wings. It is the final numbered campaign mission, following Selene in Mission 29."
+      },
+      {
+        "question": "Why can I not attack the submarine at the start?",
+        "answer": "The Triumphant begins underwater. Intercept anti-ship missiles threatening the Endurance until the operation opens the counterattack."
+      },
+      {
+        "question": "Should I destroy the Rainband airship?",
+        "answer": "Follow D.D.’s instruction to stop attacking it when he takes over. Its guidance becomes part of the counterattack against the submarine."
+      },
+      {
+        "question": "Why do missiles continue after the visible launchers are destroyed?",
+        "answer": "A separate underwater launch tube becomes a target. Attack that marker and intercept missiles already in flight."
+      },
+      {
+        "question": "What do I attack during the final ramming run?",
+        "answer": "Attack the submarine’s hull with your remaining weapons. Disarming the vessel is an earlier objective; the final task is to sink it before the collision."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-29",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-24",
+    "pageType": "guide",
+    "navLabel": "Mission 24",
+    "title": "Ace Combat 8 Mission 24 Walkthrough & Tips",
+    "description": "Follow the Ace Combat 8 Mission 24 walkthrough with objective priorities, stage-by-stage tactics, aircraft choices, and help for common failures.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "The Battle of Rocky Island, Day 1 · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 24 Walkthrough",
+      "lead": "Ace Combat 8 Mission 24 is The Battle of Rocky Island, Day 1. Cover the landing forces as they advance to the Turntable, then protect Charlie and destroy the newly marked threats after the Tonitrus Spear strike.",
+      "quickRoute": [
+        "Cover the LCAC approach, intercepting attackers threatening the landing forces before pursuing unrelated fighters.",
+        "Clear defenses ahead of Alpha, Bravo, and Charlie as the ground advance moves toward the Turntable.",
+        "After the scripted Spear strike, switch your attention to Charlie and the new TGT ground forces and attack aircraft.",
+        "Destroy the updated mission targets to finish Day 1; the losses of Alpha and Bravo at the strike are part of this sequence."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 24 Quick Route",
+        "paragraphs": [
+          "The first useful action is to protect the landing approach. Select an attacker moving toward the friendly force, deal with it, then check the next approach. A fighter circling away from the landings is a lower priority than an aircraft already attacking the troops.",
+          "Once the forces are ashore, connect your attacks to their route toward the Turntable. Clear a threat in front of the advance, then return to check the other groups. This support circuit is more useful than systematically clearing one distant corner while another team is under fire."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Mission Objectives in the Correct Order",
+        "paragraphs": [
+          "Operation Coastal Hammer begins as landing support and ends with a changed defense task. The strike between those stages is a scripted event. Judge progress by the active objectives after that event."
+        ],
+        "table": {
+          "caption": "Rocky Island Day 1 objective order",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Landing",
+              "Cover allied LCACs",
+              "Interrupt incoming attack aircraft and nearby defenses."
+            ],
+            [
+              "Advance",
+              "Support Alpha, Bravo, and Charlie",
+              "Clear opposition along their approach to the Turntable."
+            ],
+            [
+              "Spear strike",
+              "Follow the mission update",
+              "Alpha and Bravo are lost in the scripted strike."
+            ],
+            [
+              "Final defense",
+              "Keep Charlie moving",
+              "Destroy the newly marked ground forces and attack aircraft."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Aircraft and Special Weapons for Mission 24",
+        "paragraphs": [
+          "Choose a multirole setup that can clear ground defenses without leaving you helpless against attacking aircraft. Ground-focused special weapons are useful when several defenses are grouped together; keep an air-to-air answer available for contacts threatening the landing forces.",
+          "Build around the part of the sortie you struggle to complete. If your ground passes are already effective but enemy attackers reach the friendlies, more surface damage is unlikely to fix the problem. Try a weapon or handling setup that lets you switch quickly to aircraft. If the reverse is true, improve the efficiency of your ground passes instead.",
+          "You do not need a named premium aircraft to follow this route. Use the equipment available in your campaign and inspect the target compatibility of each special weapon before committing to a setup."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Stage-by-Stage Walkthrough",
+        "paragraphs": [
+          "During the sea approach, keep the landing craft on your radar while engaging attackers. Return toward the friendly route after each interception. A chase that carries you beyond useful supporting distance can leave the next incoming aircraft unopposed.",
+          "Over land, attack pillboxes and vehicles blocking the advance. The important question is which enemy can stop the troops now. Do not spend multiple passes finishing a harmless distant target while a new attack develops near another friendly group.",
+          "As the forces approach the Turntable, the Tonitrus Spear sequence changes the situation. Continue flying and respond to the new orders. After the strike, switch promptly to Charlie’s remaining defense task and clear the targets marked for the final objective. Do not keep searching the previous battlefield for a way to restore the earlier phase."
+        ]
+      },
+      {
+        "id": "risk",
+        "heading": "High-Risk Targets and Fail Conditions",
+        "paragraphs": [
+          "Landing support includes threats from both the ground and the air. Use the map to see the relationship between an attacker and the friendly force rather than choosing by distance to your aircraft alone. An enemy that is farther from you can still be the more urgent interception.",
+          "The main scripted strike cannot be solved by treating every guidance contact as an ordinary optional target. The loss of Alpha and Bravo is followed by a playable mission update. Continue with Charlie instead of restarting solely because those two groups disappear.",
+          "For the final objective, check the remaining TGT labels. A radar full of optional aircraft does not necessarily mean each one must be eliminated before the mission can end. Complete the updated required targets while keeping the surviving force covered."
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "Common Problems and How to Recover",
+        "paragraphs": [
+          "If friendly units come under attack immediately after you leave, shorten the support circuit. Attack the nearest immediate threat, turn back toward the advance, and postpone distant cleanup. This reduces the time between useful defensive passes.",
+          "If selecting a ground target keeps pulling your aim away from an incoming aircraft, reset the target selection before firing. Check the label after a mission update as well. A valid lock on the previous phase’s priority can still be the wrong action for the current phase.",
+          "If you survive the Spear strike but cannot finish, search for the newly marked ground and air TGTs around Charlie’s operation. Work through those labels rather than repeating the entire landing-area cleanup. On a retry, preserve the successful opening and change only the section where the objective stopped progressing."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Day 1 Replay and Adjacent Missions",
+        "paragraphs": [
+          "A replay can focus on protecting the landing craft more consistently before adding optional aircraft pursuits. Sabulum’s collection condition concerns getting all allied LCACs ashore without a loss on a qualifying Veteran-or-higher replay. Keep this separate from the later scripted losses of Alpha and Bravo.",
+          "After Day 1, Mission 25 continues the Rocky Island battle. Mission 26 follows later with its own objective changes. Use those individual guides for the next sorties rather than carrying this landing-support route unchanged into them."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 24’s official mission name?",
+        "answer": "The Battle of Rocky Island, Day 1. The operation begins with support for the allied landing and advance toward the Turntable."
+      },
+      {
+        "question": "Who should I support first during the landing?",
+        "answer": "Prioritize the friendly group facing an immediate attack. Intercept an incoming attacker or remove a blocking defense before chasing unrelated aircraft."
+      },
+      {
+        "question": "Did I fail by losing Alpha and Bravo to the Spear?",
+        "answer": "Those losses occur during the scripted strike. Follow the update and protect Charlie to continue the mission."
+      },
+      {
+        "question": "How do I finish the phase after the strike?",
+        "answer": "Destroy the new TGT ground forces and attack aircraft while supporting Charlie. Check the updated target markers rather than the old landing objective."
+      },
+      {
+        "question": "How is Sabulum’s condition different from the scripted losses?",
+        "answer": "The optional replay condition is to keep the allied LCACs alive until landing on Veteran or higher after the required prior clear. It concerns the landing craft, not preventing the later scripted strike."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-25",
+      "mission-26"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-22",
+    "pageType": "guide",
+    "navLabel": "Mission 22",
+    "title": "Ace Combat 8 Mission 22 Walkthrough & Strategy",
+    "description": "Ace Combat 8 Mission 22 guide covering mission phases, target priorities, aircraft setup, difficult encounters, and practical replay advice.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Pursuing the HSCA · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 22 Walkthrough",
+      "lead": "Ace Combat 8 Mission 22, Pursuing the HSCA, requires a low approach to Celaeno, attacks on its exposed structural targets, and destruction of its generator before leaving the threatened area. Plan around those changing targets rather than treating the aircraft as one ordinary fighter.",
+      "quickRoute": [
+        "Approach Celaeno low and follow the mission’s detection and altitude instructions; do not climb early for an escort dogfight.",
+        "Pull up underneath the control aircraft and destroy the marked propeller and wing targets as they become available.",
+        "Line up a deliberate attack on the exposed generator instead of firing into the intact hull.",
+        "When Celaeno is destroyed, follow the escape order and leave the railgun threat area."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 22 Quick Strategy",
+        "paragraphs": [
+          "Begin with the low approach to the heavy strategic control aircraft. Keep enough attention on terrain clearance to make this a controlled intercept. Trying to fix an awkward line with a sudden steep turn close to the surface is a poor trade for a slightly shorter route.",
+          "Your first climb should put you in position to attack the control aircraft, not send you into a long pursuit of its escorts. Establish where Celaeno is relative to your nose, then pull up with room to level and choose the marked component."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Phase Transitions",
+        "paragraphs": [
+          "Operation Patch of Blue attacks the control link supporting the Tonitrus satellite. The mission progresses through an approach, structural attacks, a generator attack, and withdrawal. Use target changes to recognize which part you are in."
+        ],
+        "table": {
+          "caption": "Pursuing the HSCA phase decisions",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Approach",
+              "Reach Celaeno from below",
+              "Stay low until the climb into the engagement."
+            ],
+            [
+              "External targets",
+              "Destroy marked propeller and wing components",
+              "Recheck the selected component after each destruction."
+            ],
+            [
+              "Core attack",
+              "Destroy the exposed generator",
+              "Set up a clear firing line through the opening."
+            ],
+            [
+              "Withdrawal",
+              "Leave the threatened area",
+              "Follow the escape instruction instead of pursuing escorts."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Loadout and Aircraft Selection",
+        "paragraphs": [
+          "Favor an aircraft you can handle accurately during a low approach and repeated passes near a large flying target. Raw speed is less useful if you routinely overshoot the small opening needed for the generator attack. Consider a setup that leaves you enough control to line up a shot and enough acceleration to separate afterward.",
+          "Choose weapons with a clear purpose. Use a dependable option for the exposed aircraft components and retain a way to attack escort fighters when necessary. Before spending a special weapon, confirm that it can engage the selected target in the current phase.",
+          "A missed opening is often an angle problem before it is an aircraft problem. If your missiles repeatedly hit the body instead of the vulnerable area, improve the firing line on the next pass. Buying a different plane will not automatically make a blocked shot valid."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Walkthrough: What to Attack and When",
+        "paragraphs": [
+          "After the approach, select the visible component labels rather than spraying the outline of the aircraft. Work through the propeller and structural targets that the mission exposes. Let the target update guide the next attack; a destroyed part should not remain the focus of another pass.",
+          "When the generator becomes accessible, move into a stable line with the opening. Give yourself room to aim before entering effective firing position. If the approach is badly angled, pull away and set up again instead of trying to force a collision-prone correction beside the hull.",
+          "Keep defensive awareness during the attack, but do not let each escort turn into a separate extended duel. The control aircraft remains the main objective. Once it falls, switch to withdrawal as ordered. The operation includes a railgun threat during the exit, so clearing the target is not permission to loiter in the combat area."
+        ]
+      },
+      {
+        "id": "generator",
+        "heading": "Lining Up the Generator Attack",
+        "paragraphs": [
+          "The generator phase asks for precision against an opening in a very large target. Start your correction early enough that the final part of the pass is a shot rather than a last-second attempt to rotate the aircraft into position.",
+          "Check three things before launching: the selected target is the generator, the vulnerable opening is in your line of fire, and your exit path avoids the aircraft’s structure. A target marker alone does not mean the hull between you and it has disappeared.",
+          "If the pass fails, note what actually happened. A missile striking armor calls for a better angle. Overshooting calls for earlier speed control. A collision calls for a wider approach and earlier breakaway. Separate these problems instead of repeating the same pass with more ammunition."
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "Common Mistakes and Recovery",
+        "paragraphs": [
+          "Climbing before the approach is complete can cost the position you intended to gain under Celaeno. On the next attempt, use the mission’s own altitude and detection instructions. Keep the display’s unit setting in mind; do not transplant a number from a different unit system into your flight.",
+          "If the main aircraft seems to survive many successful hits, check whether a required component remains. The sequence is not a request to do unlimited damage to an undifferentiated hull. Cycle through the available labels and confirm which phase the objective describes.",
+          "If you lose the run after destroying Celaeno, review your withdrawal rather than rebuilding the attack route. The escape instruction is part of the clear. Break off from optional fighters and leave the danger area promptly."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Caligo Replay Preparation and Mission 22 FAQ",
+        "paragraphs": [
+          "Caligo is an optional Rafale M encounter on a qualifying Veteran-or-higher Free Mission replay after finishing the campaign. Keep the approach low until directly beneath the control aircraft before climbing. Treat it as a collection run with an extra target, rather than a requirement for your first clear.",
+          "Use the in-game approach instructions and detection cue, and check whether your altitude display uses feet or meters before making the climb. After this sortie, Mission 23 changes to a city-wide destruction battle. Prepare separately for that change in target mix."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does HSCA refer to in Mission 22?",
+        "answer": "Celaeno, the heavy strategic control aircraft supporting the Tonitrus control network. It is the mission’s main airborne objective."
+      },
+      {
+        "question": "Should I climb immediately toward Celaeno?",
+        "answer": "Use the low approach first, then climb into the attack from underneath as instructed. An early escort pursuit can pull you away from that setup."
+      },
+      {
+        "question": "Why do attacks on the main hull seem ineffective?",
+        "answer": "The mission uses component targets and then an exposed generator. Check the current target label and line up with the vulnerable opening."
+      },
+      {
+        "question": "Does destroying the generator finish everything?",
+        "answer": "It is followed by the withdrawal. Follow the escape order and leave the area threatened by railgun fire."
+      },
+      {
+        "question": "Is Caligo required to clear Mission 22?",
+        "answer": "No. Caligo is an optional named-ace encounter for a qualifying Veteran-or-higher replay. Complete the required control-aircraft and escape objectives first."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-23",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-23",
+    "pageType": "guide",
+    "navLabel": "Mission 23",
+    "title": "Ace Combat 8 Mission 23 Walkthrough & Guide",
+    "description": "Ace Combat 8 Mission 23 walkthrough: objective order, useful aircraft loadouts, tough encounters, troubleshooting, and replay tips.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "The Destruction of Expo City · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 23 Walkthrough",
+      "lead": "Ace Combat 8 Mission 23, The Destruction of Expo City, is an annihilation sortie across a city with ground, naval, and airborne targets. Build the score required by your selected difficulty while preserving enough air-to-air capability for the arriving Gemma and Ventus flights.",
+      "quickRoute": [
+        "Read the displayed score requirement for your difficulty; do not substitute an S Rank target for the clear quota.",
+        "Begin clearing a connected group of surface targets, then move to the next strongpoint instead of repeatedly crossing the whole city.",
+        "Switch to Gemma and Ventus when the flights arrive if you are attempting their timed optional ace condition.",
+        "Maintain the required score through the timed sortie; use the southern Return Line when a resupply is worth the travel."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 23 Quick Route",
+        "paragraphs": [
+          "Choose a connected opening through surface targets and inspect the score you gain before crossing to another part of the city. This gives your first pass a purpose: reduce one strongpoint and establish how your weapon supply compares with the remaining quota.",
+          "Keep an air-to-air reserve for the reinforcement flights. A loadout that spends every useful missile on isolated ground contacts can leave you chasing the later aircraft without the tools you planned to use. Decide before sortie whether this is a basic clear or a timed ace attempt."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Phase-by-Phase Strategy",
+        "paragraphs": [
+          "Operation Rumbling is a score battle with a timed window. Expo City has several concentrations of defenders rather than one mandatory boss route. The displayed quota varies by difficulty, so the HUD is the useful reference for the run you are flying."
+        ],
+        "table": {
+          "caption": "Expo City route planning",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Opening",
+              "Build score from surface groups",
+              "Connect targets within a strongpoint before relocating."
+            ],
+            [
+              "Map traversal",
+              "Select another valuable group",
+              "Avoid long flights to a single isolated target."
+            ],
+            [
+              "Reinforcements",
+              "Respond to Gemma and Ventus",
+              "Reserve air-to-air weapons if hunting the optional aces."
+            ],
+            [
+              "Remaining time",
+              "Secure the clear quota",
+              "Balance further scoring against ammunition and travel."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Loadouts",
+        "paragraphs": [
+          "A multirole aircraft suits the mix of ground defenders, harbor targets, and fighters. Consider a surface-attack special weapon for dense groups and a reliable air-to-air option for the reinforcement phase. Check the actual target compatibility in your equipment screen rather than assuming every surface weapon also works against aircraft.",
+          "For a clear, choose ammunition efficiency across the city. For the optional timed flight kills, reserve the weapon you use most reliably against maneuvering aircraft. These two goals can justify different preparations even on the same mission.",
+          "If you run out of useful ordnance while far from the next target group, change the route before adding more aircraft purchases. An efficient pass should leave you positioned for another useful attack or a deliberate resupply, rather than pointing away from both."
+        ]
+      },
+      {
+        "id": "targets",
+        "heading": "Target Priorities and Timing",
+        "paragraphs": [
+          "The city’s strongpoints include an airport area to the west, a central harbor, an eastern air base, and a northern urban concentration. Use these as broad route anchors. Inspect the targets currently visible on your map and connect the closest productive groups instead of following a rigid route through already-cleared space.",
+          "Against surface concentrations, line up so a pass can cover more than one useful target. Break away with the next group in mind. A series of short productive passes is preferable to an impressive single attack followed by a long empty crossing.",
+          "When the reinforcement flights enter, reassess the run’s purpose. If you only need the clear, continue working toward the displayed requirement without letting a difficult fighter consume the rest of the sortie. If the timed optional condition is the goal, shift immediately and track the arriving flights rather than finishing another surface pass first."
+        ]
+      },
+      {
+        "id": "aces",
+        "heading": "Gemma, Ventus, and the Optional Ace Attempt",
+        "paragraphs": [
+          "A qualifying Veteran-or-higher Free Mission replay after finishing the campaign can bring out two additional aces by eliminating all of Gemma and Ventus within three minutes of their appearance. The optional condition concerns both flights, not simply the first aircraft you shoot down.",
+          "Prepare by keeping air-to-air ammunition ready before they arrive. Identify the remaining members after each kill and use your wingmen’s attack orders to maintain pressure. Do not assume the condition is complete because the easy targets have disappeared; the more experienced escorts still matter.",
+          "The timed condition is optional. If it fails, a basic mission clear remains a separate goal. You can finish the sortie to learn the rest of the route, then make a dedicated collection attempt with a clearer plan for the reinforcement arrival."
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "How to Fix Common Failed Runs",
+        "paragraphs": [
+          "If the quota is still distant late in the sortie, review the time spent between attacks. Large empty crossings and repeated pursuits of a single fighter are route costs. Try staying within a surface concentration longer before moving across the city.",
+          "A southern Return Line is available. Use it deliberately: compare your remaining ammunition, the distance to the line, and the time left for another useful pass. Waiting until every weapon is empty can turn the return into a long interruption at the worst point.",
+          "If the optional aces do not appear, check the replay prerequisites and whether every member of both flights was destroyed inside the required window. Do not confuse the mission’s score quota with that separate trigger. A high score alone is not a substitute for the flight condition."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Replay Tips and the Route to Rocky Island",
+        "paragraphs": [
+          "After a completed run, identify which part limited the result: reaching the quota, arriving ready for the reinforcement flights, or spending too long on the return journey. Change that segment while keeping the successful parts of the route consistent.",
+          "Mission 22 is the preceding Celaeno operation. Mission 24 takes the campaign onward to the Rocky Island landing, and Mission 25 continues that battle. Their objective structures differ, so use the corresponding route instead of assuming another city-wide annihilation sortie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Mission 23 a single boss fight?",
+        "answer": "No. The Destruction of Expo City is an annihilation mission with multiple ground, naval, and aerial target groups."
+      },
+      {
+        "question": "Which score should I aim for on my first clear?",
+        "answer": "Use the clear requirement displayed for your selected difficulty. A published S Rank score is a different goal and should not replace the mission quota."
+      },
+      {
+        "question": "What is the optional condition involving Gemma and Ventus?",
+        "answer": "On a qualifying Veteran-or-higher replay after the campaign, destroy both entire flights within three minutes of their arrival to trigger the additional ace encounter."
+      },
+      {
+        "question": "Can I rearm during Mission 23?",
+        "answer": "A Return Line is provided to the south. Plan the trip with enough time left to reach another productive target group afterward."
+      },
+      {
+        "question": "Which guide comes after Expo City?",
+        "answer": "Mission 24 covers The Battle of Rocky Island, Day 1. Mission 25 then continues the operation on Day 2."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-22",
+      "mission-24",
+      "mission-25"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-29",
+    "pageType": "guide",
+    "navLabel": "Mission 29",
+    "title": "Ace Combat 8 Mission 29 Walkthrough & Tips",
+    "description": "Ace Combat 8 Mission 29 walkthrough with phase order, aircraft and weapon choices, difficult objectives, and practical tips for clearing the mission.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Selene · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 29 Walkthrough",
+      "lead": "Ace Combat 8 Mission 29, Selene, pits Joker Flight against Moon 11 and the X-40 Nightmare near Theve. Interrupt the guidance threat, deal with defensive UAVs, and continue after the main aircraft separates. The bridge maneuver belongs to an optional replay objective.",
+      "quickRoute": [
+        "Engage Moon 11 and create a stable firing angle instead of launching into every hard reversal.",
+        "When protective UAVs block damage, attack that defense and reopen the opportunity to hit the X-40.",
+        "After the main aircraft goes down, follow the separated nose unit and stop its remaining laser-guidance threat.",
+        "Save the highway-bridge maneuver for a Prudens collection attempt; it is not the opening action required for the boss clear."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 29 Quick Route",
+        "paragraphs": [
+          "Your first task is to engage Moon 11 rather than search the city for a bridge. Keep pressure on the boss while looking for a firing opportunity that your aircraft can maintain. A momentary target lock during a sharp turn does not make a missile a useful shot.",
+          "Pay attention to why an attack fails. A missile defeated by a defensive UAV calls for a different target. A missile missing during a hard reversal calls for better timing. Recognizing the difference helps you avoid spending the rest of the magazine on the same unsuccessful approach."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Mission Phases",
+        "paragraphs": [
+          "Operation Lunar Eclipse centers on stopping the guidance threat to the disabled land battleship near Theve. The X-40 encounter continues after its first major defeat, so keep weapons and attention available for the separated unit."
+        ],
+        "table": {
+          "caption": "Selene battle decisions",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Main duel",
+              "Damage Moon 11’s aircraft",
+              "Attack when the turn or flight path gives a useful opening."
+            ],
+            [
+              "Protective UAVs",
+              "Remove the defensive interference",
+              "Switch targets rather than launching repeatedly into protection."
+            ],
+            [
+              "Separation",
+              "Pursue the surviving nose unit",
+              "The first apparent takedown is not mission completion."
+            ],
+            [
+              "Final guidance",
+              "Stop the remaining designation",
+              "Commit attacks to the updated target."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Recommended Aircraft and Weapons",
+        "paragraphs": [
+          "Choose an aircraft you can maneuver confidently in an extended air-to-air engagement. A high top speed is useful only if you can turn it into another attack opportunity. If every pass ends far beyond the boss, favor control and recovery over a setup chosen solely for straight-line speed.",
+          "Use an air-to-air special weapon whose lock and firing behavior you understand. Keep standard missiles and gunfire as alternatives rather than relying on one special-weapon magazine to solve every phase. A dependable shot after a good approach is more valuable than an expensive weapon launched from a poor angle.",
+          "Reserve enough ammunition for the separated unit. You can spend special weapons to break a difficult phase, but check what remains when the aircraft changes form. This mission’s late objective is a reason to manage firing opportunities from the beginning, not a reason to avoid attacking altogether."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Mission 29 Step-by-Step Guide",
+        "paragraphs": [
+          "Begin by following Moon 11’s movement and building a controlled intercept. When her turn tightens beyond a useful firing angle, reposition instead of firing continuously. Look for the point where her path settles enough for your chosen weapon to reach its target.",
+          "If escort UAVs provide active protection, identify and attack the defense before returning to the main aircraft. Check the current target label before the next launch. Simply staying locked on the X-40 can waste ammunition while the obstacle to damage remains active.",
+          "Continue the pursuit when the main aircraft separates. Reacquire the remaining unit and respond to the final guidance sequence. Do not turn away because the radio or visual destruction initially sounds conclusive. Finish the new target until the game confirms the objective is complete."
+        ]
+      },
+      {
+        "id": "bridge",
+        "heading": "Bridge Maneuver for the Optional Prudens Encounter",
+        "paragraphs": [
+          "Prudens is associated with flying under an urban highway bridge on a qualifying Veteran-or-higher replay. It is an optional ace trigger, separate from defeating Moon 11. Do not attempt it as though crossing a bridge were a mandatory stage of the campaign fight.",
+          "For a collection run, inspect the opening and align well before reaching the span. Commit only when you can see an exit path and hold a level line through the gap. If the approach is crooked, climb away and line up again rather than correcting violently underneath the deck.",
+          "A crash ends the attempt more decisively than a missed firing window. Learn the boss route first, then add the bridge maneuver once you can return to the duel without losing control of the main objective. Keep the wings level through the gap and leave room for the climb back into the fight."
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "Troubleshooting and Replay",
+        "paragraphs": [
+          "If the boss appears untouchable, separate defensive interference from poor missile timing. Check for the protective UAVs, then test a shot on a more stable path. Do not assume that every miss proves the aircraft is permanently invulnerable.",
+          "If you lose sight of Moon 11 after an evasive break, use the target selection and radar to rebuild the intercept. Avoid holding an endless tight turn without checking whether it is moving the target closer to your attack view. Widening the setup can be more productive than continuing the same circle.",
+          "If the run fails after the first takedown, plan specifically for the separated unit. Retain ammunition and remain ready to reacquire it. Replaying the opening with more aggression will not fix a habit of relaxing before the actual final objective."
+        ]
+      },
+      {
+        "id": "next",
+        "heading": "From Selene to the Final Mission",
+        "paragraphs": [
+          "Use a replay to improve one specific part of the fight: successful attack windows, dealing with protective UAVs, or completing the separated-unit phase. Keep optional collection goals distinct so a bridge detour does not obscure the reason an ordinary boss attempt failed.",
+          "Mission 30 follows with defense of the Endurance and a submarine encounter. Its opening is an interception task, so reconsider your equipment before carrying a duel-focused setup into the finale. Mission 28 S Rank is available separately for the preceding campaign sortie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who is the main target in Mission 29?",
+        "answer": "Moon 11, also known as Selene, flying the X-40 Nightmare. Stop the guidance threat rather than merely surviving the dogfight."
+      },
+      {
+        "question": "Why do repeated missile launches fail to damage the X-40?",
+        "answer": "Check for protective UAVs and unfavorable firing angles. Remove the active protection when needed, then attack during a more stable flight path."
+      },
+      {
+        "question": "Is the fight over when the main aircraft is destroyed?",
+        "answer": "No. The nose unit separates and the guidance threat continues. Follow the updated target and finish that phase."
+      },
+      {
+        "question": "Do I have to fly under the bridge to clear Mission 29?",
+        "answer": "No. The urban highway-bridge maneuver is an optional Prudens ace condition for a qualifying Veteran-or-higher replay."
+      },
+      {
+        "question": "What comes after Selene?",
+        "answer": "Mission 30, Song of Wings. Prepare for anti-ship missile interceptions and a submarine battle rather than another identical duel."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-30",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-18",
+    "pageType": "guide",
+    "navLabel": "Mission 18",
+    "title": "Ace Combat 8 Mission 18 Walkthrough & Strategy",
+    "description": "Ace Combat 8 Mission 18 walkthrough with objective order, aircraft preparation, threats to prioritize, common mistakes, and replay advice.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Moonlight and Shadows · Mission mechanics spoilers",
+      "heading": "Ace Combat 8 Mission 18 Walkthrough",
+      "lead": "Ace Combat 8 Mission 18, Moonlight and Shadows, moves from Queen Flight’s emergency and Baxter’s rescue to a rocket interception above Comona. Destroy the launch vehicles in the permitted window, then clear the falling debris to protect the facility.",
+      "quickRoute": [
+        "Cross the Rainband and respond to Queen Flight’s distress instead of stopping to clear every optional contact.",
+        "Complete Baxter’s intervention sequence using the displayed Look prompt and attacks during the opening.",
+        "Return to Comona and wait for launch clearance; do not attack the rockets on their pads or at low altitude.",
+        "Destroy both climbing launch vehicles before they escape, then immediately attack the marked falling debris until the facility is safe."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "All missions",
+          "slug": "missions"
+        },
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "first",
+        "heading": "Mission 18 Quick Strategy",
+        "paragraphs": [
+          "Keep the approach moving toward the operation instead of turning the Rainband into a full cleanup assignment. Queen Flight’s distress changes your priority before the launch interception. Turn toward the friendly formation and resolve the marked threats there.",
+          "Think ahead to Comona while fighting. A long optional pursuit during the interruption can leave you poorly positioned for the rocket phase. Preserve enough ammunition for targets that must be destroyed quickly later, rather than emptying your weapons simply because more fighters remain on radar."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Mission Phases",
+        "paragraphs": [
+          "Operation Branching Path asks you to stop the launches while preserving the launch facility. That explains the restriction on attacking too early. The sequence also includes a rescue before the original interception can resume."
+        ],
+        "table": {
+          "caption": "Moonlight and Shadows objective sequence",
+          "columns": [
+            "Phase",
+            "Immediate objective",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Rainband",
+              "Reach the operation and assist Queen Flight",
+              "Do not stop for every optional airship."
+            ],
+            [
+              "Rescue",
+              "Intervene for Baxter",
+              "Use the displayed prompt and attack during the opening."
+            ],
+            [
+              "Comona",
+              "Prepare the launch interception",
+              "Wait for clearance rather than striking the pads."
+            ],
+            [
+              "Ascent",
+              "Destroy both launch vehicles",
+              "Keep the climbing targets ahead of optional fighter pursuits."
+            ],
+            [
+              "Debris",
+              "Protect the facility from falling wreckage",
+              "Select each newly marked fragment after the rockets break apart."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Useful Aircraft and Weapon Setup",
+        "paragraphs": [
+          "Prepare for airborne targets: fighters during the interruption, climbing launch vehicles, and falling debris. Choose an aircraft that lets you regain an upward attack line quickly after a defensive turn. A ground-bombing setup aimed at destroying the launch facility does not match the mission’s purpose.",
+          "Reserve some reliable ammunition for the rockets and debris. If you spend special weapons to end a difficult fighter engagement, check what remains before the mission redirects you. Know which weapon you will use on the next airborne target rather than discovering a compatibility problem during the ascent.",
+          "For a first clear, prioritize handling you already understand. If you consistently arrive late to the rockets, examine the earlier detour and the return route before assuming a more expensive aircraft is necessary. Faster travel cannot recover all the time spent on an unnecessary pursuit."
+        ]
+      },
+      {
+        "id": "walkthrough",
+        "heading": "Step-by-Step Mission 18 Walkthrough",
+        "paragraphs": [
+          "During the Queen Flight encounter, focus on the marked attackers and prepare for Baxter’s rescue sequence. When the Look instruction appears, use the binding shown for your platform and keep attacking during the intervention. Activating the camera prompt alone is not a substitute for resolving the attack.",
+          "After the confrontation, break away toward the Comona launch objective. Shadow 22’s withdrawal is not an invitation to spend the rest of the sortie chasing him. Recheck the mission instructions and position for the rockets’ climb.",
+          "Wait until the launch vehicles enter the permitted engagement window. Attack one, confirm its destruction, then transfer to the other. Do not lose the second vehicle among fighter contacts. Once both are down, select the debris markers immediately and continue through the fragments that appear after each breakup."
+        ]
+      },
+      {
+        "id": "threats",
+        "heading": "Important Threats and Fail Conditions",
+        "paragraphs": [
+          "There are two different timing mistakes at the launch site. Attacking too early conflicts with preserving the facility; attacking too late lets the rockets climb beyond your useful interception window. Use the current clearance and ceiling warnings to identify the opening instead of memorizing one altitude from another player’s display.",
+          "The falling wreckage remains dangerous after the rockets explode. Treat the first explosion as a target transition and search for the next fragment. A fragment reaching the launch facility can fail the mission even though the intact launch vehicles are already gone.",
+          "During the rescue, keep the required action in view. If the sequence restarts or fails, distinguish failing to activate the displayed prompt from entering the sequence but not landing the needed attacks. Those are different problems and call for different corrections."
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "Troubleshooting and Replay Tips",
+        "paragraphs": [
+          "If Baxter is lost during repeated attempts, check your actual control binding and whether you continue attacking once the intervention starts. Do not borrow a keyboard key as a universal instruction for a controller or a remapped layout. Practice the prompt and firing action together.",
+          "If one rocket escapes while you fight another aircraft, change target priority as soon as the ascent begins. Select the launch vehicle deliberately after every evasive break; the closest enemy fighter can otherwise steal your next attack.",
+          "If the base is destroyed after a successful rocket interception, change the transition into the debris phase. Start looking for fragment markers immediately, and reselect after each destruction. Keep weapons available for the whole cleanup rather than assuming a single hit on the first piece is the end."
+        ]
+      },
+      {
+        "id": "replay",
+        "heading": "Curis and Neighboring Campaign Guides",
+        "paragraphs": [
+          "Curis is an optional F-15J encounter associated with defeating Shadow 24 on a qualifying Veteran-or-higher replay after completing the campaign. The later rocket and debris objectives remain mandatory during that attempt. Do not sacrifice the facility merely to finish the optional aircraft pursuit.",
+          "Learn a reliable clear before combining that extra target with the ascent window. The preceding Mission 17 guide covers Land Battleship No. 3, and Mission 16 covers Singer. Those neighboring guides are useful for campaign navigation, but their target priorities do not replace this sortie’s rescue and interception sequence."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Ace Combat 8 Mission 18 called?",
+        "answer": "Moonlight and Shadows, Operation Branching Path. It includes Queen Flight’s emergency, Baxter’s rescue, and the Comona launch interception."
+      },
+      {
+        "question": "Why should I wait before attacking the rockets?",
+        "answer": "The facility must remain usable. Wait for launch and the permitted engagement window rather than attacking the rockets on the pads or at low altitude."
+      },
+      {
+        "question": "What should I do during Baxter’s rescue prompt?",
+        "answer": "Use the Look binding shown on your screen and attack during the intervention. Entering the view alone does not complete the rescue."
+      },
+      {
+        "question": "Why does the mission continue after both rockets explode?",
+        "answer": "Falling debris still threatens the launch facility. Attack the newly marked fragments and continue after each breakup."
+      },
+      {
+        "question": "Is Curis more important than the launch vehicles?",
+        "answer": "No. Curis is an optional replay target; the launch vehicles and debris remain the mission-critical threats. Complete those objectives rather than losing the facility during an ace pursuit."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-17",
+      "mission-16"
+    ],
+    "lastReviewed": "2026-10-21"
   }
 ]

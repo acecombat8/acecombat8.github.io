@@ -6,7 +6,7 @@ import { routePath } from "@/lib/urls";
 
 export function SiteFooter({ coreLinks, legalLinks }: { coreLinks: InternalLink[]; legalLinks: InternalLink[] }) {
   return (
-    <footer className="mt-20 border-t border-border bg-card/45">
+    <footer className="guide-footer mt-20 border-t border-border bg-card/45">
       <div className="site-container grid gap-10 py-12 md:grid-cols-[1.4fr_1fr_1fr]">
         <div>
           <p className="mb-3 text-lg font-black text-foreground">{siteConfig.siteName}</p>
@@ -16,7 +16,7 @@ export function SiteFooter({ coreLinks, legalLinks }: { coreLinks: InternalLink[
           </p>
         </div>
         <div>
-          <div className="grid grid-cols-2 gap-x-5 gap-y-6">
+          <div className="guide-footer-groups grid grid-cols-2 gap-x-5 gap-y-6">
             {[{ label: "Explore", slugs: ["", "missions", "best-planes", "mrp-farming"] }, navigationGroups[0], { label: "S Rank", slugs: ["s-rank-guide"] }].map((group) => <div key={group.label}>
               <p className="mb-3 text-sm font-black uppercase tracking-widest text-foreground">{group.label}</p>
               <ul className="grid gap-2 text-sm text-muted-foreground">

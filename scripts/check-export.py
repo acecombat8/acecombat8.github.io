@@ -12,7 +12,8 @@ OUT = ROOT / 'out'
 HOST = 'https://acecombat8.github.io'
 OLD_SLUGS = ['', 'mission-28-s-rank', 'mission-16', 'mrp-farming', 'mission-26', 'missions', 'best-planes']
 NEW_SLUGS = ['mission-15', 'mission-25', 'mission-27', 'mission-08', 'mission-17', 's-rank-guide']
-SLUGS = OLD_SLUGS + NEW_SLUGS
+BATCH_TWO_SLUGS = ['mission-30', 'mission-24', 'mission-22', 'mission-23', 'mission-29', 'mission-18']
+SLUGS = OLD_SLUGS + NEW_SLUGS + BATCH_TWO_SLUGS
 PREVIEW = '--preview' in sys.argv
 errors = []
 
@@ -27,6 +28,7 @@ class Document(HTMLParser):
         self.meta = {}
         self.canonical = ''
         self.h1 = 0
+        self.heading_levels = []
         self.main_count = 0
         self.main_depth = 0
         self.main_text = []
@@ -61,6 +63,8 @@ class Document(HTMLParser):
             self.main_count += 1
         if tag == 'h1':
             self.h1 += 1
+        if tag in ['h1', 'h2', 'h3']:
+            self.heading_levels.append(int(tag[1]))
         if tag in ['script', 'style', 'nav', 'aside']:
             self.ignore += 1
         if tag == 'script' and a.get('type') == 'application/ld+json':
@@ -138,10 +142,10 @@ for slug in SLUGS:
     if not PREVIEW:
         check(doc.meta.get('robots') == 'index, follow', local + ': restrictive robots metadata')
     destinations = {'/' + (s + '/' if s else '') for s in SLUGS}
-    check(destinations <= doc.footer_links, local + ': footer does not contain all thirteen destinations')
+    check(destinations <= doc.footer_links, local + ': footer does not contain all nineteen destinations')
     check(destinations <= doc.nav_links, local + ': global navigation does not expose all routes')
     visible = ' '.join(doc.visible_text)
-    if slug in NEW_SLUGS:
+    if slug in NEW_SLUGS + BATCH_TWO_SLUGS:
         definition = next(p for p in json.loads((ROOT / 'content/generated/pages.json').read_text()) if p['slug'] == slug)
         check(len(definition.get('faq', [])) >= 4, local + ': expected at least four FAQs')
         check(3 <= len(definition['hero'].get('quickRoute', [])) <= 5, local + ': expected 3–5 quick answers')
@@ -149,11 +153,11 @@ for slug in SLUGS:
         check(re.search(r'</h1><div class="guide-quick-route">', source), local + ': quick answer must immediately follow H1')
         check(doc.meta.get('twitter:title') == doc.title, local + ': incorrect Twitter title')
         check(doc.meta.get('twitter:description') == doc.meta.get('description'), local + ': incorrect Twitter description')
-        check(definition['lastReviewed'] == '2026-10-15', local + ': wrong review date')
+        check(definition['lastReviewed'] == ('2026-10-21' if slug in BATCH_TWO_SLUGS else '2026-10-15'), local + ': wrong review date')
         main_links = set(re.findall(r'href="(/[^"#]*)"', re.search(r'<main\b.*?</main>', source, re.S).group()))
         check({'/', '/missions/'} <= main_links, local + ': missing home or hub backlink')
         check(len(main_links - {'/', '/missions/'}) >= 2, local + ': missing relevant related links')
-        check(not re.search(r"we couldn.t verify|insufficient evidence|SEO audit|AI generated|Fact Pack", visible, re.I), local + ': internal research copy')
+        check(not re.search(r"we couldn.t verify|insufficient evidence|SEO audit|AI generated|Fact Pack|Evidence ID|LLM prompt|Yorich", visible, re.I), local + ': internal research copy')
     schema_types = set()
     for schema in doc.schemas:
         schema_types.add(schema.get('@type'))
@@ -166,6 +170,15 @@ for slug in SLUGS:
                 check(item['item'] in [HOST + d for d in destinations], local + ': invalid breadcrumb route')
         check(not any(key in schema for key in ['aggregateRating', 'offers']), local + ': unsupported rating or offer')
     check('FAQPage' in schema_types, local + ': missing visible FAQ schema')
+    if slug in BATCH_TWO_SLUGS:
+        check('Article' in schema_types, local + ': missing Article schema')
+        check(4 <= len(definition.get('faq', [])) <= 6, local + ': expected 4–6 FAQs')
+        check(all(b <= a + 1 for a, b in zip(doc.heading_levels, doc.heading_levels[1:])), local + ': skipped heading level')
+        check(doc.meta.get('og:title') == doc.title, local + ': incorrect OG title')
+        check(doc.meta.get('og:description') == doc.meta.get('description'), local + ': incorrect OG description')
+        for href in doc.links:
+            parsed = urlsplit(href)
+            check(not parsed.scheme or parsed.netloc in ['acecombat8.github.io', 'www.bandainamcoent.com', 'acecombat.jp'], local + ': unapproved external link')
     check(('BreadcrumbList' if slug else 'VideoGame') in schema_types, local + ': missing page schema')
     rows.append(dict(url=url, title=doc.title, titleCharacters=len(doc.title), descriptionCharacters=len(doc.meta.get('description', '')), words=words, h1=doc.h1, schemas=sorted(schema_types)))
 
@@ -192,12 +205,15 @@ for local, doc in documents.items():
 
 sitemap = ElementTree.parse(OUT / 'sitemap.xml')
 locations = [node.text for node in sitemap.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly thirteen editorial URLs')
+check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly nineteen editorial URLs')
 robots = (OUT / 'robots.txt').read_text()
 check('Sitemap: ' + HOST + '/sitemap.xml' in robots, 'Incorrect robots sitemap')
 if not PREVIEW:
     check('Allow: /' in robots and 'Disallow: /' not in robots, 'Robots must allow crawling')
 check(not (OUT / 'mission-8').exists(), 'Unauthorized mission-8 duplicate')
+for number in [30, 24, 22, 23, 29, 18]:
+    for alias in [f'mission-{number:03d}', f'mission-{number}-guide', f'guides/mission-{number}', f'missions/mission-{number}']:
+        check(not (OUT / alias).exists(), 'Unauthorized new mission alias: ' + alias)
 check((OUT / '404.html').is_file(), 'Missing exported 404')
 check((OUT / '.nojekyll').is_file(), 'Missing .nojekyll')
 check(not (OUT / 'CNAME').exists(), 'Unexpected CNAME')
@@ -217,4 +233,4 @@ print(json.dumps(rows, indent=2))
 if errors:
     print('\nFAILED:', *errors, sep='\n- ', file=sys.stderr)
     raise SystemExit(1)
-print('PASS: thirteen routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')
+print('PASS: nineteen routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')
