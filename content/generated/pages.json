@@ -3259,5 +3259,969 @@
       "mission-16"
     ],
     "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "best-online-planes",
+    "pageType": "guide",
+    "navLabel": "Best Online Planes",
+    "title": "Ace Combat 8 Best Online Planes & PvP Builds",
+    "description": "Compare Ace Combat 8 online aircraft for PvP, mixed battles and co-op. See F-22A, Su-57, FA-36, F-35C and support loadout decisions.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Online aircraft · PvP and co-op",
+      "heading": "Ace Combat 8 Best Online Planes",
+      "lead": "For air-to-air PvP, the F-22A is a strong first comparison; Su-57 offers a different dogfighting feel. FA-36 suits mixed objectives, F-35C can support co-op attacks, and EA-36 offers team-focused electronic support. Select by match type, unlock access and the weapons you can actually equip.",
+      "quickRoute": [
+        "Choose your online mode before comparing aircraft; campaign rankings do not decide PvP performance.",
+        "Use F-22A or Su-57 as fighter benchmarks, then compare FA-36 for mixed objectives and F-35C for co-op.",
+        "Check your online inventory, unlock conditions and special weapon slot; test one controlled match before spending more credits."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "All campaign missions"
+        },
+        {
+          "slug": "",
+          "label": "Ace Combat 8 guide"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "picks",
+        "heading": "Best Online Planes by Match Type",
+        "paragraphs": [
+          "Online play has several competing demands. A plane that turns well against a human opponent may be a poor choice when the match rewards ground targets, support assists or rapid transitions between target classes. Treat the picks below as a role-based shortlist, not a fixed ranking for every patch or skill level.",
+          "A recommendation is only useful if the aircraft and its intended special weapon are actually available in your online hangar. Verify your rank, credit balance and unlock conditions in the mode you plan to play. Do not assume campaign MRP or campaign ownership transfers directly to online progression."
+        ],
+        "table": {
+          "caption": "Role-based aircraft shortlist for Ace Combat 8 online",
+          "columns": [
+            "Online situation",
+            "Aircraft to compare",
+            "Reason to test",
+            "Tradeoff"
+          ],
+          "rows": [
+            [
+              "PvP dogfights",
+              "F-22A Raptor",
+              "Strong fighter benchmark and air-to-air options",
+              "Requires disciplined timing against agile opponents"
+            ],
+            [
+              "Air-to-air alternative",
+              "Su-57 Felon",
+              "Air-combat focus with a different handling profile",
+              "Do not assume it fits every scoring mode"
+            ],
+            [
+              "Mixed-target online battles",
+              "FA-36 Game",
+              "Versatile aircraft when match objectives shift",
+              "Check current online unlock access"
+            ],
+            [
+              "Co-op or mixed support",
+              "F-35C Lightning II",
+              "Flexible response to mixed target types",
+              "Pure PvP may reward another setup"
+            ],
+            [
+              "Team electronic support",
+              "EA-36 Barricader",
+              "Useful support role rather than only individual kills",
+              "Value depends on the team and match rules"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "builds",
+        "heading": "PvP Builds: What to Prioritize",
+        "paragraphs": [
+          "Start from a clear job: winning short-range dogfights, pressuring several airborne targets, supporting teammates or surviving mixed target pressure. Aircraft performance on paper is less important than selecting a weapon you can use in the current engagement.",
+          "For PvP, build your first test around reliable target acquisition and survival. A high-performance weapon is wasted if you fire without a stable lock, arrive with too little speed to escape a counterattack or chase one opponent beyond the active scoring area.",
+          "For mixed PvPvE formats, preserve options for the objectives that award points. An air-only setup can dominate one duel but fail the match because ground objectives are ignored. Compare your result screen after two matches with the same plane and one altered weapon choice."
+        ],
+        "subsections": [
+          {
+            "heading": "Air-to-Air Weapon Choices",
+            "paragraphs": [
+              "QAAM and other air-target options are discussed in community online recommendations, but available slots vary by aircraft. Check your own game menu rather than assuming every jet has every weapon. Prioritize predictable hits over theoretical damage."
+            ]
+          },
+          {
+            "heading": "Survival and Positioning",
+            "paragraphs": [
+              "Keep a planned disengagement direction. Re-enter fights on favorable angles rather than circling with depleted speed while opponents focus you. When your team is already winning a fight, protecting the scoring objective can matter more than chasing the last damaged aircraft."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "What to Unlock First in Ace Combat Online",
+        "paragraphs": [
+          "Do not copy a campaign purchase order into online mode. Before paying online credits, confirm whether the candidate jet is unlocked through credits, rank, an Ace Pass or another requirement. Access models and values can change with updates.",
+          "If online credits are limited, test the planes you already own in the mode you play most. Write down the type of match, score, survival, objective contribution and whether the weapon felt consistently usable. This simple record is more actionable than buying the highest aircraft on an undated tier list."
+        ],
+        "table": {
+          "caption": "Pre-purchase checklist",
+          "columns": [
+            "Check",
+            "Question to answer"
+          ],
+          "rows": [
+            [
+              "Mode",
+              "Are you playing PvP, co-op or a mixed objective match?"
+            ],
+            [
+              "Access",
+              "Is the aircraft available now and how is it unlocked?"
+            ],
+            [
+              "Weapon",
+              "Does its online loadout include your desired special weapon?"
+            ],
+            [
+              "Role",
+              "Are you expected to dogfight, strike or support?"
+            ],
+            [
+              "Evidence",
+              "Did a comparable aircraft work in several recent matches?"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Online Aircraft Mistakes",
+        "paragraphs": [
+          "A campaign mission may reward deleting predictable enemies quickly; online opponents react, evade and exploit mistakes. A campaign “best plane” list does not automatically predict player-versus-player success.",
+          "Avoid treating an endgame jet as a substitute for airspeed control, awareness and threat selection. Also avoid building one “best” loadout for every online mode. If you mostly lose while protecting objectives, switching to a stronger dogfighter may not fix the actual problem.",
+          "When an update changes unlocks or balance, recheck aircraft information in-game. Use this page as a decision framework and verify availability in your version rather than relying on one immutable tier list."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Campaign best planes and loadouts"
+          },
+          {
+            "slug": "mrp-farming",
+            "label": "Campaign MRP farming: separate from online credits"
+          }
+        ]
+      },
+      {
+        "id": "quick-comparison",
+        "heading": "Fast Decision: F-22A vs Su-57 vs FA-36",
+        "paragraphs": [
+          "Use F-22A as the pure PvP starting point when your goal is to defeat human aircraft; compare Su-57 for an alternative fighter feel. Move to FA-36 when mixed target priorities make a specialist setup too restrictive. These are starting comparisons, not measured universal win-rate claims.",
+          "If you rely on teammates and support utility, compare EA-36 instead. For co-op matches with changing aerial and surface targets, include F-35C in your tests. Each comparison assumes you can legally unlock and equip the aircraft in your own online mode."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best plane for Ace Combat 8 online PvP?",
+        "answer": "The F-22A is a strong fighter-focused starting recommendation; Su-57 is another useful comparison. Your best choice depends on the mode, available special weapons and control skill."
+      },
+      {
+        "question": "Is the best campaign plane also the best online plane?",
+        "answer": "Not necessarily. Online opponents and scoring objectives differ from scripted campaign encounters. Compare planes within the actual online mode."
+      },
+      {
+        "question": "Should I choose FA-36 or F-22A?",
+        "answer": "Compare FA-36 for mixed-role flexibility and F-22A for dedicated air-to-air PvP. Confirm online unlock access before investing."
+      },
+      {
+        "question": "Which plane is good for co-op?",
+        "answer": "F-35C is a useful mixed-target co-op candidate. The mission and your team composition can change the answer."
+      },
+      {
+        "question": "Does campaign MRP buy online jets?",
+        "answer": "Do not assume campaign MRP and online progression share a wallet. Check the currency and unlock displayed in the online hangar."
+      }
+    ],
+    "relatedSlugs": [
+      "best-planes",
+      "mrp-farming",
+      "missions"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-20",
+    "pageType": "guide",
+    "navLabel": "Mission 20",
+    "title": "Ace Combat 8 Mission 20: B-2 Location & Escort Guide",
+    "description": "Ace Combat 8 Mission 20 Escort Orbiter walkthrough: defend the transport, intercept dangerous missiles, locate B-2 bombers and survive Shadow reinforcements.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Escort Orbiter · Operation Migration Keeper",
+      "heading": "Ace Combat 8 Mission 20 Walkthrough",
+      "lead": "Mission 20 is an escort mission. Stay close enough to protect the transport, prioritize incoming missiles and direct attackers, and only divert toward B-2 bombers when the escort remains safe. The B-2 intercept also matters for the conditional named ace Periodus on eligible replays.",
+      "quickRoute": [
+        "Stay near the shuttle transport; immediately intercept weapons and planes threatening its survival.",
+        "Keep radar attention on incoming missiles and stealth bombers instead of chasing ordinary fighters too far.",
+        "For the Periodus record on an eligible replay, destroy at least one attacking B-2 and finish the mission."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "All campaign missions"
+        },
+        {
+          "slug": "",
+          "label": "Ace Combat 8 guide"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "objectives",
+        "heading": "Mission 20 Objectives and Quick Route",
+        "paragraphs": [
+          "Operation Migration Keeper places the escort objective above optional kills. Your success depends on preserving the transport through multiple aerial attacks, not cleaning every corner of the map. The mission changes after a Shadow group arrives, so follow the updated objective rather than following your original route indefinitely.",
+          "The mission briefing centers on escorting the shuttle transport. After the update, the remaining Shadows must be defeated. Plan your weapon reserves around both phases rather than spending everything on the first fighter formation."
+        ],
+        "table": {
+          "caption": "Escort Orbiter mission phase checklist",
+          "columns": [
+            "Phase",
+            "Primary task",
+            "Avoid"
+          ],
+          "rows": [
+            [
+              "Initial escort",
+              "Stay in interception range of the transport",
+              "Pursuing distant contacts"
+            ],
+            [
+              "Incoming missile attack",
+              "Target the threat to the transport immediately",
+              "Trying to flare away a missile aimed at the escort"
+            ],
+            [
+              "B-2 bomber contact",
+              "Identify and intercept a bomber while escort is safe",
+              "Ignoring a more urgent missile"
+            ],
+            [
+              "Shadow reinforcements",
+              "Follow new objective and defeat Shadows",
+              "Running out of air-to-air weapons too early"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "b2",
+        "heading": "Where Are the B-2 Bombers in Mission 20?",
+        "paragraphs": [
+          "Players looking for the Mission 20 B-2 location are usually trying either to protect the escort from long-range missile attacks or trigger the named ace Periodus. The bombers are stealth targets associated with attacks on the transport, so the useful method is to monitor attack warnings and radar contacts instead of flying to an arbitrary fixed coordinate.",
+          "At least one B-2 must be destroyed to meet the documented Periodus trigger. Search while maintaining an intercept route back to the transport. A B-2 pursuit is not worth an escort failure; if a dangerous weapon reaches the shuttle, defend first and retry the collection attempt with better timing.",
+          "Community notes describe Periodus as entering from the northern side after the B-2 condition is satisfied. Treat map orientation as a search cue rather than an exact spawn coordinate guaranteed across every run."
+        ],
+        "subsections": [
+          {
+            "heading": "B-2 Search and Identification Checklist",
+            "paragraphs": [
+              "Listen for transport attack cues, zoom out to interpret distant contacts and check for a high-altitude stealth aircraft that is attacking the escort. An identifiable weapon launch or mission update is a more dependable trigger than guessing a precise compass grid.",
+              "After destroying the bomber, do not immediately abandon the escort. Recheck missile threats and finish the mission if your objective is an Assault Record."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "missiles",
+        "heading": "How to Protect the Shuttle Transport",
+        "paragraphs": [
+          "Direct interception is critical when a missile is headed for the transport. Do not assume countermeasures on your own plane will redirect a weapon aimed at a different aircraft. Turn toward the visible or marked missile, secure a usable firing line and destroy it before returning to fighter defense.",
+          "Keep your engagement radius small. A distant fighter may be an attractive target, but its destruction does not help if a missile reaches the transport while you are away. Reserve special weapons for air targets you can actually hit and retain ordinary missiles for urgent interception."
+        ],
+        "steps": [
+          {
+            "heading": "Read the threat",
+            "description": "Prioritize warnings and missiles approaching the escort rather than the nearest enemy icon."
+          },
+          {
+            "heading": "Intercept",
+            "description": "Move onto the incoming threat with enough distance for a stable shot; do not overtake the escort unnecessarily."
+          },
+          {
+            "heading": "Reassess",
+            "description": "After the missile is destroyed, check for a second attacker before resuming the wider dogfight."
+          }
+        ]
+      },
+      {
+        "id": "ace",
+        "heading": "Mission 20 Hidden Ace: Periodus",
+        "paragraphs": [
+          "Post-launch Ace lists identify Periodus as a Su-35S Flanker-E appearing after at least one B-2 attacking the transport is destroyed. Conditional named-ace encounters require campaign completion and Veteran or greater difficulty according to community collection guides.",
+          "If you are doing an Assault Records cleanup, confirm eligibility before taking off, complete the bomber condition, destroy the ace if it appears and finish the mission. An encounter that ends in a failed escort may not award the saved record."
+        ],
+        "links": [
+          {
+            "slug": "assault-records",
+            "label": "Assault Records and hidden Aces checklist"
+          },
+          {
+            "slug": "mission-19",
+            "label": "Previous mission: Clearing the Lighthouse"
+          },
+          {
+            "slug": "mission-21",
+            "label": "Next mission: The Star-Bound Bird"
+          }
+        ]
+      },
+      {
+        "id": "errors",
+        "heading": "Common Reasons Mission 20 Fails",
+        "paragraphs": [
+          "The most frequent strategic mistake is turning an escort into a roaming dogfight. Remaining too far from the transport increases response time when a missile warning appears. Another mistake is treating the named-ace trigger as more important than the active escort objective.",
+          "If the transport is destroyed, replay with a shorter pursuit radius and reserve ammunition for urgent targets. If Periodus fails to appear, verify campaign-clear and difficulty requirements, then make sure a B-2 associated with the transport attack was actually destroyed.",
+          "For a first clear, prioritize mission success. The optional ace is a separate replay goal and should never require pretending that you completed an objective you did not."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you beat Ace Combat 8 Mission 20?",
+        "answer": "Protect the transport, shoot down missiles and attacking aircraft near it, then defeat the Shadows after the mission update."
+      },
+      {
+        "question": "Where is the B-2 in Mission 20?",
+        "answer": "Watch for stealth bombers attacking the shuttle transport. Use warnings and radar contacts while remaining able to return to the escort; a fixed coordinate is not reliably established here."
+      },
+      {
+        "question": "How do you spawn Periodus?",
+        "answer": "Community Ace lists report that destroying at least one B-2 triggers Periodus on an eligible Veteran-or-higher replay after a campaign clear."
+      },
+      {
+        "question": "Do I have to destroy every enemy aircraft?",
+        "answer": "No. Prioritize the active escort and the targets required by updated objectives instead of chasing every optional contact."
+      },
+      {
+        "question": "What happens if the escort is destroyed?",
+        "answer": "The mission fails; adjust your interception radius and threat priority before trying again."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "mission-19",
+      "mission-21",
+      "assault-records"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-19",
+    "pageType": "guide",
+    "navLabel": "Mission 19",
+    "title": "Ace Combat 8 Mission 19 Walkthrough & Aleator Ace",
+    "description": "Beat Ace Combat 8 Mission 19 Clearing the Lighthouse: stop the space elevator climber, attack the land battleship and unlock the Aleator named ace.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "Clearing the Lighthouse · Operation Silver String",
+      "heading": "Ace Combat 8 Mission 19 Walkthrough",
+      "lead": "Mission 19 starts at the space elevator, then shifts to the second land battleship. Stop the climber first, suppress the battleship defenses and strike exposed weak points. For the hidden ace Aleator, the documented replay condition is destroying every Su-47 in the mission.",
+      "quickRoute": [
+        "Stop the ascending climber at the space elevator while avoiding unnecessary damage to the structure.",
+        "Suppress the land battleship air defenses, then attack exposed weak points as the objective updates.",
+        "On an eligible named-ace replay, destroy all eight Su-47 aircraft to trigger Aleator."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "All campaign missions"
+        },
+        {
+          "slug": "",
+          "label": "Ace Combat 8 guide"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "mission",
+        "heading": "Mission 19 Objective Order",
+        "paragraphs": [
+          "Clearing the Lighthouse is Operation Silver String, an air-to-ground mission with airborne interruptions. The first objective is stopping a climber at the space elevator, followed by suppressing defenses on Land Battleship No. 2 and destroying its weak points.",
+          "The key distinction is between structural or surface threats that progress the current objective and enemy fighters that create pressure. When the mission updates, check the newly marked targets before committing to another long dogfight."
+        ],
+        "table": {
+          "caption": "Mission 19 phase order",
+          "columns": [
+            "Phase",
+            "Task",
+            "Practical priority"
+          ],
+          "rows": [
+            [
+              "Space elevator",
+              "Stop the climber",
+              "Find a clear attack line near the protected structure"
+            ],
+            [
+              "Land battleship defense",
+              "Suppress the marked anti-air defenses",
+              "Open a safer path to the main structure"
+            ],
+            [
+              "Weak points",
+              "Destroy exposed targets as instructed",
+              "Confirm each target is available before firing"
+            ],
+            [
+              "Replay ace objective",
+              "Eliminate all Su-47 aircraft",
+              "Track the complete set rather than only opening aircraft"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "elevator",
+        "heading": "Stop the Space Elevator Climber",
+        "paragraphs": [
+          "The climber is close to important infrastructure. Avoid flying directly into the structure or firing from an angle that makes target identification difficult. Line up from a safe distance, confirm the actual marked enemy element and apply weapons during a clear opportunity.",
+          "If the climber survives your first pass, extend far enough to regain targeting room rather than repeatedly making rushed close-range turns. The goal is to stop the ascending target while preserving your own aircraft for the battleship phase."
+        ]
+      },
+      {
+        "id": "battleship",
+        "heading": "Land Battleship No. 2 Strategy",
+        "paragraphs": [
+          "The land battleship introduces layered threats. Suppress designated defenses before spending time attacking unreachable or protected weak points. When the objective changes, read the briefing and select a newly exposed target rather than assuming the same approach will continue to work.",
+          "Plan your weapons for both surface targets and any aircraft you must fight. A pure dogfight loadout can slow the battleship work, while an all-ground loadout makes Su-47 encounters and the optional ace requirement awkward. For a first clear, use a familiar multirole aircraft and reassess each target phase.",
+          "Avoid staying in a predictable straight line in enemy air-defense range. Attack with a planned exit vector, regain distance and return on a different line when a weak point is not exposed."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Compare campaign aircraft and special weapons"
+          }
+        ]
+      },
+      {
+        "id": "aleator",
+        "heading": "How to Spawn Aleator in Mission 19",
+        "paragraphs": [
+          "Community Ace catalogs identify Aleator as an F/A-18E Super Hornet whose trigger is destroying all eight Su-47s during Mission 19. This is an optional named-ace goal and should not be confused with the primary space-elevator or land-battleship objectives.",
+          "The named-ace cleanup generally requires completing the campaign first and playing on Veteran or above. Track Su-47 waves through mission updates. If one escapes or survives, Aleator may not appear; destroying only the opening pair is insufficient.",
+          "After satisfying the Su-47 condition, look for the incoming named contact, defeat it and finish the mission. Check Data Viewer afterward to verify the record before repeating other sorties."
+        ],
+        "links": [
+          {
+            "slug": "assault-records",
+            "label": "Named Aces and Assault Records checklist"
+          }
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Mission 19 Troubleshooting and Replay Tips",
+        "paragraphs": [
+          "If you cannot damage the intended battleship target, confirm whether the current phase requires first eliminating air defenses or waiting for the next objective marker. Repeatedly attacking a closed or unmarked section wastes time and ammunition.",
+          "If an ace collection attempt fails, separate the two questions: did you complete the mission, and did you eliminate all required Su-47s? An ordinary successful clear does not prove that the optional trigger was achieved.",
+          "For repeated runs, note which phase consumed the most time and adjust only one loadout or route decision at a time. That makes your next attempt easier to diagnose than changing aircraft, weapons and target order simultaneously."
+        ],
+        "links": [
+          {
+            "slug": "mission-18",
+            "label": "Mission 18 walkthrough"
+          },
+          {
+            "slug": "mission-20",
+            "label": "Mission 20 escort guide"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 19 called?",
+        "answer": "Mission 19 is Clearing the Lighthouse, Operation Silver String."
+      },
+      {
+        "question": "How do you defeat the land battleship?",
+        "answer": "First suppress marked air defenses, then destroy exposed weak points following the objective updates."
+      },
+      {
+        "question": "How do you make Aleator appear?",
+        "answer": "On an eligible Veteran-or-higher replay, destroy all eight Su-47 aircraft during Mission 19; community lists identify Aleator as the conditional ace."
+      },
+      {
+        "question": "Is Mission 19 mainly air-to-air?",
+        "answer": "The central objectives involve the space elevator and a land battleship, but enemy aircraft can complicate the mission."
+      },
+      {
+        "question": "Which mission comes after Mission 19?",
+        "answer": "Mission 20, Escort Orbiter, follows Clearing the Lighthouse."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-18",
+      "mission-20",
+      "assault-records",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-21",
+    "pageType": "guide",
+    "navLabel": "Mission 21",
+    "title": "Ace Combat 8 Mission 21 Shuttle Defense Walkthrough",
+    "description": "Ace Combat 8 Mission 21 The Star-Bound Bird guide: defend the shuttle and control center, stop enemy ships and fighters, and find Alienus Ace.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "The Star-Bound Bird · Operation Dawn Rising",
+      "heading": "Ace Combat 8 Mission 21 Walkthrough",
+      "lead": "Mission 21 defends the Comona Space Base and the shuttle Spruce Goose during launch. Protect both the shuttle and control center, eliminate approaching aircraft and ships, and respond to new attack waves before the countdown finishes.",
+      "quickRoute": [
+        "Prioritize enemies attacking the shuttle and control center, not the farthest or highest-value target.",
+        "Use a mixed-target loadout because incoming fighter waves and enemy ship groups both matter.",
+        "For the optional Alienus ace, destroy all enemy ships on an eligible replay, then finish the mission."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "All campaign missions"
+        },
+        {
+          "slug": "",
+          "label": "Ace Combat 8 guide"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "goals",
+        "heading": "Mission 21 Objectives and Launch Defense",
+        "paragraphs": [
+          "The Star-Bound Bird is Operation Dawn Rising. The player must eliminate hostile forces threatening the space shuttle launch, defend the shuttle and control center, and survive successive attacks until the launch is ready.",
+          "This is not a normal score farming mission. A good kill count can still lose the mission if an attacker reaches one of the protected assets. Think of your route as a patrol around the launch area with occasional targeted interceptions."
+        ],
+        "table": {
+          "caption": "Mission 21 launch-defense priorities",
+          "columns": [
+            "Threat",
+            "Priority",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Attacker reaching the shuttle",
+              "Immediate",
+              "Can end the mission despite a good score"
+            ],
+            [
+              "Enemy ship attacking the base",
+              "High",
+              "Persistent surface attack threatens protected assets"
+            ],
+            [
+              "Incoming northern/southern wave",
+              "High",
+              "May overwhelm defenses if ignored"
+            ],
+            [
+              "Distant optional fighter",
+              "Lower",
+              "Chasing may leave a corridor unguarded"
+            ],
+            [
+              "Rearm opportunity",
+              "Conditional",
+              "Only when assets are secure and time permits"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "loadout",
+        "heading": "Best Loadout for Mission 21",
+        "paragraphs": [
+          "Prepare for both air-to-air and air-to-ship targets. A multirole aircraft with dependable standard missiles plus a usable surface attack option can be more effective than a specialist that leaves you unable to handle one half of the threat.",
+          "A key practical question is not “which is the best plane overall” but “can I eliminate a ship without spending so long that a bomber reaches the shuttle?” Choose equipment you can already handle accurately and keep ammunition for the later waves.",
+          "If you need to resupply, community walkthroughs describe a usable eastern air base. Avoid attempting to land during an active immediate threat to the shuttle."
+        ],
+        "links": [
+          {
+            "slug": "best-planes",
+            "label": "Campaign aircraft and loadout options"
+          }
+        ]
+      },
+      {
+        "id": "waves",
+        "heading": "North and South Attack Waves",
+        "paragraphs": [
+          "Several stages involve attackers approaching from different directions. Read the radar and game callouts rather than remaining locked on the last destroyed ship. A squad split can help cover the opposite side temporarily, but the player still needs to respond when fresh threats break through.",
+          "Community walkthroughs describe northern A-10 threats among later aircraft formations. Those ground-attack aircraft can be dangerous to protected assets, so make your first interception against the formation with the clearest path to the launch site.",
+          "After every wave, reset your position so a new contact cannot reach the base before you turn around. Escort missions reward short response times and deliberate patrols far more than long chases."
+        ]
+      },
+      {
+        "id": "ace",
+        "heading": "Mission 21 Hidden Ace: Alienus",
+        "paragraphs": [
+          "For named-ace collection, community walkthroughs identify Alienus as an EA-18G Growler whose conditional trigger is eliminating all enemy ships in Mission 21. Confirm the campaign-clear and Veteran-or-higher requirements before attempting the record.",
+          "The condition is different from simply protecting the shuttle. If you want Alienus, plan to sink all ships while still covering air attacks. Then defeat the named contact if it appears and complete the mission so the record is saved."
+        ],
+        "links": [
+          {
+            "slug": "assault-records",
+            "label": "Assault Records collection and hidden Aces"
+          }
+        ]
+      },
+      {
+        "id": "medal",
+        "heading": "Protect the Shuttle for the Intact Princess Medal",
+        "paragraphs": [
+          "The named mission medal Intact Princess is associated with preventing damage to the protected shuttle. This is a stricter goal than simply keeping the escort alive. A nearly finished countdown is not a reason to stop intercepting incoming enemies if a missile or attacker could still land a hit.",
+          "Treat no-damage attempts as a separate objective from first-clear attempts. Keep the patrol close, prioritize attacks likely to reach the base, and watch the asset status throughout the countdown."
+        ],
+        "links": [
+          {
+            "slug": "mission-20",
+            "label": "Previous mission: Escort Orbiter"
+          },
+          {
+            "slug": "mission-22",
+            "label": "Next mission: Pursuing the HSCA"
+          }
+        ]
+      },
+      {
+        "id": "failures",
+        "heading": "What to Change If Mission 21 Keeps Failing",
+        "paragraphs": [
+          "If the shuttle takes damage, check which direction the missed attacker approached from and start your next run closer to that side before the wave arrives. If ships keep firing, change your attack path or equip a better surface-target option without sacrificing all air-to-air capability.",
+          "If you are earning enough score but failing the mission, stop optimizing score and return to protecting the assets. When trying for Alienus, remember that the ship-destruction condition is an optional objective layered over a mandatory successful defense."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 21 in Ace Combat 8?",
+        "answer": "Mission 21 is The Star-Bound Bird, Operation Dawn Rising, a shuttle launch defense mission."
+      },
+      {
+        "question": "How do I keep the shuttle alive?",
+        "answer": "Prioritize attackers approaching the shuttle and control center, watch incoming waves and avoid chasing optional targets away from the base."
+      },
+      {
+        "question": "What plane should I use?",
+        "answer": "A familiar multirole aircraft that handles fighters and ships is a sensible starting point."
+      },
+      {
+        "question": "How do I unlock Alienus?",
+        "answer": "Community guides report that destroying all enemy ships triggers Alienus on an eligible Veteran-or-higher replay after campaign completion."
+      },
+      {
+        "question": "How do I get Intact Princess?",
+        "answer": "The mission medal requires keeping the protected shuttle from taking damage, not merely surviving until launch."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-20",
+      "mission-22",
+      "assault-records",
+      "best-planes"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "assault-records",
+    "pageType": "guide",
+    "navLabel": "Assault Records",
+    "title": "Ace Combat 8 Assault Records: Selected Ace Triggers",
+    "description": "A partial Ace Combat 8 Assault Records guide with selected community-reported Ace triggers, replay prerequisites and source links. Not a complete roster.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Campaign collections · named Aces",
+      "heading": "Ace Combat 8 Assault Records & Hidden Aces",
+      "lead": "This is a partial collection guide with selected community-reported encounters, not a complete roster. Community guides report 83 records split between story units and conditional named Aces; those totals are not an independently verified checklist on this page. Compare each reported trigger with your game version and records screen.",
+      "quickRoute": [
+        "Open Data Viewer → Campaign Data → Campaign Assault Records and identify the missing entry.",
+        "Use the selected examples below to plan a replay; this page does not enumerate every record or certify collection completion.",
+        "Replay the required mission on Veteran or higher after a campaign clear, trigger the Ace, shoot it down and complete the sortie."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "slug": "missions",
+          "label": "All campaign missions"
+        },
+        {
+          "slug": "",
+          "label": "Ace Combat 8 guide"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "summary",
+        "heading": "How Ace Combat 8 Assault Records Work",
+        "paragraphs": [
+          "Community guides report 83 campaign records, divided into 52 story or special-unit entries and 31 conditional named Aces. These are attributed community totals, not an official publisher count or a complete list verified by this site. The linked catalogs let you inspect the reported entries yourself.",
+          "Most story entries are earned through normal mission progress. Conditional named Aces are different: the player must first meet the relevant difficulty and progression prerequisites, then satisfy a mission-specific trigger. Shooting down a named target is not enough if you quit or fail before completing the mission."
+        ],
+        "table": {
+          "caption": "Community-reported totals — not a complete checklist",
+          "columns": [
+            "Record type",
+            "Community reported count",
+            "What to do"
+          ],
+          "rows": [
+            [
+              "Story / special-unit pilots",
+              "52",
+              "Complete relevant campaign encounters and verify missing names"
+            ],
+            [
+              "Conditional named Aces",
+              "31",
+              "Clear campaign first, replay on Veteran+, meet individual spawn triggers"
+            ],
+            [
+              "Total",
+              "83",
+              "Check the Data Viewer and finish sorties after collecting targets"
+            ]
+          ]
+        },
+        "externalLinks": [
+          {
+            "label": "Neoseeker: community catalog and reported record counts",
+            "url": "https://www.neoseeker.com/ace-combat-8-wings-of-theve/walkthrough/Campaign_Assault_Records"
+          }
+        ]
+      },
+      {
+        "id": "how",
+        "heading": "How to Find Missing Records Without Replaying Everything",
+        "paragraphs": [
+          "The fastest route starts inside the game’s Data Viewer. Identify a missing record before launching a replay. If it corresponds to a story encounter, check which mission features that pilot. If it is conditional, prepare the right mission, eligibility and trigger.",
+          "After each encounter, finish the operation and return to the records screen. Keep a small progress log by mission number and pilot name. This avoids repeated flights where the actual prerequisite was missing.",
+          "Do not treat an online multiplayer opponent as a campaign Assault Record. This page concerns campaign names and optional named enemy aircraft, not the online aircraft rankings."
+        ],
+        "steps": [
+          {
+            "heading": "Identify",
+            "description": "Open Data Viewer → Campaign Data → Campaign Assault Records and note which entries are missing."
+          },
+          {
+            "heading": "Check prerequisites",
+            "description": "Complete the main campaign at least once, and select Veteran or greater difficulty for conditional Aces."
+          },
+          {
+            "heading": "Meet the trigger",
+            "description": "Execute the mission-specific action while maintaining the primary objective."
+          },
+          {
+            "heading": "Finish",
+            "description": "Shoot down the target, complete the mission and recheck the record."
+          }
+        ]
+      },
+      {
+        "id": "examples",
+        "heading": "Selected Community-Reported Collection Routes",
+        "paragraphs": [
+          "These four examples cover encounters discussed elsewhere on this site. They are selected community reports, not a complete 83-entry roster or independently tested spawn guarantees. Check the linked sources and confirm the result in your own save.",
+          "The most important cross-mission exception concerns Mission 18 and Mission 28: the Lux Lunae 22nd Unit story record depends on defeating Shadow 24 in Mission 18 earlier in the same campaign playthrough. A Free Mission replay of 28 alone does not recreate that earlier campaign state."
+        ],
+        "table": {
+          "caption": "Selected named Ace and related record checks",
+          "columns": [
+            "Mission",
+            "Pilot / record",
+            "Reported requirement",
+            "Guide"
+          ],
+          "rows": [
+            [
+              "18 → 28",
+              "Acrobates / Lux Lunae 22nd Unit",
+              "Destroy Shadow 24 in Mission 18 earlier in the same campaign run; follow the Mission 28 conditions",
+              "Mission 18 and 28"
+            ],
+            [
+              "19",
+              "Aleator (F/A-18E)",
+              "Destroy all eight Su-47 aircraft on eligible replay",
+              "Mission 19"
+            ],
+            [
+              "20",
+              "Periodus (Su-35S)",
+              "Destroy at least one attacking B-2 bomber on eligible replay",
+              "Mission 20"
+            ],
+            [
+              "21",
+              "Alienus (EA-18G)",
+              "Destroy all enemy ships on eligible replay",
+              "Mission 21"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "mission-18",
+            "label": "Mission 18: cross-mission prerequisite"
+          },
+          {
+            "slug": "mission-19",
+            "label": "Mission 19: Aleator"
+          },
+          {
+            "slug": "mission-20",
+            "label": "Mission 20: Periodus"
+          },
+          {
+            "slug": "mission-21",
+            "label": "Mission 21: Alienus"
+          },
+          {
+            "slug": "mission-28-s-rank",
+            "label": "Mission 28 walkthrough"
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "PowerPyx: mission-specific named Ace conditions",
+            "url": "https://www.powerpyx.com/ace-combat-8-all-assault-records-enemy-aces/"
+          },
+          {
+            "label": "Gamerch: replay prerequisites, saving records and Mission 18/28 dependency",
+            "url": "https://gamerch.com/acecombat8/1019128"
+          }
+        ]
+      },
+      {
+        "id": "eligible",
+        "heading": "Why a Hidden Ace Does Not Appear",
+        "paragraphs": [
+          "Check the basics first: campaign cleared once, difficulty at Veteran or higher and the correct mission condition completed. Not every named pilot is a hidden conditional ace; some belong to story units that appear during ordinary progress.",
+          "The game can also have cross-mission dependencies. If your missing record depends on something from an earlier campaign mission, Free Mission replay of only the later encounter may not reproduce that story state.",
+          "If the Ace appears but does not save, confirm that the mission finished successfully. A kill followed by a failed objective or early exit is not an adequate collection confirmation."
+        ],
+        "table": {
+          "caption": "Missing Ace troubleshooting",
+          "columns": [
+            "Symptom",
+            "Check"
+          ],
+          "rows": [
+            [
+              "No optional ace spawns",
+              "Campaign clear, difficulty, correct trigger and mission phase"
+            ],
+            [
+              "Named aircraft defeated but record missing",
+              "Did you finish and successfully clear the mission?"
+            ],
+            [
+              "Later story unit missing",
+              "Could an earlier campaign decision be required?"
+            ],
+            [
+              "Same mission replayed repeatedly",
+              "Verify the exact name and mission in Data Viewer before retrying"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "route",
+        "heading": "Efficient Mission-by-Mission Cleanup",
+        "paragraphs": [
+          "Start with conditional Aces that you can collect in Free Mission using a direct trigger. Group attempts by mission and required loadout rather than jumping between far-apart objectives without a plan. When possible, combine a normal mission clear with one conditional record, but do not sacrifice the objective for an uncertain spawn.",
+          "Handle cross-mission story dependencies during a full campaign run, not as isolated later replays. Mission 18 before Mission 28 is the key example covered here.",
+          "A complete searchable database would require independently validating every pilot and trigger; this page deliberately does not fabricate the other individual entries. Use the in-game Data Viewer as the authoritative record of what your save has actually collected."
+        ],
+        "links": [
+          {
+            "slug": "missions",
+            "label": "All mission walkthroughs"
+          },
+          {
+            "slug": "best-planes",
+            "label": "Aircraft options for replay routes"
+          }
+        ]
+      },
+      {
+        "id": "reward",
+        "heading": "What Do You Get for All Assault Records?",
+        "paragraphs": [
+          "Community trophy guides associate completing the full Assault Records collection with the A Record of Rivalry achievement or trophy. Individual conditional named Aces can unlock special aircraft color schemes.",
+          "The actual progress is best checked against the campaign records screen and your platform achievement status. Do not assume the remaining record can be earned through an online battle, or that shooting down a qualifying opponent alone instantly saves the entry."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Assault Records are in Ace Combat 8?",
+        "answer": "Community catalogs report 83 records, split into 52 story or special-unit entries and 31 conditional named Aces. This partial guide does not independently certify that total or list all entries."
+      },
+      {
+        "question": "How do I spawn hidden named Aces?",
+        "answer": "Finish the campaign once, replay on Veteran or higher and meet the relevant mission-specific trigger."
+      },
+      {
+        "question": "Do I have to complete the mission afterward?",
+        "answer": "Yes. Community trophy guidance says the kill is recorded after successful mission completion."
+      },
+      {
+        "question": "Why is Acrobates missing in Mission 28?",
+        "answer": "Its story prerequisite depends on Shadow 24 being destroyed in Mission 18 during the same campaign run."
+      },
+      {
+        "question": "Where do I view my records?",
+        "answer": "Data Viewer → Campaign Data → Campaign Assault Records."
+      },
+      {
+        "question": "Does this page list every pilot by name?",
+        "answer": "No. This is a partial collection guide with four selected community-reported encounter checks and links to external catalogs, not a complete 83-record checklist."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "mission-18",
+      "mission-19",
+      "mission-20",
+      "mission-21",
+      "mission-28-s-rank"
+    ],
+    "lastReviewed": "2026-11-02"
   }
 ]

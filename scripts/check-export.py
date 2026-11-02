@@ -13,7 +13,8 @@ HOST = 'https://acecombat8.github.io'
 OLD_SLUGS = ['', 'mission-28-s-rank', 'mission-16', 'mrp-farming', 'mission-26', 'missions', 'best-planes']
 NEW_SLUGS = ['mission-15', 'mission-25', 'mission-27', 'mission-08', 'mission-17', 's-rank-guide']
 BATCH_TWO_SLUGS = ['mission-30', 'mission-24', 'mission-22', 'mission-23', 'mission-29', 'mission-18']
-SLUGS = OLD_SLUGS + NEW_SLUGS + BATCH_TWO_SLUGS
+BATCH_THREE_SLUGS = ['best-online-planes', 'mission-20', 'mission-19', 'mission-21', 'assault-records']
+SLUGS = OLD_SLUGS + NEW_SLUGS + BATCH_TWO_SLUGS + BATCH_THREE_SLUGS
 PREVIEW = '--preview' in sys.argv
 errors = []
 
@@ -142,10 +143,10 @@ for slug in SLUGS:
     if not PREVIEW:
         check(doc.meta.get('robots') == 'index, follow', local + ': restrictive robots metadata')
     destinations = {'/' + (s + '/' if s else '') for s in SLUGS}
-    check(destinations <= doc.footer_links, local + ': footer does not contain all nineteen destinations')
+    check(destinations <= doc.footer_links, local + ': footer does not contain all twenty-four destinations')
     check(destinations <= doc.nav_links, local + ': global navigation does not expose all routes')
     visible = ' '.join(doc.visible_text)
-    if slug in NEW_SLUGS + BATCH_TWO_SLUGS:
+    if slug in NEW_SLUGS + BATCH_TWO_SLUGS + BATCH_THREE_SLUGS:
         definition = next(p for p in json.loads((ROOT / 'content/generated/pages.json').read_text()) if p['slug'] == slug)
         check(len(definition.get('faq', [])) >= 4, local + ': expected at least four FAQs')
         check(3 <= len(definition['hero'].get('quickRoute', [])) <= 5, local + ': expected 3–5 quick answers')
@@ -153,7 +154,7 @@ for slug in SLUGS:
         check(re.search(r'</h1><div class="guide-quick-route">', source), local + ': quick answer must immediately follow H1')
         check(doc.meta.get('twitter:title') == doc.title, local + ': incorrect Twitter title')
         check(doc.meta.get('twitter:description') == doc.meta.get('description'), local + ': incorrect Twitter description')
-        check(definition['lastReviewed'] == ('2026-10-21' if slug in BATCH_TWO_SLUGS else '2026-10-15'), local + ': wrong review date')
+        check(definition['lastReviewed'] == ('2026-11-02' if slug in BATCH_THREE_SLUGS else '2026-10-21' if slug in BATCH_TWO_SLUGS else '2026-10-15'), local + ': wrong review date')
         main_links = set(re.findall(r'href="(/[^"#]*)"', re.search(r'<main\b.*?</main>', source, re.S).group()))
         check({'/', '/missions/'} <= main_links, local + ': missing home or hub backlink')
         check(len(main_links - {'/', '/missions/'}) >= 2, local + ': missing relevant related links')
@@ -205,7 +206,7 @@ for local, doc in documents.items():
 
 sitemap = ElementTree.parse(OUT / 'sitemap.xml')
 locations = [node.text for node in sitemap.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly nineteen editorial URLs')
+check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly twenty-four editorial URLs')
 robots = (OUT / 'robots.txt').read_text()
 check('Sitemap: ' + HOST + '/sitemap.xml' in robots, 'Incorrect robots sitemap')
 if not PREVIEW:
@@ -233,4 +234,4 @@ print(json.dumps(rows, indent=2))
 if errors:
     print('\nFAILED:', *errors, sep='\n- ', file=sys.stderr)
     raise SystemExit(1)
-print('PASS: nineteen routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')
+print('PASS: twenty-four routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')
