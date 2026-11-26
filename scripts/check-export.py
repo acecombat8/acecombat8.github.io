@@ -14,7 +14,8 @@ OLD_SLUGS = ['', 'mission-28-s-rank', 'mission-16', 'mrp-farming', 'mission-26',
 NEW_SLUGS = ['mission-15', 'mission-25', 'mission-27', 'mission-08', 'mission-17', 's-rank-guide']
 BATCH_TWO_SLUGS = ['mission-30', 'mission-24', 'mission-22', 'mission-23', 'mission-29', 'mission-18']
 BATCH_THREE_SLUGS = ['best-online-planes', 'mission-20', 'mission-19', 'mission-21', 'assault-records']
-SLUGS = OLD_SLUGS + NEW_SLUGS + BATCH_TWO_SLUGS + BATCH_THREE_SLUGS
+BATCH_FOUR_SLUGS = ["online-season-2", "celaeno", "mission-04", "best-parts"]
+SLUGS = OLD_SLUGS + NEW_SLUGS + BATCH_TWO_SLUGS + BATCH_THREE_SLUGS + BATCH_FOUR_SLUGS
 PREVIEW = '--preview' in sys.argv
 errors = []
 
@@ -137,13 +138,27 @@ for slug in SLUGS:
     check(doc.canonical == url, local + ': incorrect canonical')
     check(0 < len(doc.title) <= 60, local + ': title exceeds 60 characters')
     check(0 < len(doc.meta.get('description', '')) <= 160, local + ': description exceeds 160 characters')
-    check(words >= (1200 if not slug else 900), local + f': insufficient substantive word count ({words})')
+    if slug in BATCH_FOUR_SLUGS:
+        english_characters = len(re.findall(r'[A-Za-z]', ' '.join(doc.main_text)))
+        check(english_characters >= 1200, local + ': insufficient English characters')
+        definition = next(p for p in json.loads((ROOT / 'content/generated/pages.json').read_text()) if p['slug'] == slug)
+        check(definition['lastReviewed'] == '2026-11-26', local + ': incorrect review date')
+        source = (OUT / local).read_text()
+        check(len(re.findall(r'<title>', source)) == 1, local + ': duplicate title')
+        check(len(re.findall(r'<meta name="description"', source)) == 1, local + ': duplicate description')
+        check(re.search(r'</h1><div class="guide-quick-route">', source), local + ': answer must immediately follow H1')
+        check(all(b <= a + 1 for a, b in zip(doc.heading_levels, doc.heading_levels[1:])), local + ': skipped heading level')
+        check(definition['hero']['heading'] in ' '.join(doc.main_text), local + ': missing static answer')
+        main_links = set(re.findall(r'href="(/[^"#]*)"', re.search(r'<main\b.*?</main>', source, re.S).group()))
+        check('/' in main_links and len(main_links - {'/'}) >= 2, local + ': missing relevant backlinks')
+    else:
+        check(words >= (1200 if not slug else 900), local + f': insufficient substantive word count ({words})')
     check(doc.meta.get('og:url') == url, local + ': incorrect OG URL')
     check(doc.meta.get('og:image') == HOST + '/images/guide-og.png', local + ': invalid OG image')
     if not PREVIEW:
         check(doc.meta.get('robots') == 'index, follow', local + ': restrictive robots metadata')
     destinations = {'/' + (s + '/' if s else '') for s in SLUGS}
-    check(destinations <= doc.footer_links, local + ': footer does not contain all twenty-four destinations')
+    check(destinations <= doc.footer_links, local + ': footer does not contain all editorial destinations')
     check(destinations <= doc.nav_links, local + ': global navigation does not expose all routes')
     visible = ' '.join(doc.visible_text)
     if slug in NEW_SLUGS + BATCH_TWO_SLUGS + BATCH_THREE_SLUGS:
@@ -181,8 +196,9 @@ for slug in SLUGS:
             parsed = urlsplit(href)
             check(not parsed.scheme or parsed.netloc in ['acecombat8.github.io', 'www.bandainamcoent.com', 'acecombat.jp'], local + ': unapproved external link')
     check(('BreadcrumbList' if slug else 'VideoGame') in schema_types, local + ': missing page schema')
-    rows.append(dict(url=url, title=doc.title, titleCharacters=len(doc.title), descriptionCharacters=len(doc.meta.get('description', '')), words=words, h1=doc.h1, schemas=sorted(schema_types)))
+    rows.append(dict(url=url, title=doc.title, titleCharacters=len(doc.title), description=doc.meta.get('description', ''), descriptionCharacters=len(doc.meta.get('description', '')), h1Text=re.findall(r'<h1[^>]*>(.*?)</h1>', (OUT / local).read_text()), h2=re.findall(r'<h2[^>]*>(.*?)</h2>', (OUT / local).read_text()), englishCharacters=len(re.findall(r'[A-Za-z]', ' '.join(doc.main_text))), canonical=doc.canonical, words=words, h1=doc.h1, schemas=sorted(schema_types)))
 
+check(len({re.search(r'<h1[^>]*>(.*?)</h1>', (OUT / ('index.html' if not s else s + '/index.html')).read_text()).group(1) for s in SLUGS}) == len(SLUGS), 'H1s are not unique')
 check(len({r['title'] for r in rows}) == len(SLUGS), 'Titles are not unique')
 check(len({documents[(s + '/index.html') if s else 'index.html'].meta.get('description') for s in SLUGS}) == len(SLUGS), 'Descriptions are not unique')
 for local, doc in documents.items():
@@ -206,7 +222,7 @@ for local, doc in documents.items():
 
 sitemap = ElementTree.parse(OUT / 'sitemap.xml')
 locations = [node.text for node in sitemap.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly twenty-four editorial URLs')
+check(set(locations) == {r['url'] for r in rows} and len(locations) == len(SLUGS), 'Sitemap must contain exactly all approved editorial URLs')
 robots = (OUT / 'robots.txt').read_text()
 check('Sitemap: ' + HOST + '/sitemap.xml' in robots, 'Incorrect robots sitemap')
 if not PREVIEW:
@@ -234,4 +250,4 @@ print(json.dumps(rows, indent=2))
 if errors:
     print('\nFAILED:', *errors, sep='\n- ', file=sys.stderr)
     raise SystemExit(1)
-print('PASS: twenty-four routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')
+print('PASS: twenty-eight routes, rendered content, metadata, navigation, links, schemas, sitemap, assets and public-output scan.')

@@ -4223,5 +4223,753 @@
       "mission-28-s-rank"
     ],
     "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "online-season-2",
+    "pageType": "updates",
+    "navLabel": "Season 2",
+    "title": "Ace Combat 8 Season 2: Date, Aircraft & Rewards",
+    "description": "Ace Combat Online Season 2 starts December 1. Check the confirmed aircraft, ACE PASS rewards, co-op maps and December event dates.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "ACE COMBAT 8 · Reviewed November 26, 2026",
+      "heading": "Ace Combat 8 Online Season 2 Guide",
+      "lead": "ACE COMBAT ONLINE is the online mode of ACE COMBAT 8: WINGS OF THEVE. Season 2 is scheduled for December 1, 2026 at 09:00 CET (08:00 UTC / 17:00 JST). As of November 26 it has been announced, not launched.",
+      "quickRoute": [
+        "Plan for December 1; check the live service notice before your first sortie.",
+        "Su-30SM -MIHALY- is paid PREMIUM ACE PASS content; X-40 Nightmare has a separate Captain-rank unlock.",
+        "Anchorhead Bay joins CO-OP ASSAULT; Kaninfot Valley joins CO-OP WARFARE.",
+        "Choose events around the reward you need rather than treating every bonus as active all month."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        },
+        {
+          "label": "All missions",
+          "slug": "missions"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "start",
+        "heading": "Season 2 Start Date and What Changes",
+        "paragraphs": [
+          "The November 24 European announcement and November 25 Japanese publisher release agree on the start instant. The update covers PS5, Xbox Series X|S and Steam. Installation and service availability should still be checked on your platform on launch day.",
+          "Use the date as a planning point, not a promise that a download will finish at that minute. If an event is absent after updating, check the current service notice and the event panel before spending currency."
+        ],
+        "externalLinks": [
+          {
+            "label": "Bandai Namco Europe · November 24 announcement",
+            "url": "https://en.bandainamcoent.eu/ace-combat/news/feeling-little-excited-ace-combat-online-season-two-starting-soon"
+          },
+          {
+            "label": "Bandai Namco Entertainment · November 25 release",
+            "url": "https://prtimes.jp/main/html/rd/p/000002406.000051316.html"
+          }
+        ]
+      },
+      {
+        "id": "aircraft",
+        "heading": "New Aircraft and Unlock Routes",
+        "paragraphs": [
+          "The Japanese release identifies Su-30SM -MIHALY- as the level-one PREMIUM ACE PASS reward. The X-40 Nightmare becomes available to unlock in Online after reaching Captain. Eligibility to unlock is not the same as receiving an aircraft automatically.",
+          "These are different acquisition routes. Check which aircraft you actually want before purchasing a pass, and read the in-game listing for any additional unlock requirements. This page does not assign an unannounced price or claim a free X-40 giveaway."
+        ]
+      },
+      {
+        "id": "pass",
+        "heading": "ACE PASS: Free vs Premium Rewards",
+        "paragraphs": [
+          "The free and premium tracks include cosmetics and progression resources. The publisher lists skins, emblems and avatar costumes; the Su-30SM -MIHALY- belongs to the premium track.",
+          "Preview the reward track in game before buying. A cosmetic you like, an aircraft you intend to use and an upgrade resource solve different needs. Judge the purchase against your own planned sorties rather than assuming that a paid aircraft is required to participate."
+        ]
+      },
+      {
+        "id": "maps",
+        "heading": "New Co-op Maps and Match Modes",
+        "paragraphs": [
+          "Anchorhead Bay is assigned to CO-OP ASSAULT, while Kaninfot Valley is assigned to CO-OP WARFARE. The latter is an original ACE COMBAT ONLINE map. These additions do not establish a new solo campaign mission.",
+          "Select the mode first when looking for a new map. An aircraft prepared for one objective mix may need different weapons for another; review the sortie briefing before carrying a familiar loadout into a new rotation."
+        ]
+      },
+      {
+        "id": "events",
+        "heading": "Limited-Time Events and Dates",
+        "paragraphs": [
+          "Dates below follow the European announcement. Check the live event panel for exact closing times; date ranges alone should not be interpreted as midnight deadlines in your local timezone."
+        ],
+        "table": {
+          "caption": "Announced Season 2 event calendar",
+          "columns": [
+            "Dates",
+            "Event / reward focus"
+          ],
+          "rows": [
+            [
+              "Dec 1–before Jan 1",
+              "Everyone Sortie login: 30th Anniversary emblem"
+            ],
+            [
+              "Dec 3–14",
+              "Challenges: INFINITY emblem"
+            ],
+            [
+              "Dec 7–14",
+              "Co-op bonus ZOLL"
+            ],
+            [
+              "Dec 14–21; Dec 28–Jan 4",
+              "Co-op parts drops: ★★★ and role-exclusive ★ / ★★"
+            ],
+            [
+              "Dec 17–28",
+              "Challenges: upgrade rewards, banners and nicknames"
+            ],
+            [
+              "Dec 21–28",
+              "Co-op COMBAT XP and increased EMERGENCY SORTIE rate"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Read parts availability carefully",
+            "paragraphs": [
+              "The European notice describes the parts-drop windows as an early opportunity to try ★★★ Parts ahead of a future update. Do not read that as permanent unrestricted shop availability on December 1."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "heading": "How to Prepare for Season 2",
+        "paragraphs": [
+          "Before launch, note your current aircraft, rank and upgrade priorities. If you need upgrade currency, the ZOLL window is a more direct planning cue than a cosmetic challenge. If you want experience, check the later XP window instead.",
+          "Keep one familiar aircraft ready for your first matches. Change one loadout choice at a time so you can tell whether a new map, a new part or your own flying caused the difference. These are preparation suggestions, not a prediction of the post-update balance."
+        ],
+        "links": [
+          {
+            "label": "Compare Online aircraft",
+            "slug": "best-online-planes"
+          },
+          {
+            "label": "Plan your parts build",
+            "slug": "best-parts"
+          }
+        ]
+      },
+      {
+        "id": "review",
+        "heading": "Announcement Review Log",
+        "paragraphs": [
+          "November 26, 2026: checked the publisher announcements, launch timezone, aircraft routes, co-op map assignments and event calendar. Launch-day performance, full shop prices and future balance results are not yet established by this review."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When does Ace Combat 8 Season 2 start?",
+        "answer": "December 1, 2026 at 09:00 CET, equivalent to 08:00 UTC and 17:00 JST, according to the publisher announcement."
+      },
+      {
+        "question": "Is Su-30SM -MIHALY- free?",
+        "answer": "It is a paid PREMIUM ACE PASS reward, not a free-track aircraft."
+      },
+      {
+        "question": "Does the premium pass automatically unlock X-40 Nightmare?",
+        "answer": "The announced X-40 route is reaching Captain and then becoming eligible to unlock it in Online."
+      },
+      {
+        "question": "Which modes receive the new maps?",
+        "answer": "CO-OP ASSAULT receives Anchorhead Bay; CO-OP WARFARE receives Kaninfot Valley."
+      }
+    ],
+    "relatedSlugs": [
+      "best-online-planes",
+      "best-parts"
+    ],
+    "lastReviewed": "2026-11-26"
+  },
+  {
+    "enabled": true,
+    "slug": "celaeno",
+    "pageType": "guide",
+    "navLabel": "Celaeno Boss Guide",
+    "title": "Ace Combat 8 Celaeno Boss: Weak Points & Strategy",
+    "description": "Defeat Celaeno in Mission 22: follow the propeller, wing spar, engine and generator sequence, manage UAV threats and prepare your escape.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "ACE COMBAT 8 · Reviewed November 26, 2026",
+      "heading": "Ace Combat 8 Celaeno Boss Guide",
+      "lead": "To destroy Celaeno, attack its marked propellers, then the exposed WING SPAR targets. Wing separation opens a side shot on the MAIN ENGINE; further damage exposes the GENERATOR. Destroy that core, then follow the withdrawal order.",
+      "quickRoute": [
+        "Use component labels to follow the current phase; the hull silhouette is not the weak point.",
+        "After wing separation, make a side approach to the exposed engine.",
+        "Align with the generator opening before firing; a lock does not remove intervening armor.",
+        "Leave the railgun danger area when ordered; the boss kill is not the final flight action."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        },
+        {
+          "label": "All missions",
+          "slug": "missions"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "answer",
+        "heading": "How to Defeat Celaeno: Quick Answer",
+        "paragraphs": [
+          "This guide isolates the boss fight in Mission 22, Pursuing the HSCA. For the low approach and complete operation, use the full mission walkthrough. Here the key question is what your next attack should hit, rather than how much damage you can pour into the aircraft.",
+          "After every successful pass, read the objective and cycle targets again. A newly exposed component is a better cue than a memorized number of missiles. Keep enough separation to see the next label and choose an exit before beginning another approach."
+        ],
+        "links": [
+          {
+            "label": "Full Mission 22 walkthrough",
+            "slug": "mission-22"
+          }
+        ]
+      },
+      {
+        "id": "targets",
+        "heading": "Celaeno Weak Points and Target Order",
+        "paragraphs": [
+          "Player walkthroughs agree on the structural sequence below. Defensive weapons can be cleared when they obstruct a safe pass, but shooting a defense does not substitute for the next required component."
+        ],
+        "table": {
+          "caption": "Boss phase decisions",
+          "columns": [
+            "Current target",
+            "Action",
+            "Common mistake"
+          ],
+          "rows": [
+            [
+              "Propellers",
+              "Destroy marked external components",
+              "Continuing to shoot a destroyed part"
+            ],
+            [
+              "WING SPAR",
+              "Attack after the propeller stage opens it",
+              "Assuming intact wings expose the engine"
+            ],
+            [
+              "MAIN ENGINE",
+              "Approach the hole from the side",
+              "Firing into the fuselage from the wrong angle"
+            ],
+            [
+              "GENERATOR",
+              "Aim through the enlarged opening",
+              "Mistaking a target marker for a clear shot"
+            ],
+            [
+              "Withdrawal",
+              "Follow the escape instruction",
+              "Staying for optional escorts"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "generator",
+        "heading": "How to Approach the Generator",
+        "paragraphs": [
+          "Set the turn up outside the aircraft, then stabilize the final line toward the opening. Confirm the selected target says GENERATOR. If the hull masks the opening, extend away and turn back for a better angle instead of trying to salvage the pass beside the structure.",
+          "Control speed before the firing window. Arriving too fast leaves little time to correct; arriving without a planned breakaway invites a collision. Use the speed that lets you aim and separate in your aircraft, rather than copying an unsupported universal speed value.",
+          "A missed shot should change your next attempt. Armor impact calls for a different line. Overshoot calls for earlier speed control. Structural contact calls for a wider setup. More ammunition will not fix all three problems."
+        ]
+      },
+      {
+        "id": "uavs",
+        "heading": "UAV and Escort Threats",
+        "paragraphs": [
+          "Celaeno deploys shield UAVs and interceptor threats. Player walkthroughs describe using guns to overcome shielding drones. Recheck the line to the boss after clearing a drone rather than assuming that every missile now has an unobstructed path.",
+          "Break off an attack when you cannot manage the immediate threat safely. Recover room to maneuver, identify whether the selected label belongs to an escort or the boss, and return to the required component. Do not turn every escort contact into a prolonged chase away from Celaeno."
+        ]
+      },
+      {
+        "id": "loadout",
+        "heading": "Aircraft and Parts for Precision Passes",
+        "paragraphs": [
+          "Choose an aircraft you can hold steady during close component attacks. Handling and useful acceleration are sensible priorities if your failures come from overshoot and recovery. A more expensive aircraft is not a substitute for understanding the exposed target.",
+          "Carry weapons suited to the target categories shown in the briefing and preserve a dependable anti-air option. Check a special weapon can engage the selected component before committing it. No single aircraft or damage multiplier is required by the sequence described here."
+        ],
+        "links": [
+          {
+            "label": "Aircraft selection guide",
+            "slug": "best-planes"
+          },
+          {
+            "label": "Parts and upgrade choices",
+            "slug": "best-parts"
+          }
+        ]
+      },
+      {
+        "id": "failures",
+        "heading": "Why the Boss Will Not Take Damage",
+        "paragraphs": [
+          "First check the phase: is a required external component still alive? Next check the target: are you attacking the current weak point or an escort? Finally check the line: is intact armor between your weapon and the opening? Work through those checks before changing aircraft.",
+          "The generator kill is followed by withdrawal under a railgun threat. Turn your attention to the escape instruction as soon as it arrives. If you fail after destroying the core, practice the exit as a separate problem from the attack."
+        ],
+        "externalLinks": [
+          {
+            "label": "PowerPyx · Mission 22 player walkthrough",
+            "url": "https://www.powerpyx.com/ace-combat-8-all-ace-s-ranks-walkthrough/"
+          },
+          {
+            "label": "Ace Combat Wiki · Celaeno and game references",
+            "url": "https://acecombat.wiki.gg/wiki/Calaeno"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which mission contains the Celaeno fight?",
+        "answer": "Mission 22, Pursuing the HSCA. This page focuses on the boss components rather than the entire mission."
+      },
+      {
+        "question": "What exposes the main engine?",
+        "answer": "Destroying the wing spar causes wing separation, opening a side approach to the main engine."
+      },
+      {
+        "question": "Why do shots miss the generator despite a target lock?",
+        "answer": "The opening must be in the firing line. A lock-on marker can still leave armor between your weapon and the generator."
+      },
+      {
+        "question": "Can I stop flying after destroying Celaeno?",
+        "answer": "No. Follow the withdrawal order and leave the railgun threat area."
+      }
+    ],
+    "relatedSlugs": [
+      "mission-22",
+      "best-parts",
+      "missions"
+    ],
+    "lastReviewed": "2026-11-26"
+  },
+  {
+    "enabled": true,
+    "slug": "mission-04",
+    "pageType": "guide",
+    "navLabel": "Mission 4",
+    "title": "Ace Combat 8 Mission 4 Walkthrough & Objectives",
+    "description": "Complete Operation Elder Hand with target priorities, fleet-strike preparation and a separate Tunnel Specter and Auster replay checklist.",
+    "navVisible": true,
+    "parentSlug": "missions",
+    "hero": {
+      "eyebrow": "ACE COMBAT 8 · Reviewed November 26, 2026",
+      "heading": "Ace Combat 8 Mission 4 Walkthrough",
+      "lead": "Mission 4 is The Fall of the Numbered Fleets, Operation Elder Hand. Clear the marked island and fleet targets while managing air defenses; treat the tunnel passage for Tunnel Specter and the optional Auster encounter as a separate replay goal.",
+      "quickRoute": [
+        "Read the current TGT markers and clear dangerous air defenses around your attack route.",
+        "Hit parked aircraft before they launch when you have a safe opportunity.",
+        "Keep surface-strike ammunition for the fleet; do optional score cleanup before the final required target.",
+        "Attempt the tunnel on a deliberate collection run rather than risking an otherwise clean first clear."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        },
+        {
+          "label": "All missions",
+          "slug": "missions"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "route",
+        "heading": "Mission 4 Quick Route",
+        "paragraphs": [
+          "The practical route is a surface strike with air cover to manage. Begin with the cluster you can attack cleanly, remove weapons threatening repeated passes, and keep scanning the map for the next marked objective. Avoid flying back and forth for individual low-value targets while required targets remain.",
+          "Walkthroughs describe the island from different starting perspectives. Use the displayed objectives to orient yourself instead of treating a compass direction in a guide as an instruction that overrides your HUD. The essential pattern is airbase and defense suppression followed by fleet cleanup."
+        ]
+      },
+      {
+        "id": "objectives",
+        "heading": "Objectives and Mission Phases",
+        "paragraphs": [
+          "Keep the distinction between required targets and optional score targets clear. Before destroying the last TGT, decide whether you are ready to finish or still have safe cleanup to do. On a first clear, completion is the priority; a score replay can use a more deliberate route."
+        ],
+        "table": {
+          "caption": "Operation Elder Hand action checklist",
+          "columns": [
+            "Situation",
+            "Priority",
+            "Check before moving on"
+          ],
+          "rows": [
+            [
+              "Airbase / coastal approach",
+              "Threatening SAM and AA positions; parked aircraft",
+              "Avoid another pass through an active defense cluster"
+            ],
+            [
+              "Fleet engagement",
+              "Marked ships and dangerous naval defenses",
+              "Reserve enough surface weapons to finish"
+            ],
+            [
+              "Optional cleanup",
+              "Nearby aircraft and ground targets",
+              "Do it before the final required TGT"
+            ],
+            [
+              "Collection replay",
+              "Tunnel passage; optional ace",
+              "Choose this goal before takeoff"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "weapons",
+        "heading": "Recommended Aircraft and Weapons",
+        "paragraphs": [
+          "Use a controllable aircraft with a surface weapon you understand and an anti-air fallback. A broad mission benchmark can help narrow the choice, but you still need to know what each equipped weapon can actually lock onto. An anti-air-only setup makes the fleet work unnecessarily slow.",
+          "Plan your expenditure around targets rather than firing a special weapon at the first available icon. Use ordinary weapons for suitable light targets and save the surface option for attacks where it provides a clear advantage. If a pass exposes you to several defenses, remove the most immediate threat before repeating it."
+        ],
+        "links": [
+          {
+            "label": "Choose an aircraft for the campaign",
+            "slug": "best-planes"
+          },
+          {
+            "label": "Match parts to your weapons",
+            "slug": "best-parts"
+          }
+        ]
+      },
+      {
+        "id": "tunnel",
+        "heading": "Tunnel Specter and Auster: Separate Replay Goals",
+        "paragraphs": [
+          "Tunnel Specter is the campaign medal for flying through the narrow tunnel in Mission 4. Player guides also connect the tunnel route with Auster, the optional Gripen E ace, on a Veteran-or-higher Free Mission replay after completing the campaign.",
+          "Descriptions of the ace route and where it appears are not uniform across guides. Do not infer that every tunnel direction or first-playthrough attempt guarantees Auster. Check the replay prerequisites, then use the dedicated ace reference below if the encounter is your goal."
+        ],
+        "subsections": [
+          {
+            "heading": "Prepare the tunnel pass",
+            "paragraphs": [
+              "Reduce speed before entry, center the aircraft and leave clearance for ventilation structures. The passage changes height and curves near the eastern end. A last-second turn at the entrance is a poor setup; extend away and realign if necessary."
+            ]
+          },
+          {
+            "heading": "Keep a clean-clear route available",
+            "paragraphs": [
+              "The tunnel is optional for ordinary mission completion. If you only need a clear, postpone it. If you need the medal, make the passage the focus of a later attempt so a collision does not erase a carefully prepared score run."
+            ]
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "Neoseeker · Mission 4 and Auster replay conditions",
+            "url": "https://www.neoseeker.com/ace-combat-8-wings-of-theve/walkthrough/Mission_4%3A_The_Fall_of_the_Numbered_Fleets"
+          },
+          {
+            "label": "Neoseeker · Campaign medals",
+            "url": "https://www.neoseeker.com/ace-combat-8-wings-of-theve/walkthrough/Campaign_Medals"
+          }
+        ]
+      },
+      {
+        "id": "recovery",
+        "heading": "Common Failures and Recovery",
+        "paragraphs": [
+          "If you run short of surface ammunition, review which targets received your special weapons. An early unnecessary salvo can make the remaining fleet slower without improving survival. If air defenses repeatedly hit you, change the approach and suppress them rather than repeating the same exposed circuit.",
+          "If the mission ends before optional cleanup, identify the last required target on the next run and leave it until you are ready. If the tunnel causes repeated crashes, separate the entry alignment, speed and exit curve into distinct corrections. Do not change all three blindly between attempts."
+        ]
+      },
+      {
+        "id": "references",
+        "heading": "Mission Notes and Next Steps",
+        "paragraphs": [
+          "Mission names and the tunnel medal were checked against player walkthrough and medal references on November 26, 2026. This walkthrough does not promise an S rank from a fixed route or invent a mandatory tunnel objective."
+        ],
+        "externalLinks": [
+          {
+            "label": "PowerPyx · Mission 04 player walkthrough",
+            "url": "https://www.powerpyx.com/ace-combat-8-all-ace-s-ranks-walkthrough/"
+          }
+        ],
+        "links": [
+          {
+            "label": "Campaign mission directory",
+            "slug": "missions"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mission 4 called?",
+        "answer": "The Fall of the Numbered Fleets, with the operation name Elder Hand."
+      },
+      {
+        "question": "Is the tunnel required to finish Mission 4?",
+        "answer": "No. It is an optional collection route connected with Tunnel Specter and the Auster encounter."
+      },
+      {
+        "question": "How do I earn Tunnel Specter?",
+        "answer": "Fly through the narrow tunnel in Mission 4. Set up the entry carefully and allow room for the height change and curve."
+      },
+      {
+        "question": "Should I attempt Auster during my first clear?",
+        "answer": "Use a separate qualifying Free Mission replay after the campaign, on Veteran or higher, rather than treating the ace as a required first-clear target."
+      }
+    ],
+    "relatedSlugs": [
+      "missions",
+      "best-planes",
+      "best-parts"
+    ],
+    "lastReviewed": "2026-11-26"
+  },
+  {
+    "enabled": true,
+    "slug": "best-parts",
+    "pageType": "guide",
+    "navLabel": "Best Parts",
+    "title": "Ace Combat 8 Best Parts & Aircraft Upgrade Builds",
+    "description": "Choose BODY, ARMS and MISC upgrades around your mission, aircraft slots and weapons. Compare campaign parts with Online loadout priorities.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "ACE COMBAT 8 · Reviewed November 26, 2026",
+      "heading": "Ace Combat 8 Best Parts & Upgrades",
+      "lead": "Choose parts by the problem costing you the sortie: handling for missed approaches, weapon tuning for ineffective attacks, and utility for a specific threat. BODY, ARMS and MISC have separate per-aircraft slot limits, so a build must fit the aircraft you are flying.",
+      "quickRoute": [
+        "Campaign baseline: controlled handling, dependable standard missiles and support for the selected special weapon.",
+        "Air combat: improve turning or missile consistency according to the misses you actually see.",
+        "Surface strike: match ARMS parts to your equipped surface weapon rather than an unrelated weapon family.",
+        "Online: inspect the Online inventory, aircraft level and available slots; do not copy a campaign build blindly."
+      ],
+      "answerFirst": true,
+      "quickLinks": [
+        {
+          "label": "Ace Combat 8 home",
+          "slug": ""
+        },
+        {
+          "label": "All missions",
+          "slug": "missions"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "compare",
+        "heading": "Best Parts by Playstyle: Quick Comparison",
+        "paragraphs": [
+          "There is no useful universal Top 10 without considering the aircraft, weapon family and objective. Start with an available build, fly a familiar mission and identify what causes the failure. Change the part that addresses that failure before buying several specialized upgrades."
+        ],
+        "table": {
+          "caption": "Suggested priorities, not a fixed universal ranking",
+          "columns": [
+            "Scenario",
+            "First question",
+            "Build direction"
+          ],
+          "rows": [
+            [
+              "Mixed campaign",
+              "Am I missing passes or shots?",
+              "Handling plus standard-missile reliability"
+            ],
+            [
+              "Dogfight",
+              "Can I hold the target or does the missile miss?",
+              "Pitch / maneuverability or guidance"
+            ],
+            [
+              "Surface strike",
+              "Do I lose lock time or run out of weapons?",
+              "Matching SP-weapon lock-on or payload"
+            ],
+            [
+              "Long sortie",
+              "Which weapon runs dry?",
+              "Capacity for that weapon family"
+            ],
+            [
+              "Online",
+              "What does this aircraft and role permit?",
+              "Check current Online slots and part descriptions"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "body",
+        "heading": "BODY Parts: Mobility and Survivability",
+        "paragraphs": [
+          "Confirmed catalogue examples include Superior Maneuverability for turning in all directions, Flap Auxiliary Pressurization Device for pitch handling, ECU Software Update for stall resistance and longer high-G turns, and Fuel Tank Bulletproof Coating for durability.",
+          "Treat these as different solutions. If you can reach the target but cannot line up the shot, handling is a reasonable first experiment. If travel between objectives is the bottleneck, evaluate acceleration or speed instead. Durability provides margin for a damaged run, but it does not make a bad attack angle safe."
+        ]
+      },
+      {
+        "id": "arms",
+        "heading": "ARMS Parts: Weapons and Targeting",
+        "paragraphs": [
+          "Target ID Accelerator (MSL) shortens standard-missile reload, while Guidance Optimization Software (MSL) improves guidance. Air-to-Air Electronic Optical Hybrid Sight and its Air-to-Ground counterpart support the corresponding special-weapon lock-on. Check the full weapon-family wording before equipping.",
+          "A reload part helps when you are ready to fire again but waiting for the weapon. Guidance addresses a different problem: shots that do not connect. Payload helps only if ammunition limits the sortie. Count useful attacks rather than judging a build solely by larger menu bars."
+        ],
+        "table": {
+          "caption": "Named campaign examples and their limits",
+          "columns": [
+            "Part",
+            "Slot",
+            "Use",
+            "Limitation"
+          ],
+          "rows": [
+            [
+              "Superior Maneuverability",
+              "BODY",
+              "General turning control",
+              "Does not fix an obstructed firing line"
+            ],
+            [
+              "Target ID Accelerator (MSL)",
+              "ARMS",
+              "Standard-missile reload",
+              "Not a blanket SP-weapon upgrade"
+            ],
+            [
+              "Guidance Optimization Software (MSL)",
+              "ARMS",
+              "Standard-missile tracking",
+              "Does not guarantee every shot hits"
+            ],
+            [
+              "Air-to-Ground Electronic Optical Hybrid Sight",
+              "ARMS",
+              "Surface SP-missile targeting",
+              "Match to the weapon actually equipped"
+            ],
+            [
+              "Onboard Self-Defense Jammer",
+              "MISC",
+              "Enemy-missile defense",
+              "Still requires defensive flying"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "misc",
+        "heading": "MISC Parts: Utility and Support",
+        "paragraphs": [
+          "The catalogue includes Onboard Self-Defense Jammer for missile defense and Main Structural Frame for reducing terrain-contact damage. Utility choices should answer a threat you encounter often enough to justify the slot.",
+          "Choose a utility part after identifying the failure, not simply because it is available. Terrain protection is a recovery margin; plan the approach to avoid contact. Missile defense supports evasive flying; keep attention on warning cues and an exit route rather than expecting passive equipment to protect an entire attack run."
+        ]
+      },
+      {
+        "id": "campaign",
+        "heading": "Recommended Campaign Loadout Scenarios",
+        "paragraphs": [
+          "For Mission 4, begin with surface-strike coverage and handling that lets you make repeatable passes around the island. If you run out of the weapon doing most of the work, compare a matching capacity part with your current less-used ARMS choice.",
+          "For Celaeno, improve the precision and recovery of component passes before chasing raw damage. If the generator remains behind armor, no parts swap corrects that geometry. Use a familiar replay to compare handling choices and carry the improvement into the boss attempt."
+        ],
+        "links": [
+          {
+            "label": "Mission 4 surface-strike walkthrough",
+            "slug": "mission-04"
+          },
+          {
+            "label": "Celaeno component strategy",
+            "slug": "celaeno"
+          }
+        ]
+      },
+      {
+        "id": "online",
+        "heading": "Online and PvP Parts: What Changes",
+        "paragraphs": [
+          "Campaign purchases and Online progression should be checked in their respective menus. Available parts and slots depend on your current Online aircraft and progression; a campaign recipe is not proof that the same build can be equipped in a match.",
+          "The announced Season 2 parts events introduce another reason to check dates and eligibility. Do not assume future or event parts are permanently available before the update. Read the current item description and role restriction before replacing a working Online build."
+        ],
+        "links": [
+          {
+            "label": "Online aircraft and tactics",
+            "slug": "best-online-planes"
+          },
+          {
+            "label": "Season 2 event calendar",
+            "slug": "online-season-2"
+          }
+        ]
+      },
+      {
+        "id": "equip",
+        "heading": "How to Unlock, Buy and Equip Parts",
+        "paragraphs": [
+          "For campaign equipment, inspect the Aircraft Tree for the part and its prerequisite connections, then select available equipment through SELECT PARTS before sortie. Confirm the resulting build fits that aircraft’s category slots. The fact that an item is visible does not mean you have bought or equipped it.",
+          "When MRP is limited, buy for the next mission problem you understand. Compare the cost of a useful part with the aircraft or weapon you are also saving for. Record the build before changing it so you can return to the previous setup if the experiment does not help."
+        ],
+        "links": [
+          {
+            "label": "Aircraft choices",
+            "slug": "best-planes"
+          },
+          {
+            "label": "Campaign MRP planning",
+            "slug": "mrp-farming"
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "AC8 Database · extracted campaign and Online parts catalogue",
+            "url": "https://ac8-database.pages.dev/parts/"
+          },
+          {
+            "label": "AC8 Wiki · parts categories and sortie menu",
+            "url": "https://acecombat8.site/guides/parts-and-loadouts/"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are BODY, ARMS and MISC interchangeable slots?",
+        "answer": "No. Check the separate category allotments for the aircraft you are equipping."
+      },
+      {
+        "question": "Which part should I buy first?",
+        "answer": "Buy for the limitation you can identify. Standard-missile reload or guidance can help frequent missile use; handling is more useful when you cannot line up an attack."
+      },
+      {
+        "question": "Do standard-missile parts improve every special weapon?",
+        "answer": "Do not assume that. Read the weapon-family restriction; MSL and SP-weapon descriptions apply to different equipment."
+      },
+      {
+        "question": "Can I copy campaign parts directly into Online?",
+        "answer": "Check the Online aircraft, part inventory, progression and role restrictions first. A campaign build does not establish Online availability."
+      }
+    ],
+    "relatedSlugs": [
+      "best-planes",
+      "best-online-planes",
+      "mrp-farming"
+    ],
+    "lastReviewed": "2026-11-26"
   }
 ]

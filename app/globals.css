@@ -639,3 +639,11 @@ a:focus-visible, summary:focus-visible, button:focus-visible, [tabindex]:focus-v
   .guide-toc ul { grid-template-columns:1fr; }
 }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } a { transition:none; } }
+
+/* Batch four: keep aircraft links in their existing disclosure at desktop widths. */
+@media(min-width:1024px) {
+  .guide-tools-group>button { display:flex; }
+  .guide-tools-group>.guide-nav-panel { display:none; position:absolute; top:100%; left:0; width:230px; max-height:min(65vh,440px); overflow-y:auto; background:#15140f; padding:8px; border:1px solid #6d5e35; box-shadow:0 8px 24px #0008; }
+  .guide-tools-group>.guide-nav-panel.is-expanded { display:block; }
+  .guide-tools-group .guide-nav-panel a { padding:12px; }
+}
