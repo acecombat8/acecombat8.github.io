@@ -10,6 +10,7 @@ import { themes } from "@/config/themes";
 import { enabledLegalPages, visibleCorePages } from "@/content/registry";
 import { fontFaceCss } from "@/lib/fonts";
 import { rootMetadata } from "@/lib/seo";
+import { ManualAdsterra } from "@/components/integrations/manual-adsterra";
 import "./globals.css";
 
 export const metadata = rootMetadata();
@@ -46,6 +47,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <a href="#main-content" className="skip-link">Skip to content</a>
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
+        <ManualAdsterra />
         <SiteFooter coreLinks={[{ label: "Home", slug: "" }, ...navLinks]} legalLinks={legalLinks} />
         <SocialBar />
       </body>
